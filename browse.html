@@ -47,24 +47,72 @@ function showData()
 	points = line.split('\t');
 	table += "<tr>" //<td>"+counter+"</td>";
 	counter += 1;
-	for(i=0,p;p=points[i];i++)
+	for(j=0,p;p=points[j];j++)
 	{
-	  if(header[i] == 'OMEGAWIKI')
+	  if(header[j] == 'OMEGAWIKI')
 	  {
 	    var fill = '<a target="_blank" href="http://www.omegawiki.org/DefinedMeaning:'+p+'">'+p+'</a>';
 	  }
-	  else if(header[i] == 'SEEALSO')
+	  else if(header[j] == 'SEEALSO')
 	  {
-	    var fill = '';
-	    var fills = p.split(';');
-	    for(j=0,f;f=fills[j];j++)
+	    var fill_ar = [];
+	    if(p=='-')
 	    {
-	      fill += '<a target="_blank" href="http://www.omegawiki.org/DefinedMeaning:'+f+'">'+f+'</a> ';
+	      fill_ar.push('<span style="color:white">.</span>');
+	    }
+	    else
+	    {
+	      var fills = p.split(';');
+	      for(var k=0,f;f=fills[k];k++)
+	      {
+	        var tmp_fill = '<a target="_blank" href="http://www.omegawiki.org/DefinedMeaning:'+f+'">'+f+'</a> ';
+		fill_ar.push(tmp_fill);
+	      }
+	    }
+	    var fill = fill_ar.join(', ')
+	  }
+	  else if(header[j] == 'WOLD')
+	  {
+	    var fill_ar = [];
+	    if(p == '-')
+	    {
+	      fill_ar.push('<span style="color:white">.</span>');
+	    }
+	    else
+	    {
+	      var fills = p.split(';');
+	      for(var k=0,f; f=fills[k];k++)
+	      {
+		if(f != '-')
+		{
+		  var tmp_fill = '<a target="_blank" href="http://wold.livingsources.org/meaning/'+f.replace(/\./,"-")+'">'+f+'</a>';
+		  fill_ar.push(tmp_fill);
+		}
+	      }
+	    }
+	    if(fill_ar.length == 1)
+	    {
+	      var fill = fill_ar[0];
+	    }
+	    else if(fill_ar.length > 1)
+	    {
+	      var fill = '<span style="background-color:red">'+fill_ar.join(', ')+'</span>';
+	    }
+	    else
+	    {
+	      var fill = '<span style="color:white">.</span>';
 	    }
 	  }
-	  else if(header[i] == 'WOLD')
+	  else
 	  {
-	    var fill = '<a target="_blank" href="http://wold.livingsources.org/meaning/'+p.replace(/\./,"-")+'">'+p+'</a>';
+	    if(p != '-')
+	    {
+	      var fill = p;
+	    }
+	    else
+	    {
+	      var fill = '<span style="color:white">.</span>';
+	    }
 	  }
 	  table += '<td>'+fill+'</td>';
 	}
@@ -82,10 +130,10 @@ function showData()
 	var points = line.split('\t');
 	var table = '<table id="concepticon" border="1"><tr>'; //<th>'+points.join('</th><th>')+'</th></tr>';
 
-	for(i=0, p; p = points[i]; i++)
+	for(var j=0, p; p = points[j]; j++)
 	{
-	  header[i] = p;
-	  table += '<th id="'+p.lowerCase()+'">'+p+'</th>';
+	  header[j] = p;
+	  table += '<th id="'+p.toLowerCase()+'">'+p+'</th>';
 	}
 	table += '</tr>';
       }
@@ -102,7 +150,7 @@ function searchTable()
   for(var i=1, row; row=table.rows[i]; i++)
   {
     cell = row.cells[2];
-    if(cell.innerHTML.indexOf(text) == -1)
+    if(cell.innerHTML.indexOf(text.toUpperCase()) == -1)
     {
       row.style.display = "none";
     }
