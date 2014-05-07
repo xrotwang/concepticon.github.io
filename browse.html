@@ -22,6 +22,7 @@ function handleFileSelect(evt)
   reader.onload = function(e){store.innerText = reader.result;}
   reader.readAsText(file);
 }
+
 function showData()
 {
   var store = document.getElementById('store');
@@ -33,6 +34,8 @@ function showData()
 
   var start = 0;
   var counter = 0;
+  var header = {};
+
   for(i=0;i<lines.length;i++)
   {
     line = lines[i];
@@ -42,19 +45,49 @@ function showData()
       if(start == 1)
       {
 	points = line.split('\t');
-	table += "<tr><td>"+counter+"</td>";
+	table += "<tr>" //<td>"+counter+"</td>";
 	counter += 1;
-	table += '<td><a target="_blank" href="http://www.omegawiki.org/DefinedMeaning:'+points[0]+'">'+points[0]+'</a></td>';
-	table += '<td>'+points[1]+'</td>';
-	table += '<td><a target="_blank" href="http://wold.livingsources.org/meaning/'+points[2].replace(/\./,"-")+'">'+points[2]+'</a></td>';
-	table += '<td>'+points[3]+'</td>';
+	for(i=0,p;p=points[i];i++)
+	{
+	  if(header[i] == 'OMEGAWIKI')
+	  {
+	    var fill = '<a target="_blank" href="http://www.omegawiki.org/DefinedMeaning:'+p+'">'+p+'</a>';
+	  }
+	  else if(header[i] == 'SEEALSO')
+	  {
+	    var fill = '';
+	    var fills = p.split(';');
+	    for(j=0,f;f=fills[j];j++)
+	    {
+	      fill += '<a target="_blank" href="http://www.omegawiki.org/DefinedMeaning:'+f+'">'+f+'</a> ';
+	    }
+	  }
+	  else if(header[i] == 'WOLD')
+	  {
+	    var fill = '<a target="_blank" href="http://wold.livingsources.org/meaning/'+p.replace(/\./,"-")+'">'+p+'</a>';
+	  }
+	  table += '<td>'+fill+'</td>';
+	}
 	table += '</tr>';
+	//table += '<td><a target="_blank" href="http://www.omegawiki.org/DefinedMeaning:'+points[0]+'">'+points[0]+'</a></td>';
+	//table += '<td>'+points[1]+'</td>';
+	//table += '<td><a target="_blank" href="http://wold.livingsources.org/meaning/'+points[2].replace(/\./,"-")+'">'+points[2]+'</a></td>';
+	//table += '<td>'+points[3]+'</td>';
+	//table += '</tr>';
       }
       else
       {
 	start = 1;
 	counter = 1;
-	var table = '<table id="concepticon" border="1"><tr><th>Number</th><th>'+line.split('\t').join('</th><th>')+'</th></tr>';
+	var points = line.split('\t');
+	var table = '<table id="concepticon" border="1"><tr>'; //<th>'+points.join('</th><th>')+'</th></tr>';
+
+	for(i=0, p; p = points[i]; i++)
+	{
+	  header[i] = p;
+	  table += '<th id="'+p.lowerCase()+'">'+p+'</th>';
+	}
+	table += '</tr>';
       }
     }
   }
