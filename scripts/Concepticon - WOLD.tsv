@@ -121,11 +121,11 @@ UK	UNIQUE_GLOSS	ENGLISH_GLOSS	LWT_KEY	LWT_GLOSS	PART_OF_SPEECH	SEMANTIC_FIELD	OM
 123	THE OLDER SISTER	older sister	2.454	the older sister	Noun	Kinship	http://www.omegawiki.org/DefinedMeaning:older_sister_(7129)	e.g. My older sister is married, but my younger sister still lives at home.	older sister	hermana mayor		soeur ainée	<irmã mais velha>	große Schwester	<старшая сестра>
 124	THE YOUNGER SISTER	younger sister	2.455	the younger sister	Noun	Kinship	http://www.omegawiki.org/DefinedMeaning:妹妹_(7132)	e.g. My older sister is married, but my younger sister still lives at home.	younger sister	hermana menor		soeur cadette	<irmã mais nova>	kleine Schwester	<младшая сестра>
 125	THE SIBLING	sibling	2.456	the sibling	Noun	Kinship	http://www.omegawiki.org/DefinedMeaning:sibling_(6732)	e.g. I have two siblings, one brother and one sister.	sibling	hermano/hermana		frères et soeurs	<irmão, irmã>	Geschwister	<брат/сестра>
-126	THE OLDER SIBLING	older sibling	2.4561	the older sibling	Noun	Kinship	http://www.omegawiki.org/Expression:older_brother	e.g. My older sibling is married, but my younger sibling still lives at home.	older sibling	-	http://www.omegawiki.org/Expression:older_sister	-	-	ältere Geschwister	-
-127	THE YOUNGER SIBLING	younger sibling	2.4562	the younger sibling	Noun	Kinship	http://www.omegawiki.org/Expression:younger_brother	e.g. My older sibling is married, but my younger sibling still lives at home.	younger sibling	-	http://www.omegawiki.org/Expression:younger_sister	-	-	jüngere Geschwister	-
+126	THE OLDER SIBLING	older sibling	2.4561	the older sibling	Noun	Kinship	http://www.omegawiki.org/DefinedMeaning:哥哥_(7130)	e.g. My older sibling is married, but my younger sibling still lives at home.	older sibling	-	http://www.omegawiki.org/Expression:older_sister	-	-	ältere Geschwister	-
+127	THE YOUNGER SIBLING	younger sibling	2.4562	the younger sibling	Noun	Kinship	http://www.omegawiki.org/DefinedMeaning:弟弟_(7131)	e.g. My older sibling is married, but my younger sibling still lives at home.	younger sibling	-	http://www.omegawiki.org/Expression:younger_sister	-	-	jüngere Geschwister	-
 128	THE TWINS	twins	2.458	the twins	Noun	Kinship	http://www.omegawiki.org/DefinedMeaning:twin_(431713)		twins	gemelos		jumeaux	<gêmeos>	Zwillinge	<близнецы>
 129	THE GRANDFATHER	grandfather	2.46	the grandfather	Noun	Kinship	http://www.omegawiki.org/DefinedMeaning:grandfather_(5953)	e.g. My grandfather is 80 years old.	grandfather	abuelo		grand-père	<avô>	Großvater	<дедушка>
-130	THE OLD MAN	old man	2.461	the old man	Noun	Kinship	http://www.omegawiki.org/Expression:old_man	e.g. That old man looks like my grandfather.	old man	hombre viejo		vieillard	<velho>	Greis	<старик>
+130	THE OLD MAN	old man	2.461	the old man	Noun	Kinship	http://www.omegawiki.org/DefinedMeaning:old_man_(1526622)	e.g. That old man looks like my grandfather.	old man	hombre viejo		vieillard	<velho>	Greis	<старик>
 131	THE GRANDMOTHER	grandmother	2.47	the grandmother	Noun	Kinship	http://www.omegawiki.org/DefinedMeaning:grandmother_(6247)	e.g. My grandmother is 70 years old.	grandmother	abuela		grand-mère	<avó>	Großmutter	<бабушка>
 132	THE OLD WOMAN	old woman	2.471	the old woman	Noun	Kinship	http://www.omegawiki.org/DefinedMeaning:баба_(385678)	e.g. That old woman looks like my grandmother.	old woman	mujer vieja		vieille femme	<velha>	Greisin	<старуха>
 133	THE GRANDPARENTS	grandparents	2.4711	the grandparents	Noun	Kinship	http://www.omegawiki.org/DefinedMeaning:grandparents_(1510376)	e.g. Only one of my grandparents is still alive.	grandparents	abuelos		grands-parents	avós	Großeltern	-
@@ -168,7 +168,7 @@ UK	UNIQUE_GLOSS	ENGLISH_GLOSS	LWT_KEY	LWT_GLOSS	PART_OF_SPEECH	SEMANTIC_FIELD	OM
 170	THOU	thou	2.92	you (singular)	Function word	Kinship	http://www.omegawiki.org/DefinedMeaning:you_(5459)		you (singular)	tú, usted		tu	<tu, você>	du	<ты, вы>
 171	HE/SHE/IT (3RD PERSON MARKER)	he/she/it	2.93	he/she/it	Function word	Kinship	http://www.omegawiki.org/DefinedMeaning:he/she/it_(1505714)	(third person singular pronoun, regardless of gender/sex)	he/she/it	él/ella/ello		il, elle, il	<ele/ela/ele (ou ela)>	er, sie, es	<он/она/оно>
 172	HE	he	2.931	he	Function word	Kinship	http://www.omegawiki.org/DefinedMeaning:I_(5454)		he	él		il	-	er	-
-173	SHE	she	2.932	she	Function word	Kinship	http://www.omegawiki.org/Expression:she		she	ella		elle	-	sie	-
+173	SHE	she	2.932	she	Function word	Kinship	http://www.omegawiki.org/DefinedMeaning:she_(7667)		she	ella		elle	-	sie	-
 174	IT	it	2.933	it	Function word	Kinship	http://www.omegawiki.org/DefinedMeaning:it_(1370660)		it	ello		il	-	es	-
 175	WE	we	2.94	we	Function word	Kinship	http://www.omegawiki.org/DefinedMeaning:he_(5455)		we	nosotros/nosotras		nous	<nós>	wir	<мы>
 176	WE (INCLUSIVE)	we	2.941	we (inclusive)	Function word	Kinship	http://www.omegawiki.org/DefinedMeaning:kita_(496905)		we (inclusive)	nosotros/nosotras (inclusivo)		nous	<nós>	wir	<мы (инкл.)>
@@ -227,7 +227,7 @@ UK	UNIQUE_GLOSS	ENGLISH_GLOSS	LWT_KEY	LWT_GLOSS	PART_OF_SPEECH	SEMANTIC_FIELD	OM
 235	THE BIRD	bird	3.581	the bird	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:bird_(400)		bird	pájaro, ave		oiseau	<pássaro, ave>	Vogel	<птица>
 236	THE SEAGULL	seagull	3.582	the seagull	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:gull_(412090)		seagull	gaviota		mouette	<gaivota>	Möwe	<чайка>
 237	THE HERON	heron	3.583	the heron	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:heron_(342235)		heron	garza		héron	<garça>	Reiher	<цапля (больш. птица)>
-238	THE EAGLE	eagle	3.584	the eagle	Noun	Animals	http://www.omegawiki.org/Expression:eagle		eagle	águila		aigle	<águia>	Adler	<орел>
+238	THE EAGLE	eagle	3.584	the eagle	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:eagle_(838154)		eagle	águila		aigle	<águia>	Adler	<орел>
 239	THE HAWK	hawk	3.585	the hawk	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:hawk_(1510384)		hawk	halcón		faucon	<falcão>	Falke	<ястреб, сокол>
 240	THE VULTURE	vulture	3.586	the vulture	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:vulture_(531741)		vulture	buitre		vautour	<urubu, abutre>	Geier	<гриф>
 241	THE BAT	bat	3.591	the bat	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:bat_(7344)		bat	murciélago		chauve-souris	<morcego>	Fledermaus	<летучая мышь>
@@ -609,7 +609,7 @@ UK	UNIQUE_GLOSS	ENGLISH_GLOSS	LWT_KEY	LWT_GLOSS	PART_OF_SPEECH	SEMANTIC_FIELD	OM
 625	THE FERMENTED DRINK	fermented drink	5.94	the fermented drink	Noun	Food and drink	http://www.omegawiki.org/DefinedMeaning:fermented_drink_(1525942)		fermented drink	bebida fermentada		<boisson fermentée>	<bebida fermentada>	<most; fermentiertes getränk>	<брага>
 626	THE EGG	egg	5.97	the egg	Noun	Food and drink	http://www.omegawiki.org/DefinedMeaning:egg_(340828)		egg	huevo		<oeuf>	<ovo>	<ei>	<яйцо>
 627	THE YOLK	yolk	5.971	the yolk	Noun	Food and drink	http://www.omegawiki.org/DefinedMeaning:yolk_(6404)	the yellow part in the centre of an egg	yolk	yema (de huevo)		<jaune d'oeuf>	<gema (de ovo)>	<dotter; ei-gelb>	<желток>
-628	THE MANIOC BREAD	manioc bread	5.983	the manioc bread	Noun	Food and drink	http://www.omegawiki.org/Expression:manioc_bread		manioc bread	casabe ?		-	-	-	-
+628	THE MANIOC BREAD	manioc bread	5.983	the manioc bread	Noun	Food and drink	http://www.omegawiki.org/DefinedMeaning:manioc_bread_(1526633)		manioc bread	casabe ?		-	-	-	-
 629	THE FIG TREE	fig tree	5.99901	the fig tree	Noun	Food and drink	http://www.omegawiki.org/DefinedMeaning:fig_tree_(1510506)		fig tree	higuera		-	-	-	-
 630	SATED	sated	5.99902	sated	Adjective	Food and drink	http://www.omegawiki.org/DefinedMeaning:satt_(1188869)	satiated, full up	sated	saciado		-	-	-	-
 631	THE SOY SAUCE	soy sauce	5.99903	the soy sauce	Noun	Food and drink	http://www.omegawiki.org/DefinedMeaning:Sojasauce_(909894)		soy sauce	salsa de soja, sillao		-	-	-	-
@@ -717,7 +717,7 @@ UK	UNIQUE_GLOSS	ENGLISH_GLOSS	LWT_KEY	LWT_GLOSS	PART_OF_SPEECH	SEMANTIC_FIELD	OM
 733	THE TENT	tent	7.14	the tent	Noun	The house	http://www.omegawiki.org/DefinedMeaning:tent_(5770)		tent	tienda de campaña		<tente>	<tenda, barraca>	<zelt>	<палатка>
 734	THE YARD	yard	7.15	the yard or court	Noun	The house	http://www.omegawiki.org/DefinedMeaning:yard_(339642)	enclosed area atttached to a house, whether outside or an inner court	yard or court	patio		<cour>	<quintal, pátio>	<hof>	<двор>
 735	THE COURT	court	7.15	the yard or court	Noun	The house	http://www.omegawiki.org/DefinedMeaning:courtyard_(1017244)	enclosed area atttached to a house, whether outside or an inner court	yard or court	cancha, patio		<cour>	<quintal, pátio>	<hof>	<двор>
-736	THE MEN'S HOUSE	men's house	7.16	the men's house	Noun	The house	http://www.omegawiki.org/Expression:mens_house		men's house	casa de hombres		<maison réservée aux hommes>	<casa de homens>	<[männerhaus]>	<дом для мужчин>
+736	THE MEN'S HOUSE	men's house	7.16	the men's house	Noun	The house	http://www.omegawiki.org/DefinedMeaning:mens_house_(1526639)		men's house	casa de hombres		<maison réservée aux hommes>	<casa de homens>	<[männerhaus]>	<дом для мужчин>
 737	THE COOKHOUSE	cookhouse	7.17	the cookhouse	Noun	The house	http://www.omegawiki.org/DefinedMeaning:cookhouse_(1510578)		cookhouse	cocina ?		<cuisine>	<cozinha>	<>	<кухня (помещение)>
 738	THE MEETING HOUSE	meeting house	7.18	the meeting house	Noun	The house	http://www.omegawiki.org/DefinedMeaning:meetinghouse_(1510584)		meeting house	casa de reunión		<maison de réunion>	<casa de reunião>	<gemeinschafts-haus>	<дом для собраний>
 739	THE ROOM	room	7.21	the room	Noun	The house	http://www.omegawiki.org/DefinedMeaning:room_(6065)		room	habitación, cuarto, pieza	http://www.omegawiki.org/DefinedMeaning:room_(1395184), http://www.omegawiki.org/DefinedMeaning:room_(1395187)	<piéce>	<quarto, peça>	<zimmer; stube; gemach>	<комната>
@@ -824,7 +824,7 @@ UK	UNIQUE_GLOSS	ENGLISH_GLOSS	LWT_KEY	LWT_GLOSS	PART_OF_SPEECH	SEMANTIC_FIELD	OM
 840	THE PIPE	pipe	8.691	the pipe	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:Tabakspfeife_(489864)	for smoking	pipe	pipa		<pipe>	<cachimbo>	<pfeife>	<трубка>
 841	THE TREE STUMP	tree stump	8.72	the tree stump	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:tree_stump_(1490199)		tree stump	tocón, cepa		<souche d'arbre>	<toco>	<stumpf>	<пень>
 842	THE TREE TRUNK	tree trunk	8.73	the tree trunk	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:tree_trunk_(1510861)		tree trunk	tronco (de árbol)		<tronc d'arbre>	<tronco>	<(baum)stamm>	<ствол дерева>
-843	THE FORKED BRANCH	forked branch	8.74	the forked branch	Noun	Agriculture and vegetation	http://www.omegawiki.org/Expression:forked_branch		forked branch	rama bifurcada		<branche fourchue, branche bifurquée>	<rama bifurcada>	Astgabel	<ветка с развилкой>
+843	THE FORKED BRANCH	forked branch	8.74	the forked branch	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:forked_branch_(1526645)		forked branch	rama bifurcada		<branche fourchue, branche bifurquée>	<rama bifurcada>	Astgabel	<ветка с развилкой>
 844	THE BARK	bark	8.75	the bark	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:long_(5439)		bark	corteza		<écorce>	<casca>	<rinde; borke>	<кора>
 845	THE SAP	sap	8.76	the sap	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:sap_(1510865)	e.g. The farmers collected the sap from the maple trees to make syrup.	sap	savia		<sève>	<seiva>	<saft>	<сок растений>
 846	THE PALM TREE	palm tree	8.81	the palm tree	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:palm_(528656)	e.g. Dates grow on palm trees.	palm tree	palmera, palma		<palmier>	<palmeira>	<palme>	<пальма>
@@ -835,10 +835,10 @@ UK	UNIQUE_GLOSS	ENGLISH_GLOSS	LWT_KEY	LWT_GLOSS	PART_OF_SPEECH	SEMANTIC_FIELD	OM
 851	THE SWEET POTATO	sweet potato	8.91	the sweet potato	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:sweet_potato_(1336889)		sweet potato	camote, batata, boniato		<patate douce>	<batata doce>	<batate>	<батат>
 852	THE MILLET	millet	8.911	the millet or sorghum	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:millet_(397763)		millet or sorghum	mijo		-	-	-	-
 853	THE SORGHUM	sorghum	8.911	the millet or sorghum	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:sorghum_(1510873)		millet or sorghum	sorgo		-	-	-	-
-854	THE YAM	yam	8.912	the yam	Noun	Agriculture and vegetation	http://www.omegawiki.org/Expression:yam		yam	ñame		igname	<inhame, cará>	Jams, Jamswurzel	<ямс (разн. батата)>
+854	THE YAM	yam	8.912	the yam	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:yam_(1526651)		yam	ñame		igname	<inhame, cará>	Jams, Jamswurzel	<ямс (разн. батата)>
 855	THE CASSAVA	cassava	8.92	the cassava/manioc	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:cassava_(395385)	the tuber, rather than its plant or products	cassava/manioc	manioc		<manioc>	<mandioca>	<tapioka>	<тапиока (крупа), маниока>
 856	THE MANIOC	manioc	8.92	the cassava/manioc	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:manioc_(395809)	the tuber, rather than its plant or products	cassava/manioc	manioc		<manioc>	<mandioca>	<tapioka>	<тапиока (крупа), маниока>
-857	THE GOURD	gourd	8.93	the gourd	Noun	Agriculture and vegetation	http://www.omegawiki.org/Expression:gourd		gourd	calabaza		<calebasse>	<cabaça>	<(flaschen)kürbiss>	<бутылочная тыква (разновидность)>
+857	THE GOURD	gourd	8.93	the gourd	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:gourd_(1526657)		gourd	calabaza		<calebasse>	<cabaça>	<(flaschen)kürbiss>	<бутылочная тыква (разновидность)>
 858	THE PUMPKIN	pumpkin	8.931	the pumpkin or squash	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:pumpkin_(366683)		pumpkin or squash	zapallo, calabaza		<courge, potiron, citrouille>	<abóbora>	<kürbis>	<тыква>
 859	THE SQUASH	squash	8.931	the pumpkin or squash	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:pumpkin_(366683)		pumpkin or squash	calabaza		<courge, potiron, citrouille>	<abóbora>	<kürbis>	<тыква>
 860	THE BAMBOO	bamboo	8.94	the bamboo	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:bamboo_(848903)		bamboo	bambú		<bambou>	<bambu>	<bambus>	<бамбук>
@@ -973,7 +973,7 @@ UK	UNIQUE_GLOSS	ENGLISH_GLOSS	LWT_KEY	LWT_GLOSS	PART_OF_SPEECH	SEMANTIC_FIELD	OM
 989	TO PLAIT/BRAID	plait/braid	9.75	to weave or plait/braid	Verb	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:couette_(447700)	weave (a basket) or plait/braid (someone’s hair)	to weave or plait/braid	<<tejer, trenzar>>		<tisser, tresser>	<tecer>	<flechten>	<ткать>
 990	THE BASKET	basket	9.76	the basket	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:basket_(6368)	e.g. She carried the fruit home in a basket.	basket	<<cesto, canasto, canasta>>		<panier>	<cesto, cesta>	<korb>	<корзина>
 991	THE MAT	mat	9.77	the mat	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:mat_(1405241)	a small piece of thick rough material which covers part of the floor	mat	<<estera>>		<natte>	<tapete>	<matte>	<циновка>
-992	THE RUG	rug	9.771	the rug	Noun	Basic actions and technology	http://www.omegawiki.org/Expression:rug?explang=85	a piece of thick cloth or wool that is smaller than a carpet and is put on the floor as decoration	rug	<<tapete, alfombra>>		<tapis>	<tapete, carpete>	<teppich>	<ковер, плед>
+992	THE RUG	rug	9.771	the rug	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:rug_(1507427)	a piece of thick cloth or wool that is smaller than a carpet and is put on the floor as decoration	rug	<<tapete, alfombra>>		<tapis>	<tapete, carpete>	<teppich>	<ковер, плед>
 993	THE NETBAG	netbag	9.78	the netbag	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:netbag_(1507431)	bag made of net used in Papua to carry things	netbag	<<bolsa de malla>>		<filet>	<saco>	<netz>	<сетчатая сумка>
 994	THE FAN	fan	9.79	the fan	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:ventilateur_(912239)	e.g. The lady had a delicate fan made of sandalwood.	fan	<<abanico>>	http://www.omegawiki.org/DefinedMeaning:abanico_(898076)	<éventail>	<ventilador>	<fächer>	<веер, вентилятор>
 995	TO FAN	fan	9.791	to fan	Verb	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:fan_(1510960)	e.g. People in the audience were fanning themselves with their programmes.	to fan	<<abanicar, aventar>>		<s'éventer>	<ventilar, abanar>	<fächeln>	<освежать, обмахивать (веером)>
@@ -986,7 +986,7 @@ UK	UNIQUE_GLOSS	ENGLISH_GLOSS	LWT_KEY	LWT_GLOSS	PART_OF_SPEECH	SEMANTIC_FIELD	OM
 1002	TO PAINT	paint	9.89	to paint	Verb	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:paint_(959903)	put paint on a surface	to paint	<<pintar>>		<peindre>	<pintar>	<malen; an-streichen>	<красить, рисовать (краской)>
 1003	TO DRAW WATER	draw water	9.9	to draw water	Verb	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:attract_(840722)	e.g. She lowered the bucket into the well and drew water.	to draw water	-	http://www.omegawiki.org/DefinedMeaning:draw_(339936)	-	-	-	-
 1004	THE PEG	peg	9.91	the peg	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:peg_(1510964)	e.g. The scouts fastened the tent to the ground with wooden pegs.	peg	-		-	-	-	-
-1005	THE TUMPLINE	tumpline	9.92	the tumpline	Noun	Basic actions and technology	http://www.omegawiki.org/Expression:tumpline	a strap slung over the forehead or chest used (especially by native Americans) for carrying packs or loads	tumpline	-		-	-	-	-
+1005	THE TUMPLINE	tumpline	9.92	the tumpline	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:tumpline_(1507435)	a strap slung over the forehead or chest used (especially by native Americans) for carrying packs or loads	tumpline	-		-	-	-	-
 1006	THE WHETSTONE	whetstone	9.93	the whetstone	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:whetstone_(1507439)	Before cutting the meat, he sharpened his knife with a whetstone.	whetstone	-		-	-	-	-
 1007	THE BARREL	barrel	9.99901	the barrel	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:barrel_(1501251)		barrel	-		-	-	-	-
 1008	THE BASKETRY	basketry	9.99902	the basketry	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:basketry_(1510968)		basketry	-		-	-	-	-
@@ -1029,7 +1029,7 @@ UK	UNIQUE_GLOSS	ENGLISH_GLOSS	LWT_KEY	LWT_GLOSS	PART_OF_SPEECH	SEMANTIC_FIELD	OM
 1045	TO WRAP	wrap	10.14	to wrap	Verb	Motion	http://www.omegawiki.org/DefinedMeaning:avvolgere_(483089)	e.g. He wrapped the fish in leaves and steamed it.	to wrap	<<enrollar, envolver>>		<enrouler, envelopper>	<envolver, enrolar>	<winden; wickeln>	<обертывать>
 1046	TO ROLL	roll	10.15	to roll	Verb	Motion	http://www.omegawiki.org/DefinedMeaning:bank_(354681)	e.g. He rolled the log down the hill.	to roll	<<rodar, arrollar, enrollar>>		<rouler>	<rolar>	<wälzen; rollen>	<вращать>
 1047	TO DROP	drop	10.16	to drop	Verb	Motion	http://www.omegawiki.org/DefinedMeaning:drop_(348656)	e.g. We dropped the stone into the water.	to drop	<<dejar caer>>		<laisser tomber>	<deixar cair>	<fallenlassen>	<капать>
-1048	TO TWIST	twist	10.17	to twist	Verb	Motion	http://www.omegawiki.org/Expression:twist	e.g. She twisted the wire around the branch.	to twist	<<torcer>>		<tordre>	<torcer>	<drehen; zwirnen; flechten>	<скручивать>
+1048	TO TWIST	twist	10.17	to twist	Verb	Motion	http://www.omegawiki.org/DefinedMeaning:row_(7805)	e.g. She twisted the wire around the branch.	to twist	<<torcer>>		<tordre>	<torcer>	<drehen; zwirnen; flechten>	<скручивать>
 1049	TO RISE	rise	10.21	to rise	Verb	Motion	http://www.omegawiki.org/DefinedMeaning:sorgere_(630856)	e.g. The sun rises in the east.	to rise	<<ascender>>		<monter, se lever>	<subir>	<auf-stehen; sich erheben; (auf)steigen>	<подниматься, восходить>
 1050	TO RAISE	raise	10.22	to raise or lift	Verb	Motion	http://www.omegawiki.org/DefinedMeaning:raise_(5772)		to raise or lift	<<levantar>>		<lever, élever>	<levantar, içar>	<(auf)heben>	<поднимать>
 1051	TO LIFT	lift	10.22	to raise or lift	Verb	Motion	http://www.omegawiki.org/DefinedMeaning:lift_(156785)		to raise or lift	<<levantar>>		<lever, élever>	<levantar, içar>	<(auf)heben>	<поднимать>
@@ -1076,10 +1076,10 @@ UK	UNIQUE_GLOSS	ENGLISH_GLOSS	LWT_KEY	LWT_GLOSS	PART_OF_SPEECH	SEMANTIC_FIELD	OM
 1092	TO GO	go	10.58	to go or return home	Verb	Motion	http://www.omegawiki.org/DefinedMeaning:go_(334831)		to go or return home	-		-	-	-	-
 1093	TO RETURN HOME	return home	10.58	to go or return home	Verb	Motion	http://www.omegawiki.org/DefinedMeaning:rentrer_(1300468)		to go or return home	-		-	-	-	-
 1094	TO CARRY	carry	10.61	to carry	Verb	Motion	http://www.omegawiki.org/DefinedMeaning:carry_(335263)		to carry	<<llevar, cargar>>		<porter>	<levar>	<tragen>	<нести>
-1095	TO CARRY IN HAND	carry in hand	10.612	to carry in hand	Verb	Motion	http://www.omegawiki.org/Expression:carry_in_hand		to carry in hand	<<llevar en la mano>>		<porter (dans la main)>	<levar na mão>	<(in der hand)tragen>	<нести, переносить в руках>
-1096	TO CARRY ON SHOULDER	carry on shoulder	10.613	to carry on shoulder	Verb	Motion	http://www.omegawiki.org/Expression:carry_on_shoulder		to carry on shoulder	<<llevar a la espalda/ en el hombro>>		<porter (sur l'épaule)>	<levar no ombro>	<(auf der schulter)tragen>	<нести, переносить на плечах>
-1097	TO CARRY ON HEAD	carry on head	10.614	to carry on head	Verb	Motion	http://www.omegawiki.org/Expression:carry_on_head		to carry on head	<<llevar sobre la cabeza>>		<porter (sur la tête)>	<levar na cabeça>	<(auf dem kopf)tragen>	<нести, переносить на голове>
-1098	TO CARRY UNDER THE ARM	carry under the arm	10.615	to carry under the arm	Verb	Motion	http://www.omegawiki.org/Expression:carry_under_the_arm		to carry under arm	<<llevar bajo el brazo>>		<porter (sous le bras)>	<levar debaixo do braço>	<(unter dem arm)tragen>	<нести подмышкой>
+1095	TO CARRY IN HAND	carry in hand	10.612	to carry in hand	Verb	Motion	http://www.omegawiki.org/DefinedMeaning:carry_in_hand_(1527192)		to carry in hand	<<llevar en la mano>>		<porter (dans la main)>	<levar na mão>	<(in der hand)tragen>	<нести, переносить в руках>
+1096	TO CARRY ON SHOULDER	carry on shoulder	10.613	to carry on shoulder	Verb	Motion	http://www.omegawiki.org/DefinedMeaning:carry_on_shoulder_(1527196)		to carry on shoulder	<<llevar a la espalda/ en el hombro>>		<porter (sur l'épaule)>	<levar no ombro>	<(auf der schulter)tragen>	<нести, переносить на плечах>
+1097	TO CARRY ON HEAD	carry on head	10.614	to carry on head	Verb	Motion	http://www.omegawiki.org/DefinedMeaning:carry_on_head_(1527200)		to carry on head	<<llevar sobre la cabeza>>		<porter (sur la tête)>	<levar na cabeça>	<(auf dem kopf)tragen>	<нести, переносить на голове>
+1098	TO CARRY UNDER THE ARM	carry under the arm	10.615	to carry under the arm	Verb	Motion	http://www.omegawiki.org/DefinedMeaning:carry_under_the_arm_(1527204)		to carry under arm	<<llevar bajo el brazo>>		<porter (sous le bras)>	<levar debaixo do braço>	<(unter dem arm)tragen>	<нести подмышкой>
 1099	TO BRING	bring	10.62	to bring	Verb	Motion	http://www.omegawiki.org/DefinedMeaning:bring_(334503)		to bring	<<traer>>		<apporter, amener>	<trazer>	<bringen; holen>	<приносить>
 1100	TO SEND	send	10.63	to send	Verb	Motion	http://www.omegawiki.org/DefinedMeaning:send_(493075)		to send	<<enviar, mandar>>		<envoyer>	<enviar, mandar>	<schicken; senden>	<посылать>
 1101	TO LEAD	lead	10.64	to lead	Verb	Motion	http://www.omegawiki.org/DefinedMeaning:liderar_(471268)		to lead	<<guiar>>		<mener, conduire>	<conduzir, guiar>	<führen; leiten>	<вести>
@@ -1099,7 +1099,7 @@ UK	UNIQUE_GLOSS	ENGLISH_GLOSS	LWT_KEY	LWT_GLOSS	PART_OF_SPEECH	SEMANTIC_FIELD	OM
 1115	THE SHIP	ship	10.81	the ship	Noun	Motion	http://www.omegawiki.org/DefinedMeaning:ship_(3403)		ship	<<buque, barco>>	http://www.omegawiki.org/DefinedMeaning:buque_(849230)	<navire, bateau>	<navio>	<schiff>	<корабль, судно>
 1116	THE BOAT	boat	10.83	the boat	Noun	Motion	http://www.omegawiki.org/DefinedMeaning:boat_(7774)		boat	<<bote>>		<bateau>	<bote, barco>	<boot (kahn; nachen)>	<лодка>
 1117	THE CANOE	canoe	10.831	the canoe	Noun	Motion	http://www.omegawiki.org/DefinedMeaning:canoe_(911657)		canoe	<<canoa>>		<canoe, pirogue>	<canoa>	<[kanu]>	<каноэ>
-1118	THE OUTRIGGER	outrigger	10.832	the outrigger	Noun	Motion	http://www.omegawiki.org/Expression:outrigger		outrigger	<<batanga>>		<balancier>	<jangada>	<ausleger>	<шлюпка с выносными уключинами>
+1118	THE OUTRIGGER	outrigger	10.832	the outrigger	Noun	Motion	http://www.omegawiki.org/DefinedMeaning:outrigger_(1527208)		outrigger	<<batanga>>		<balancier>	<jangada>	<ausleger>	<шлюпка с выносными уключинами>
 1119	THE RAFT	raft	10.84	the raft	Noun	Motion	http://www.omegawiki.org/DefinedMeaning:radeau_(6853)		raft	<<balsa>>		<radeau>	<balsa>	<floss>	<плот>
 1120	THE OAR	oar	10.85	the oar	Noun	Motion	http://www.omegawiki.org/DefinedMeaning:paddle_(1478129)		oar	<<remo>>		<rame>	<remo>	<ruder>	<весло>
 1121	THE PADDLE	paddle	10.851	the paddle	Noun	Motion	http://www.omegawiki.org/DefinedMeaning:paddle_(1478129)		paddle	<<remo corto>>		<pagaie>	<remo>	<paddel>	<весло (байдарочный гребок)>
@@ -1286,9 +1286,9 @@ UK	UNIQUE_GLOSS	ENGLISH_GLOSS	LWT_KEY	LWT_GLOSS	PART_OF_SPEECH	SEMANTIC_FIELD	OM
 1302	SECOND	second	13.36	second	Function word	Quantity	http://www.omegawiki.org/DefinedMeaning:second_(5958)	e.g. You are the second person I see today.	second	<<segundo>>		<deuxième>	<segundo>	<zweite>	<второй>
 1303	THE PAIR	pair	13.37	the pair	Noun	Quantity	http://www.omegawiki.org/DefinedMeaning:pair_(8187)	two things of the same kind that are used together	pair	<<par>>		<couple, paire>	<par>	<ein paar>	<пара>
 1304	TWICE	twice	13.38	twice/two times	Function word	Quantity	http://www.omegawiki.org/DefinedMeaning:twice_(6389)	e.g. He came over twice today.	twice/two times	<<dos veces>>		<deux fois>	<duas vezes>	<zweimal>	<два раза>
-1305	TWO TIMES	two times	13.38	twice/two times	Function word	Quantity	http://www.omegawiki.org/Expression:twice	e.g. He came over twice today.	twice/two times	<<dos veces>>		<deux fois>	<duas vezes>	<zweimal>	<два раза>
+1305	TWO TIMES	two times	13.38	twice/two times	Function word	Quantity	http://www.omegawiki.org/DefinedMeaning:twice_(6389)	e.g. He came over twice today.	twice/two times	<<dos veces>>		<deux fois>	<duas vezes>	<zweimal>	<два раза>
 1306	THIRD	third	13.42	third	Function word	Quantity	http://www.omegawiki.org/DefinedMeaning:third_(7979)	e.g. You are the third person I see today.	third	<<tercero>>		<troisième>	<terceiro>	<dritte>	<третий>
-1307	THREE TIMES	three times	13.44	three times	Function word	Quantity	http://www.omegawiki.org/Expression:triply	He came over three times today.	three times	<<tres veces>>		<trois fois>	<três vezes>	<dreimal>	<три раза>
+1307	THREE TIMES	three times	13.44	three times	Function word	Quantity	http://www.omegawiki.org/DefinedMeaning:triply_(1527212)	He came over three times today.	three times	<<tres veces>>		<trois fois>	<três vezes>	<dreimal>	<три раза>
 1308	A LITTLE	a little	13.99901	a little	Function word	Quantity	http://www.omegawiki.org/DefinedMeaning:ligeramente_(904463)		a little	-		-	-	-	-
 1309	BY	by	13.99902	by	Function word	Quantity	? unklare Bedeutung		by	-		-	-	-	-
 1310	EACH	each	13.99903	each or every	Function word	Quantity	http://www.omegawiki.org/DefinedMeaning:not_(5496)		each or every	-		-	-	-	-
@@ -1322,7 +1322,7 @@ UK	UNIQUE_GLOSS	ENGLISH_GLOSS	LWT_KEY	LWT_GLOSS	PART_OF_SPEECH	SEMANTIC_FIELD	OM
 1338	OFTEN	often	14.32	often	Function word	Time	http://www.omegawiki.org/DefinedMeaning:often_(7834)	e.g. He often comes late, but today he's on time.	often	<<a menudo, frecuentemente>>		<souvent>	<amiúde>	<oft; häufig>	<часто>
 1339	SOMETIMES	sometimes	14.33	sometimes	Function word	Time	http://www.omegawiki.org/DefinedMeaning:sometimes_(6387)	e.g. Sometimes he comes late, but more often he's on time.	sometimes	<<a veces>>		<quelquefois>	<às vezes>	<zu-weilen; bis-weilen>	<иногда>
 1340	SOON	soon	14.331	soon	Function word	Time	http://www.omegawiki.org/DefinedMeaning:bient%C3%B4t_(335437)	e.g. Don't go yet, he'll be here soon.	soon	<<pronto>>		<bientôt>	<em breve>	<bald>	<скоро>
-1341	FOR A LONG TIME	for a long time	14.332	for a long time	Function word	Time	http://www.omegawiki.org/Expression:for_a_long_time	e.g. He waited for a long time, but she never came	for a long time	<<por mucho tiempo>>		<longtemps>	<por muito tempo>	<lange>	<долгосрочный>
+1341	FOR A LONG TIME	for a long time	14.332	for a long time	Function word	Time	http://www.omegawiki.org/DefinedMeaning:for_a_long_time_(1527216)	e.g. He waited for a long time, but she never came	for a long time	<<por mucho tiempo>>		<longtemps>	<por muito tempo>	<lange>	<долгосрочный>
 1342	NEVER	never	14.34	never	Function word	Time	http://www.omegawiki.org/DefinedMeaning:never_(6814)	I never eat pork.	never	<<nunca, jamás>>		<jamais>	<nunca, jamais>	<nie; niemals; nimmer>	<никогда>
 1343	AGAIN	again	14.35	again	Function word	Time	http://www.omegawiki.org/DefinedMeaning:again_(1412012)	e.g. I was there yesterday, but today I'm going again.	again	<<otra vez>>	http://www.omegawiki.org/DefinedMeaning:again_(6952)	<encore>	<outra vez, de novo>	<wieder(um); nochmal(s); abermal(s)>	<опять, снова>
 1344	THE DAY (OPPOSED TO NIGHT)	day	14.41	the day(1)	Noun	Time	http://www.omegawiki.org/DefinedMeaning:liver_(5477)	as opposed to 'night'	day(1)	<<día>>		<jour>	<dia>	<tag>	<день>
@@ -1517,7 +1517,7 @@ UK	UNIQUE_GLOSS	ENGLISH_GLOSS	LWT_KEY	LWT_GLOSS	PART_OF_SPEECH	SEMANTIC_FIELD	OM
 1533	TO SUSPECT	suspect	17.44	to suspect	Verb	Cognition	http://www.omegawiki.org/DefinedMeaning:suspect_(7724)		to suspect	<<sospechar>>	http://www.omegawiki.org/DefinedMeaning:suspect_(1408367)	<soupçonner>	<suspeitar>	<ver-dacht; argwohn>	<подозревать>
 1534	TO BETRAY	betray	17.441	to betray	Verb	Cognition	http://www.omegawiki.org/DefinedMeaning:betray_(837839)		to betray	<<traicionar>>	http://www.omegawiki.org/DefinedMeaning:tromper_(1415512)	<trahir>	<trair>	<verraten>	<предавать>
 1535	THE NEED	need	17.45	the need or necessity	Noun	Cognition	http://www.omegawiki.org/DefinedMeaning:need_(2497)		need or necessity	<<necesidad>>	http://www.omegawiki.org/DefinedMeaning:fabbisogno_(447380)	<besoin, nécessité>	<precisar, necessidade>	<not; notwendigkeit; bedürfnis>	<необходимость>
-1536	THE NECESSITY	necessity	17.45	the need or necessity	Noun	Cognition	http://www.omegawiki.org/Expression:necessity		need or necessity	<<necesidad>>		<besoin, nécessité>	<precisar, necessidade>	<not; notwendigkeit; bedürfnis>	< необходимость>
+1536	THE NECESSITY	necessity	17.45	the need or necessity	Noun	Cognition	http://www.omegawiki.org/DefinedMeaning:necessity_(1538973)		need or necessity	<<necesidad>>		<besoin, nécessité>	<precisar, necessidade>	<not; notwendigkeit; bedürfnis>	< необходимость>
 1537	EASY	easy	17.46	easy	Adjective	Cognition	http://www.omegawiki.org/DefinedMeaning:easy_(333916)		easy	<<fácil>>		<facile>	<fácil>	<leicht>	<легкий>
 1538	DIFFICULT	difficult	17.47	difficult	Adjective	Cognition	http://www.omegawiki.org/DefinedMeaning:moeilijk_(159359)		difficult	<<difícil>>	http://www.omegawiki.org/DefinedMeaning:hard_(8175)	<difficile>	<difícil>	<schwer>	<трудный>
 1539	TO TRY	try	17.48	to try	Verb	Cognition	http://www.omegawiki.org/DefinedMeaning:try_(7471)		to try	<<tratar, probar>>		<essayer, tenter>	<tentar, provar>	<versuchen>	<попытка>
@@ -1609,7 +1609,7 @@ UK	UNIQUE_GLOSS	ENGLISH_GLOSS	LWT_KEY	LWT_GLOSS	PART_OF_SPEECH	SEMANTIC_FIELD	OM
 1625	THE BOUNDARY	boundary	19.17	the boundary	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:boundary_(432931)	e.g. The province boundary is also the border between the two countries.	boundary	<<límite, frontera>>		<frontière, limite>	<fronteira>	<grenze>	<граница>
 1626	THE PEOPLE	people	19.21	the people	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:people_(345923)	the populace, the inhabitants of a country (as opposed to the ruling class)	people	<<pueblo, gente>>	http://www.omegawiki.org/DefinedMeaning:Volk_(1137349)	<gens>	<povo>	<volk; nation>	<народ>
 1627	THE CLAN	clan	19.23	the clan	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:clan_(1508311)	extended family	clan	<<tribu, clan>>		<tribu, clan>	<tribo, clã>	<stamm; ge-schlecht; sippe>	<племя>
-1628	THE CHIEFTAIN	chieftain	19.24	the chieftain	Noun	Social and political relations	http://www.omegawiki.org/Expression:chieftain	leader/ruler of a tribe/clan	chieftain	<<jefe, cacique>>		<chef>	<chefe, cacique>	<häuptling; chef>	<вождь>
+1628	THE CHIEFTAIN	chieftain	19.24	the chieftain	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:chieftain_(1508307)	leader/ruler of a tribe/clan	chieftain	<<jefe, cacique>>		<chef>	<chefe, cacique>	<häuptling; chef>	<вождь>
 1629	THE WALKING STICK	walking stick	19.25	the walking stick	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:stick_(5663)		walking stick	<<bastón, bordón>>		<canne>	<bastão, bengala>	<stab; stock>	<посох>
 1630	TO RULE	rule	19.31	to rule or govern	Verb	Social and political relations	http://www.omegawiki.org/DefinedMeaning:rule_(7797)	e.g. The president ruled the country for 25 years.	to rule or govern	<<gobernar>>		<régner, gouverner>	<governar>	<herrschen; regieren>	<править>
 1631	TO GOVERN	govern	19.31	to rule or govern	Verb	Social and political relations	http://www.omegawiki.org/DefinedMeaning:govern_(1511088)		to rule or govern	<<gobernar>>		<régner, gouverner>	<governar>	<herrschen; regieren>	<править>
@@ -1804,8 +1804,8 @@ UK	UNIQUE_GLOSS	ENGLISH_GLOSS	LWT_KEY	LWT_GLOSS	PART_OF_SPEECH	SEMANTIC_FIELD	OM
 1820	THE SHAMAN'S SPIRIT	shaman's spirit	22.99912	the shaman's spirit	Noun	Religion and belief	?		shaman's spirit	-		-	-	-	-
 1821	THE SHAMANISTIC SONG	shamanistic song	22.99913	the shamanistic song	Noun	Religion and belief	?		shamanistic song	-		-	-	-	-
 1822	THE WOMAN'S RATTLE	woman's rattle	22.99914	the woman's rattle	Noun	Religion and belief	?		woman's rattle	-		-	-	-	-
-1823	THE RADIO	radio	23.1	the radio	Noun	Modern world	http://www.omegawiki.org/DefinedMeaning:radio_(5767)		radio	-	http://www.omegawiki.org/DefinedMeaning:radio_(3080)	-	-	-	-
-1824	THE TELEVISION	television	23.11	the television	Noun	Modern world	http://www.omegawiki.org/DefinedMeaning:television_(7295)		television	-	http://www.omegawiki.org/DefinedMeaning:television_(3734)	-	-	-	-
+1823	THE RADIO	radio	23.1	the radio	Noun	Modern world	http://www.omegawiki.org/DefinedMeaning:radio_(5767)		radio	-		-	-	-	-
+1824	THE TELEVISION	television	23.11	the television	Noun	Modern world	http://www.omegawiki.org/DefinedMeaning:television_(7295)		television	-		-	-	-	-
 1825	THE TELEPHONE	telephone	23.12	the telephone	Noun	Modern world	http://www.omegawiki.org/DefinedMeaning:telephone_(5945)		telephone	-		-	-	-	-
 1826	THE BICYCLE	bicycle	23.13	the bicycle	Noun	Modern world	http://www.omegawiki.org/DefinedMeaning:bicycle_(341)		bicycle	-		-	-	-	-
 1827	THE MOTORCYCLE	motorcycle	23.135	the motorcycle	Noun	Modern world	http://www.omegawiki.org/DefinedMeaning:motorcycle_(2414)		motorcycle	-		-	-	-	-
@@ -1899,51 +1899,51 @@ UK	UNIQUE_GLOSS	ENGLISH_GLOSS	LWT_KEY	LWT_GLOSS	PART_OF_SPEECH	SEMANTIC_FIELD	OM
 1915	WE (DUAL INCLUSIVE)	we	24.99914	we (dual inclusive)	Function word	Miscellaneous function words	http://www.omegawiki.org/DefinedMeaning:he_(5455) does not limit the referents to two 		we (dual inclusive)	-		-	-	-	-
 1916	WHICH	which	24.99917	which	Function word	Miscellaneous function words	http://www.omegawiki.org/DefinedMeaning:which_(338249)		which	-	http://www.omegawiki.org/DefinedMeaning:which_(338269)	-	-	-	-
 1917	YOU (DUAL)	you	24.99919	you (dual)	Function word	Miscellaneous function words	http://www.omegawiki.org/DefinedMeaning:we_(5456),not really, does not limit the group to two referents. Neele 		you (dual)	-		-	-	-	-
-1918	TO SWELL	swell	0.1	-	-	-	http://www.omegawiki.org/DefinedMeaning:swell_(6454)		-	-		-	-	-	-
-1919	THE BERRY	berry	0.2	-	-	-	http://www.omegawiki.org/DefinedMeaning:berry_(384870)		-	-		-	-	-	-
-1920	TO FEAR	fear	0.3	-	-	-	http://www.omegawiki.org/DefinedMeaning:fear_(6025)		-	-		-	-	-	-
-1921	TO RAIN	rain	0.4	-	-	-	http://www.omegawiki.org/DefinedMeaning:rain_(5523)		-	-		-	-	-	-
+1918	TO SWELL	swell	0.1	-	Verb	-	http://www.omegawiki.org/DefinedMeaning:swell_(6454)		-	-		-	-	-	-
+1919	THE BERRY	berry	0.2	-	Noun	-	http://www.omegawiki.org/DefinedMeaning:berry_(384870)		-	-		-	-	-	-
+1920	TO FEAR	fear	0.3	-	Verb	-	http://www.omegawiki.org/DefinedMeaning:fear_(6025)		-	-		-	-	-	-
+1921	TO RAIN	rain	0.4	-	Verb	-	http://www.omegawiki.org/DefinedMeaning:rain_(5523)		-	-		-	-	-	-
 1922	TO LIE (ON THE FLOOR)	lie	12.14	to lie down	Verb	Spatial relations	http://www.omegawiki.org/DefinedMeaning:lie_(6005)		to lie down	<<acostarse, echarse>>		<se coucher>	<deitar-se>	<liegen>	<ложиться>
-1923	FIFTY	fifty	0.5	-	-	-	http://www.omegawiki.org/DefinedMeaning:fifty_(7019)		-	-		-	-	-	-
-1924	HUNDRED	hundred	0.6	-	-	-	http://www.omegawiki.org/DefinedMeaning:hundred_(6685)		-	-		-	-	-	-
-1925	THOUSAND	thousand	0.7	-	-	-	http://www.omegawiki.org/DefinedMeaning:thousand_(7755)		-	-		-	-	-	-
-1926	THE TOENAIL	toenail	0.8	-	-	-	http://www.omegawiki.org/DefinedMeaning:toenail_(1244402)	-	-	-		-	-	-	-
-1927	TO PIERCE	pierce	0.9	-	-	-	http://www.omegawiki.org/DefinedMeaning:pierce_(1511162)	-	-	-		-	-	-	-
-1928	TO HACK	hack	0.1	-	-	-	http://www.omegawiki.org/DefinedMeaning:programar_(479932)	-	-	-		-	-	-	-
-1929	TO WORK	work	0.11	-	-	-	http://www.omegawiki.org/DefinedMeaning:work_(471303)	-	-	-	http://www.omegawiki.org/DefinedMeaning:study_(8494), http://www.omegawiki.org/DefinedMeaning:shape_(1507122)	-	-	-	-
-1930	TO UNCOVER	uncover	0.13	-	-	-	http://www.omegawiki.org/DefinedMeaning:revelar_(480525)	-	-	-		-	-	-	-
-1931	TO BE KNOWLEDGEABLE	be knowledgeable	0.14	-	-	-	http://www.omegawiki.org/DefinedMeaning:belesen_(955211)	-	-	-		-	-	-	-
-1932	THE HUMAN BEING	human being	0.15	-	-	-	http://www.omegawiki.org/DefinedMeaning:man_(society)_(2234)	-	-	-		-	-	-	-
-1933	TO FASTEN	fasten	0.16	-	-	-	http://www.omegawiki.org/DefinedMeaning:allacciare_(475820)	-	-	-		-	-	-	-
-1934	PAINFUL	painful	0.17	-	-	-	http://www.omegawiki.org/DefinedMeaning:doloroso_(496633)	-	-	-		-	-	-	-
-1935	CORRECT	correct	0.18	-	-	-	http://www.omegawiki.org/DefinedMeaning:riktig_(7026)	-	-	-		-	-	-	-
-1936	BELOW	below	0.19	-	-	-	http://www.omegawiki.org/DefinedMeaning:under_(6199)	-	-	-		-	-	-	-
-1937	EVIL	evil	0.2	-	-	-	http://www.omegawiki.org/DefinedMeaning:evil_(1098473)	-	-	-		-	-	-	-
-1938	TO SWEAT	sweat	0.21	-	-	-	http://www.omegawiki.org/DefinedMeaning:transpirer_(1250941)	-	-	-		-	-	-	-
-1939	THE SNOT	snot	0.22	-	-	-	http://www.omegawiki.org/DefinedMeaning:snot_(1417428)	-	-	-		-	-	-	-
-1940	THE MARROW	marrow	0.23	-	-	-	http://www.omegawiki.org/DefinedMeaning:marrow_(7679)	-	-	-		-	-	-	-
-1941	THE BREATH	breath	0.24	-	-	-	http://www.omegawiki.org/DefinedMeaning:breath_(370376)	-	-	-		-	-	-	-
-1942	THE FUNGUS	fungus	0.25	-	-	-	http://www.omegawiki.org/DefinedMeaning:fungus_(1588)	-	-	-		-	-	-	-
-1943	THE PLANTAIN	plantain	0.26	-	-	-	http://www.omegawiki.org/DefinedMeaning:plantain_(1511168)	-	-	-		-	-	-	-
-1944	THE JUICE	juice	0.27	-	-	-	http://www.omegawiki.org/DefinedMeaning:juice_(6249)	-	-	-		-	-	-	-
-1945	THE COOKED RICE	cooked rice	0.28	-	-	-	?	-	-	-		-	-	-	-
-1946	THE BUG	bug	0.29	-	-	-	http://www.omegawiki.org/DefinedMeaning:bug_(441)	-	-	-		-	-	-	-
-1947	THE VERMIN	vermin	0.3	-	-	-	http://www.omegawiki.org/DefinedMeaning:vermin_(3962)	-	-	-		-	-	-	-
-1948	THE OTTER	otter	0.31	-	-	-	http://www.omegawiki.org/DefinedMeaning:Otter_(1031630)	-	-	-		-	-	-	-
-1949	THE LEECH	leech	0.32	-	-	-	http://www.omegawiki.org/DefinedMeaning:leech_(412005)	-	-	-		-	-	-	-
-1950	THE WATER LEECH	water leech	0.33	-	-	-	?	-	-	-		-	-	-	-
-1951	THE RODENT	rodent	0.34	-	-	-	http://www.omegawiki.org/DefinedMeaning:rodent_(3268)	-	-	-		-	-	-	-
-1952	THE JOINT	joint	0.35	-	-	-	http://www.omegawiki.org/DefinedMeaning:join_(6683)	-	-	-		-	-	-	-
-1953	THE THORN	thorn	0.36	-	-	-	http://www.omegawiki.org/DefinedMeaning:thorn_(1243793)	-	-	-		-	-	-	-
+1923	FIFTY	fifty	0.5	-	Function word	-	http://www.omegawiki.org/DefinedMeaning:fifty_(7019)		-	-		-	-	-	-
+1924	HUNDRED	hundred	0.6	-	Function word	-	http://www.omegawiki.org/DefinedMeaning:hundred_(6685)		-	-		-	-	-	-
+1925	THOUSAND	thousand	0.7	-	Function word	-	http://www.omegawiki.org/DefinedMeaning:thousand_(7755)		-	-		-	-	-	-
+1926	THE TOENAIL	toenail	0.8	-	Noun	-	http://www.omegawiki.org/DefinedMeaning:toenail_(1244402)	-	-	-		-	-	-	-
+1927	TO PIERCE	pierce	0.9	-	Verb	-	http://www.omegawiki.org/DefinedMeaning:pierce_(1511162)	-	-	-		-	-	-	-
+1928	TO HACK	hack	0.1	-	Verb	-	http://www.omegawiki.org/DefinedMeaning:programar_(479932)	-	-	-		-	-	-	-
+1929	TO WORK	work	0.11	-	Verb	-	http://www.omegawiki.org/DefinedMeaning:work_(471303)	-	-	-	http://www.omegawiki.org/DefinedMeaning:study_(8494), http://www.omegawiki.org/DefinedMeaning:shape_(1507122)	-	-	-	-
+1930	TO UNCOVER	uncover	0.13	-	Verb	-	http://www.omegawiki.org/DefinedMeaning:revelar_(480525)	-	-	-		-	-	-	-
+1931	TO BE KNOWLEDGEABLE	be knowledgeable	0.14	-	Verb	-	http://www.omegawiki.org/DefinedMeaning:belesen_(955211)	-	-	-		-	-	-	-
+1932	THE HUMAN BEING	human being	0.15	-	Noun	-	http://www.omegawiki.org/DefinedMeaning:man_(society)_(2234)	-	-	-		-	-	-	-
+1933	TO FASTEN	fasten	0.16	-	Verb	-	http://www.omegawiki.org/DefinedMeaning:allacciare_(475820)	-	-	-		-	-	-	-
+1934	PAINFUL	painful	0.17	-	Adjective	-	http://www.omegawiki.org/DefinedMeaning:doloroso_(496633)	-	-	-		-	-	-	-
+1935	CORRECT	correct	0.18	-	Adjective	-	http://www.omegawiki.org/DefinedMeaning:riktig_(7026)	-	-	-		-	-	-	-
+1936	BELOW	below	0.19	-	Function word	-	http://www.omegawiki.org/DefinedMeaning:under_(6199)	-	-	-		-	-	-	-
+1937	EVIL	evil	0.2	-	Adjective	-	http://www.omegawiki.org/DefinedMeaning:evil_(1098473)	-	-	-		-	-	-	-
+1938	TO SWEAT	sweat	0.21	-	Verb	-	http://www.omegawiki.org/DefinedMeaning:transpirer_(1250941)	-	-	-		-	-	-	-
+1939	THE SNOT	snot	0.22	-	Noun	-	http://www.omegawiki.org/DefinedMeaning:snot_(1417428)	-	-	-		-	-	-	-
+1940	THE MARROW	marrow	0.23	-	Noun	-	http://www.omegawiki.org/DefinedMeaning:marrow_(7679)	-	-	-		-	-	-	-
+1941	THE BREATH	breath	0.24	-	Noun	-	http://www.omegawiki.org/DefinedMeaning:breath_(370376)	-	-	-		-	-	-	-
+1942	THE FUNGUS	fungus	0.25	-	Noun	-	http://www.omegawiki.org/DefinedMeaning:fungus_(1588)	-	-	-		-	-	-	-
+1943	THE PLANTAIN	plantain	0.26	-	Noun	-	http://www.omegawiki.org/DefinedMeaning:plantain_(1511168)	-	-	-		-	-	-	-
+1944	THE JUICE	juice	0.27	-	Noun	-	http://www.omegawiki.org/DefinedMeaning:juice_(6249)	-	-	-		-	-	-	-
+1945	THE COOKED RICE	cooked rice	0.28	-	Noun	-	http://www.omegawiki.org/DefinedMeaning:cooked_rice(538459)	-	-	-		-	-	-	-
+1946	THE BUG	bug	0.29	-	Noun	-	http://www.omegawiki.org/DefinedMeaning:bug_(441)	-	-	-		-	-	-	-
+1947	THE VERMIN	vermin	0.3	-	Noun	-	http://www.omegawiki.org/DefinedMeaning:vermin_(3962)	-	-	-		-	-	-	-
+1948	THE OTTER	otter	0.31	-	Noun	-	http://www.omegawiki.org/DefinedMeaning:Otter_(1031630)	-	-	-		-	-	-	-
+1949	THE LEECH	leech	0.32	-	Noun	-	http://www.omegawiki.org/DefinedMeaning:leech_(412005)	-	-	-		-	-	-	-
+1950	THE WATER LEECH	water leech	0.33	-	Noun	-	http://www.omegawiki.org/DefinedMeaning:leech_(412005)	-	-	-		-	-	-	-
+1951	THE RODENT	rodent	0.34	-	Noun	-	http://www.omegawiki.org/DefinedMeaning:rodent_(3268)	-	-	-		-	-	-	-
+1952	THE JOINT	joint	0.35	-	Noun	-	http://www.omegawiki.org/DefinedMeaning:join_(6683)	-	-	-		-	-	-	-
+1953	THE THORN	thorn	0.36	-	Noun	-	http://www.omegawiki.org/DefinedMeaning:thorn_(1243793)	-	-	-		-	-	-	-
 1954	THE SWIDDEN FIELD	swidden field	0.37	-	-	-	?	-	-	-		-	-	-	-
-1955	THE IRRIGATED PADDY FIELD	irrigated paddy field	0.38	-	-	-	?	-	-	-		-	-	-	-
-1956	THE SCORE	score	0.39	-	-	-	http://www.omegawiki.org/DefinedMeaning:stand_(7262)	-	-	-		-	-	-	-
+1955	THE IRRIGATED PADDY FIELD	irrigated paddy field	0.38	-	Noun	-	http://www.omegawiki.org/DefinedMeaning:rice_field_(1296409)	-	-	-		-	-	-	-
+1956	THE SCORE	score	0.39	-	Noun	-	http://www.omegawiki.org/DefinedMeaning:stand_(7262)	-	-	-		-	-	-	-
 1957	TO BE MANY	be many	0.4	-	-	-	?	-	-	-		-	-	-	-
-1958	TO ASCEND	ascend	0.41	-	-	-	http://www.omegawiki.org/DefinedMeaning:ascender_(479363)	-	-	-		-	-	-	-
-1959	TO DESCEND	descend	0.42	-	-	-	http://www.omegawiki.org/DefinedMeaning:descend_(980418)	-	-	-		-	-	-	-
-1960	TO EMERGE	emerge	0.43	-	-	-	http://www.omegawiki.org/DefinedMeaning:delinearsi_(465364)	-	-	-		-	-	-	-
-1961	TO FRIGTHEN	frighten	0.44	-	-	-	http://www.omegawiki.org/DefinedMeaning:frighten_(1504545)	-	-	-		-	-	-	-
-1962	ITCHY	itchy	0.45	-	-	-	http://www.omegawiki.org/DefinedMeaning:itchy_(1312191)	-	-	-		-	-	-	-
-1963	TO SET FREE	set free	0.46	-	-	-	http://www.omegawiki.org/DefinedMeaning:free_(476248)	-	-	-		-	-	-	-
-1964	TO LOOSEN	loosen	0.47	-	-	-	http://www.omegawiki.org/DefinedMeaning:unfasten_(853143)	-	-	-		-	-	-	-
-1965	TO PLACE	place	0.48	-	-	-	http://www.omegawiki.org/DefinedMeaning:collocare_(440073)	-	-	-		-	-	-	-
+1958	TO ASCEND	ascend	0.41	-	Verb	-	http://www.omegawiki.org/DefinedMeaning:ascender_(479363)	-	-	-		-	-	-	-
+1959	TO DESCEND	descend	0.42	-	Verb	-	http://www.omegawiki.org/DefinedMeaning:descend_(980418)	-	-	-		-	-	-	-
+1960	TO EMERGE	emerge	0.43	-	Verb	-	http://www.omegawiki.org/DefinedMeaning:delinearsi_(465364)	-	-	-		-	-	-	-
+1961	TO FRIGTHEN	frighten	0.44	-	Verb	-	http://www.omegawiki.org/DefinedMeaning:frighten_(1504545)	-	-	-		-	-	-	-
+1962	ITCHY	itchy	0.45	-	Adjective	-	http://www.omegawiki.org/DefinedMeaning:itchy_(1312191)	-	-	-		-	-	-	-
+1963	TO SET FREE	set free	0.46	-	Verb	-	http://www.omegawiki.org/DefinedMeaning:free_(476248)	-	-	-		-	-	-	-
+1964	TO LOOSEN	loosen	0.47	-	Verb	-	http://www.omegawiki.org/DefinedMeaning:unfasten_(853143)	-	-	-		-	-	-	-
+1965	TO PLACE	place	0.48	-	Verb	-	http://www.omegawiki.org/DefinedMeaning:collocare_(440073)	-	-	-		-	-	-	-

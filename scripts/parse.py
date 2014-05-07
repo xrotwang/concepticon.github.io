@@ -44,9 +44,24 @@ for line in data:
         # append stuff to important lines
         appends = []
         appends += [str(idx)] # omega-wiki link
-        appends += [line[2]] # english raw gloss
-        appends += [line[3]] # wold key
+        
+        if line[7].strip():
+            print(line[0],line[7])
+            alts = [p.strip().split('(')[-1][:-1] for p in line[7].strip().split(',')]
+            alts = ';'.join([a for a in alts if a.isdigit()])
+            if alts:
+                appends += [alts]
+            else:
+                appends += ['-']
+        else:
+            appends += ['-']
+
+        appends += [line[2].upper()] # english raw gloss
         appends += [line[5]] # part of speech
+
+        appends += [line[3] if not line[3].startswith('0') else '-'] # wold key
+
+
         good_lines += [appends]
     except:
         bads += 1
@@ -56,13 +71,12 @@ errors.close()
 
 outf = open('concepticon.tsv','w')
 comment = """# CONCEPTICON
-# Created by: QLC Research Group (M. Cysouw, V. Kirchhoff, S. Nicolai, N.  Müller, J.-M. List [rearrange and modify this order, I put me as last person, since I didn't do quite much, not to indicate that I'm some kind of a leader in this project])
+# Created by: QLC Research Group
 # Created on: {0}
-# Contact: <whatemailtousehere?>
 
 """
 outf.write(comment.format(rc('timestamp')))
-outf.write('OMEGA_WIKI\tGLOSS\tWOLD\tPOS\n')
-for line in good_lines:
+outf.write('OMEGAWIKI\tSEEALSO\tGLOSS\tPOS\tWOLD\n')
+for line in sorted(good_lines, key=lambda x:x[2]):
     outf.write('\t'.join(line)+'\n')
 outf.close()
