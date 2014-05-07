@@ -1,0 +1,100 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<script>
+if (window.File && window.FileReader && window.FileList && window.Blob) 
+{
+}
+else
+{
+  alert("The File APIs are not fully supported in this browser.");
+}
+/* file-handler function from http://www.html5rocks.com/de/tutorials/file/dndfiles/ */
+function handleFileSelect(evt) 
+{
+  var files = evt.target.files; /* FileList object */
+
+  var file = files[0];
+  var store = document.getElementById('store');
+  
+  /* create file reader instance */
+  var reader = new FileReader();
+  reader.onload = function(e){store.innerText = reader.result;}
+  reader.readAsText(file);
+}
+function showData()
+{
+  var store = document.getElementById('store');
+  data = store.innerText;
+  lines = data.split('\n');
+  
+  var show = document.getElementById('show');
+  var db = document.getElementById('db');
+
+  var start = 0;
+  var counter = 0;
+  for(i=0;i<lines.length;i++)
+  {
+    line = lines[i];
+    
+    if(line[0] != '#' && line.length > 0 && line[0] != ' ')
+    {
+      if(start == 1)
+      {
+	points = line.split('\t');
+	table += "<tr><td>"+counter+"</td>";
+	counter += 1;
+	table += '<td><a target="_blank" href="http://www.omegawiki.org/DefinedMeaning:'+points[0]+'">'+points[0]+'</a></td>';
+	table += '<td>'+points[1]+'</td>';
+	table += '<td><a target="_blank" href="http://wold.livingsources.org/meaning/'+points[2].replace(/\./,"-")+'">'+points[2]+'</a></td>';
+	table += '<td>'+points[3]+'</td>';
+	table += '</tr>';
+      }
+      else
+      {
+	start = 1;
+	counter = 1;
+	var table = '<table id="concepticon" border="1"><tr><th>Number</th><th>'+line.split('\t').join('</th><th>')+'</th></tr>';
+      }
+    }
+  }
+  table += '</table>';
+  show.innerHTML = table;
+}
+
+function searchTable()
+{
+  var table = document.getElementById('concepticon');
+  var text = document.getElementById('textfield').value;
+  for(var i=1, row; row=table.rows[i]; i++)
+  {
+    cell = row.cells[2];
+    if(cell.innerHTML.indexOf(text) == -1)
+    {
+      row.style.display = "none";
+    }
+    else
+    {
+      row.style.display = 'table-row';
+    }
+  }
+}
+</script>
+  </head>
+  <body>
+  <div id="store" style="display:none"></div>
+  <h3>Concepticon-Viewer (<a href="http://quanthistling.info">QLC Research Group</a>)</h3>
+  <input type="file" id="file" name="file" accept=".csv" class="submit2 active" />
+  <input type="button" id="showstuff" name="showstuff" value="SHOW" onclick="showData();" class="submit2 active"/>
+  <span style="padding-left:20px;color:white">.</span>
+  <input type="text" onkeyup="searchTable();" id="textfield" size=40 />
+  <br>
+  <br>
+  <div id="show"></div>
+  <div id="db"></div>
+  <script>
+    document.getElementById('file').addEventListener('change', handleFileSelect, false);
+  </script>
+
+  </body>
+</head>
