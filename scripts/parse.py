@@ -45,9 +45,9 @@ for line in data:
         appends = []
         appends += [str(idx)] # omega-wiki link
         
-        if line[7].strip():
+        if line[11].strip():
             print(line[0],line[7])
-            alts = [p.strip().split('(')[-1][:-1] for p in line[7].strip().split(',')]
+            alts = [p.strip().split('(')[-1][:-1] for p in line[11].strip().split(',')]
             alts = ';'.join([a for a in alts if a.isdigit()])
             if alts:
                 appends += [alts]
@@ -75,8 +75,58 @@ comment = """# CONCEPTICON
 # Created on: {0}
 
 """
+doublets = open('doublets.tsv','w')
+visited = {}
 outf.write(comment.format(rc('timestamp')))
-outf.write('OMEGAWIKI\tSEEALSO\tGLOSS\tPOS\tWOLD\n')
+outf.write('OMEGAWIKI\tSEEALSO\tGLOSS\tALIAS\tPOS\tWOLD\n')
+sorter = []
 for line in sorted(good_lines, key=lambda x:x[2]):
-    outf.write('\t'.join(line)+'\n')
+    if line[0] not in visited:
+        visited[line[0]] = [line[1:]]
+        #outf.write('\t'.join(line)+'\n')
+        sorter += [line[0]]
+    else:
+        visited[line[0]] += [line[1:]]
+
+
+#outf.close()
+d = 0
+for key in visited:
+    if len(visited[key]) > 1:
+        d += 1
+        for line in visited[key]:
+            doublets.write(key+'\t'+'\t'.join(line)+'\n')
+        doublets.write('#\n')
+doublets.close()
+
+
+def isfloat(var):
+    try:
+        float(var)
+        return True
+    except:
+        return False
+
+for key in sorter:
+    if len(visited[key]) == 1:
+        outf.write(key+'\t'+visited[key][0][0]+'\t'+visited[key][0][1]+'\t-\t'+'\t'.join(visited[key][0][2:])+'\n')
+    else:
+        # get multiple glosses and wold keys
+        wolds = []
+        glosses = []
+        for line in visited[key]:
+            wolds += [line[-1]]
+            glosses += [line[1]]
+
+        wolds = [w for w in sorted(set(wolds)) if isfloat(w)]
+        glosses = [g for g in sorted(set(glosses)) if g != visited[key][0][1]]
+        if glosses:
+            pass
+        else:
+            glosses = ['-']
+
+        outf.write(key+'\t'+visited[key][0][0]+'\t'+visited[key][0][1]+'\t'+'; '.join(glosses)+'\t'+visited[key][0][2]+'\t'+';'.join(wolds)+'\n')
 outf.close()
+
+import os
+os.system('cp concepticon.tsv ~/')

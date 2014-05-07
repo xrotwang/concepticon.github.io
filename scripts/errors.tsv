@@ -23,6 +23,7 @@ UK	UNIQUE_GLOSS	ENGLISH_GLOSS	LWT_KEY	LWT_GLOSS	PART_OF_SPEECH	SEMANTIC_FIELD	OM
 886	THE JARILLA	jarilla	8.99922	the jarilla	Noun	Agriculture and vegetation	?		jarilla	-		-	-	-	-
 887	THE JOWAR	jowar	8.99923	the jowar	Noun	Agriculture and vegetation	?		jowar	-		-	-	-	-
 892	THE MAMUELCHOIQUE	mamuelchoique	8.99929	the mamuelchoique	Noun	Agriculture and vegetation	?		mamuelchoique	-		-	-	-	-
+896	THE MILLET	millet	8.99933	the millet	Noun	Agriculture and vegetation	doublette		millet	mijo		-	-	-	-
 905	THE SENSITIVE MIMOSA	sensitive mimosa	8.99945	the sensitive mimosa	Noun	Agriculture and vegetation	? unclear meaning		sensitive mimosa	mimosa ?		-	-	-	-
 910	THE TREE DYE	tree dye	8.9995	the tree dye	Noun	Agriculture and vegetation	?		tree dye	tinte de árbol		-	-	-	-
 915	THE WILD MAIZE	wild maize	8.99956	the wild maize	Noun	Agriculture and vegetation	?		wild maize	-		-	-	-	-
@@ -48,6 +49,7 @@ UK	UNIQUE_GLOSS	ENGLISH_GLOSS	LWT_KEY	LWT_GLOSS	PART_OF_SPEECH	SEMANTIC_FIELD	OM
 1821	THE SHAMANISTIC SONG	shamanistic song	22.99913	the shamanistic song	Noun	Religion and belief	?		shamanistic song	-		-	-	-	-
 1822	THE WOMAN'S RATTLE	woman's rattle	22.99914	the woman's rattle	Noun	Religion and belief	?		woman's rattle	-		-	-	-	-
 1906	(INTERROGATIVE)		24.99905	(interrogative)	Function word	Miscellaneous function words	?		(interrogative)	-		-	-	-	-
+1907	LET	let	24.99906	let	Function word	Miscellaneous function words	?		let	-	http://www.omegawiki.org/DefinedMeaning:allow_(1504322)	-	-	-	-
 1908	(NEGATIVE MARKER)		24.99907	(negative marker)	Function word	Miscellaneous function words	?		(negative marker)	-		-	-	-	-
 1912	(SUPERLATIVE MARKER)		24.99911	(superlative marker)	Function word	Miscellaneous function words	?		(superlative marker)	-		-	-	-	-
 1917	YOU (DUAL)	you	24.99919	you (dual)	Function word	Miscellaneous function words	http://www.omegawiki.org/DefinedMeaning:we_(5456),not really, does not limit the group to two referents. Neele		you (dual)	-		-	-	-	-
