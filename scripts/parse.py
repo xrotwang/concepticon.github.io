@@ -78,7 +78,7 @@ comment = """# CONCEPTICON
 doublets = open('doublets.tsv','w')
 visited = {}
 outf.write(comment.format(rc('timestamp')))
-outf.write('OMEGAWIKI\tSEEALSO\tGLOSS\tALIAS\tPOS\tWOLD\n')
+outf.write('OMEGAWIKI\tSEEALSO\tGLOSS\tALIAS\tDEFINITION\tPOS\tWOLD\n')
 sorter = []
 for line in sorted(good_lines, key=lambda x:x[2]):
     if line[0] not in visited:
@@ -107,9 +107,30 @@ def isfloat(var):
     except:
         return False
 
+from urllib.request import urlopen
+
 for key in sorter:
+
+    # get the definition first
+    response = urlopen(
+            'http://www.omegawiki.org/api.php?format=xml&action=ow_define&dm={0}'.format(
+                key
+                )
+            )
+    xml = response.read()
+    xml = str(xml)
+    
+    # extract defition 
+    definition = re.findall('text="(.*?)"', xml)
+    if definition:
+        definition = definition[0].replace('\t',' ')
+    else:
+        definition = '-'
+    print(definition)
+
+    # get the 
     if len(visited[key]) == 1:
-        outf.write(key+'\t'+visited[key][0][0]+'\t'+visited[key][0][1]+'\t-\t'+'\t'.join(visited[key][0][2:])+'\n')
+        outf.write(key+'\t'+visited[key][0][0]+'\t'+visited[key][0][1]+'\t-\t'+definition+'\t'+'\t'.join(visited[key][0][2:])+'\n')
     else:
         # get multiple glosses and wold keys
         wolds = []
@@ -125,7 +146,7 @@ for key in sorter:
         else:
             glosses = ['-']
 
-        outf.write(key+'\t'+visited[key][0][0]+'\t'+visited[key][0][1]+'\t'+'; '.join(glosses)+'\t'+visited[key][0][2]+'\t'+';'.join(wolds)+'\n')
+        outf.write(key+'\t'+visited[key][0][0]+'\t'+visited[key][0][1]+'\t'+'; '.join(glosses)+'\t'+definition+'\t'+'\t'+visited[key][0][2]+'\t'+';'.join(wolds)+'\n')
 outf.close()
 
 import os
