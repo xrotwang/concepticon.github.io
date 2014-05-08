@@ -162,12 +162,28 @@ function searchTable()
 {
   var table = document.getElementById('concepticon');
   var text = document.getElementById('textfield').value;
+  if(text.replace(/["\s]/g, '') == "")
+  {
+    for(var i=1,row;row=table.rows[i];i++)
+    {
+      row.style.display="table-row";
+    }
+    return;
+  }
+
   for(var i=1, row; row=table.rows[i]; i++)
   {
     cell = row.cells[2];
     if(cell.innerHTML.indexOf(text.toUpperCase()) == -1)
     {
-      row.style.display = "none";
+      if(cell.innerHTML == text.toUpperCase().replace(/"/g,''))
+      {
+        row.style.display = 'table-row';
+      }
+      else
+      {
+        row.style.display = "none";
+      }
     }
     else
     {
