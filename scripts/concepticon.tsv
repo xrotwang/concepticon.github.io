@@ -3,9 +3,9 @@
 # Created on: 2014-05-08 10:17
 
 OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
-6685	-	A HUNDRED	HUNDRED	The cardinal number occurring after ninety-nine and before one hundred one, represented in Roman numerals as C and in Arabic numerals as 100.		Function word	13.105
+6685	-	A HUNDRED	HUNDRED	The cardinal number occurring after ninety-nine and before one hundred one, represented in Roman numerals as C and in Arabic numerals as 100.	Function word	13.105
 904463	-	A LITTLE	-	To a small extent or degree.	Function word	13.99901
-7755	-	A THOUSAND	THOUSAND	Ten times hundred.		Function word	13.106
+7755	-	A THOUSAND	THOUSAND	Ten times hundred.	Function word	13.106
 7064	-	ABOVE	-	In or to a higher place; higher than; on or over the upper surface.	Function word	12.081
 638652	-	ACCOMPANY	-	To go or travel in the company of someone.	Verb	10.99901
 751478	541549	ACCUSE	-	To lay a charge against; bring an accusation against.	Verb	21.31
@@ -37,7 +37,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 1510885	-	ANATTO	-	A derivative of the achiote trees of tropical regions of the Americas used as a red food coloring and as a flavoring.	Noun	8.99903
 6861	-	ANCESTORS	-	Person from whom a person is descended, whether on the father&#039;s or mother&#039;s side, at any number of generations.	Noun	2.56
 806253	-	ANCHOR	-	Something, usually a heavy piece of metal with points which dig into the sea-bed, used to hold a boat in one position.	Noun	10.89
-6464	6466	AND	-	Used to connect two homogeneous words or phrases.		Function word	17.51;24.99901
+6464	6466	AND	-	Used to connect two homogeneous words or phrases.	Function word	17.51;24.99901
 1156554	-	ANGER	-	Belligerence aroused by a real or supposed wrong (personified as one of the deadly sins).	Noun	16.42
 194	-	ANIMAL	-	Any living organism characterized by voluntary movement, the possession of cells with noncellulose cell walls and specialized sense organs enabling rapid response to stimuli, and the ingestion of complex organic substances such as plants and other animals.	Noun	3.11
 348298	-	ANKLE	-	A joint formed where the foot and the leg meet.	Noun	4.371
@@ -73,9 +73,9 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 6561	-	ATTACK	-	To apply violent force to someone or something.	Verb	20.99907
 5591	-	AUNT	-	A woman with one or more siblings who have one or more children; a sister of someone&#039;s father or mother.	Noun	2.52
 5776	7880	AUSTRALIA	-	A country in Oceania, with capital Canberra.	Noun	19.99902
-5615	-	AUTUMN	FALL	The season after summer and before winter, traditionally from September 21 to December 20 in the northern hemisphere and from March 21 to June 20 in the southern hemisphere.		Noun	14.77
+5615	-	AUTUMN	FALL	The season after summer and before winter, traditionally from September 21 to December 20 in the northern hemisphere and from March 21 to June 20 in the southern hemisphere.	Noun	14.77
 1505847	-	AWL	-	Pointed tool for marking or piercing wood or leather.	Noun	6.37
-333200	-	AX	AXE	A tool for felling trees or chopping wood consisting of a heavy metallic head flattened to a blade on one side, and which is attached to a usually wooden handle.		Noun	9.25
+333200	-	AX	AXE	A tool for felling trees or chopping wood consisting of a heavy metallic head flattened to a blade on one side, and which is attached to a usually wooden handle.	Noun	9.25
 7167	-	AXLE	-	The central part of a wheel, that usually does not turn.	Noun	10.77
 5642	-	BABY	-	A very young human being, from birth to a year old.	Noun	2.28
 5648	-	BACK	-	The rear of body, especially the part between the neck and the end of the spine and opposite the chest and belly.	Noun	4.19
@@ -113,12 +113,12 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 6028	965540	BE ALIVE	-	To be alive; to have a life.	Verb	4.74
 823950	-	BE ASHAMED	-	Feeling shame or guilt.	Verb	16.99907
 474983	-	BE BORN	-	To start living.	Verb	4.72
-6246	-	BE GLAD	HAPPY	Having a feeling of satisfaction, enjoyment or well-being, often arising from a positive situation or set of circumstances.		Verb	16.23;16.99908
+6246	-	BE GLAD	HAPPY	Having a feeling of satisfaction, enjoyment or well-being, often arising from a positive situation or set of circumstances.	Verb	16.23;16.99908
 8037	677105	BE HUNGRY	-	A need of food.	Verb	5.14
 955211	-	BE KNOWLEDGEABLE	-	Knowledgeable through having read extensively.	Verb	-
 1539800	-	BE LATE	-	to be late	Verb	14.24
 1103280	-	BE SILENT	-	To stop speaking or making noise.	Verb	18.23
-8110	-	BE SORRY	REGRET	To wish that a past event had not happened.		Verb	16.34
+8110	-	BE SORRY	REGRET	To wish that a past event had not happened.	Verb	16.34
 359542	677004	BE THIRSTY	-	A physiological need to drink.	Verb	5.15
 1381836	-	BE WORTH	-	To have (the indicated) value.	Verb	11.99906
 321	-	BEACH	-	A lat, narrow strip of sand, gravel or pebbles along the shoreline of a body of water (ocean, river, lake).	Noun	1.99901
@@ -126,7 +126,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 1142217	-	BEAK	-	External anatomical structure of birds which is used for taking food and for eating.	Noun	4.241
 498099	-	BEAM	-	A structural member loaded on its narrow face, and typically used in a horizontal or sloping position to span between bearing points.	Noun	7.55
 355931	-	BEAN	-	Any of various leguminous plants grown for their edible seeds and pods.	Noun	5.66
-5530	-	BEAN CURD	TOFU	A protein-rich food made from curdled soybean milk, by coagulating it with magnesium sulfate.		Noun	5.9992
+5530	-	BEAN CURD	TOFU	A protein-rich food made from curdled soybean milk, by coagulating it with magnesium sulfate.	Noun	5.9992
 7552	-	BEAR	-	A large beast of prey of the family Ursidae, related to the dog and raccoon, having shaggy hair, a very small tail, and flat feet.	Noun	3.73
 333455	-	BEARD	-	Facial hair of humans on the chin, cheeks and jaw.	Noun	4.142
 6855	-	BEAT	-	To strike or pound repeatedly, usually in some sort of rhythm.	Verb	9.21
@@ -148,7 +148,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 6945	-	BEHIND	-	At the back of.	Function word	12.011
 8203	-	BELIEVE	-	To be confident about something.	Verb	17.15
 5516	-	BELLY	-	The lower part of the front of the torso (or a comparable part of an animal), confined by the upper side by the midriff and the lowerside by the pelvis. Contains the intestines.	Noun	4.431
-6199	-	BELOW	UNDER	Lower in spatial position than.		Function word	12.07
+6199	-	BELOW	UNDER	Lower in spatial position than.	Function word	12.07
 344311	-	BELT	-	A clothing accessory, usually made of leather or heavy cloth, worn around the waist and used to support trousers or other articles of clothing.	Noun	6.57
 7489	-	BENCH	-	Seat for more than one person, narrow and long, with or without back support, made of hard materials (wood, metal), that is normally found in public places (churches, parks, etc.).	Noun	7.99901
 961409	-	BEND	-	Movement that causes the formation of a curve.	Verb	9.14
@@ -180,7 +180,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 1375415	-	BLOW	-	(Of the wind or a current of air) To move.	Verb	10.38
 357132	-	BLUE	-	Having the pure color of a clear sky; the primary color between green and violet in the visible spectrum, an effect of light with a wavelength between 450 and 500 nm.	Adjective	15.67
 1511061	-	BLUNT	-	Having a thick edge or point, as an instrument; not sharp.	Adjective	15.79
-5868	-	BOAR	MALE PIG	An adult male pig.		Noun	3.32;3.99926
+5868	-	BOAR	MALE PIG	An adult male pig.	Noun	3.32;3.99926
 5479	357168;357171	BOARD	-	A piece of wood or similar material that has been sawn into a regular shape, usually in preparation for using it in some sort of construction.	Noun	7.57
 1176597	-	BOAST	-	To show off.	Verb	18.45
 7774	-	BOAT	-	A craft used for transportation of goods, fishing, racing, recreational cruising, or military use on or in the water, propelled by oars or outboard motor or inboard motor or by wind.	Noun	10.83
@@ -261,7 +261,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 452618	-	CAN	-	A small, round-shaped metal container, used for different purposes like storing food or liquids, or collecting money.	Noun	23.54
 6490	6491	CAN	-	To be able to.	Function word	24.99902
 5592	-	CANDLE	-	A light source consisting of a wick embedded in a solid, flammable substance such as wax, tallow, or paraffin.	Noun	7.46
-371969	-	CANDY	SWEETS	Food item that is rich in sugar.		Noun	23.565
+371969	-	CANDY	SWEETS	Food item that is rich in sugar.	Noun	23.565
 1497826	-	CANINE TOOTH	-	One of the teeth.	Noun	4.99903
 911657	-	CANOE	-	A light narrow boat driven by a paddle.	Noun	10.831
 389156	-	CANVAS SHEET	-	An extremely heavy-duty fabric popularly used as a painting surface.	Noun	9.99905
@@ -343,7 +343,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 479387	-	CLIMB	-	To mount to a high or little accessible place using feet and hands.	Verb	10.472
 1510537	-	CLOAK	-	A long outer garment worn over the shoulders covering the back; a cape, often with a hood. \xe2\x80\x83	Noun	6.41
 5790	-	CLOCK	-	An instrument used to measure or keep track of time.	Noun	14.53
-448880	340760	CLOSE	SHUT	To move (a door, a window, etc.) so that it closes its opening.		Verb	12.25;9.99929
+448880	340760	CLOSE	SHUT	To move (a door, a window, etc.) so that it closes its opening.	Verb	12.25;9.99929
 6620	-	CLOTH	-	A woven fabric such as used in dressing, decorating, cleaning or other practical use.	Noun	6.21
 8254	-	CLOTHES	-	All coverings designed to be worn on a person&#039;s body.	Noun	6.12
 621	-	CLOTHING	-	Clothes considered as a group.	Noun	6.12
@@ -362,7 +362,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 5639	-	COLD	-	Having a low temperature.	Adjective	15.86
 971440	-	COLLAR	-	The part of a garment that encircles the neck.	Noun	6.45
 953048	-	COLLARBONE	-	Bone linking the scapula and sternum.	Noun	4.302
-661	-	COLOR	COLOUR	An attribute of things that results from the light they reflect, transmit, or emit in so far as this light causes a visual sensation that depends on its wavelengths.		Noun	15.61
+661	-	COLOR	COLOUR	An attribute of things that results from the light they reflect, transmit, or emit in so far as this light causes a visual sensation that depends on its wavelengths.	Noun	15.61
 6157	-	COMB	-	A toothed implement for grooming the hair.	Noun	6.91
 6056	5965	COME	-	To move toward or to reach either the speaker, the person spoken to, or the subject of the speaker&#039;s narrative.	Verb	10.48
 159011	-	COME BACK	-	To go there where one was before.	Verb	10.481
@@ -383,10 +383,10 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 761	-	COPPER	-	Chemical element with symbol Cu and atomic number 29; one of the most important nonferrous metals; a ductile and malleable metal found in various ores and used in industry, engineering, and the arts in both pure and alloyed form.	Noun	9.66
 690122	-	CORD	-	A long, thin, flexible length of twisted strands of fibre/fiber, for example rope; (uncountable) such a length of twisted strands considered as a commodity.	Noun	9.99923
 358081	-	CORMORANT	-	Medium sized, black water bird from the family of the cormorants (Phalacrocoracidae), scientific name: Phalacrocorax carbo	Noun	3.597
-157264	-	CORN	MAIZE	A type of grain of the species Zea mays.		Noun	8.47
+157264	-	CORN	MAIZE	A type of grain of the species Zea mays.	Noun	8.47
 1404011	7729	CORNER	-	The area around the point where two converging walls meet.	Noun	12.76
 343500	-	CORPSE	-	A dead body.	Noun	4.77
-7026	-	CORRECT	RIGHT	That are in accordance with fact.		Adjective	16.73
+7026	-	CORRECT	RIGHT	That are in accordance with fact.	Adjective	16.73
 1012677	-	CORRUGATED IRON	-	Sheet iron bent into a series of alternate ridges and grooves in parallel lines, giving it greater stiffness.	Noun	9.99906
 781	-	COTTON	-	Fiber obtained from plants of the genus Gossypium, used in making fabrics, cordage, and padding and for producing artificial fibers and cellulose.	Noun	6.24
 1300711	-	COTTONTREE	-	A shrub of the genus Gossypium known for the soft fibers that protect its seeds.	Noun	8.99915
@@ -416,7 +416,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 154685	-	CUP	-	A concave vessel for holding liquid, generally adorned with either a handle or a stem	Noun	5.35
 156675	-	CURE	-	To remedy an illness using medical or medicamentous treatment; to provide a cure for.	Verb	4.86
 1023517	-	CURSE	-	An appeal or prayer for evil or misfortune to befall someone or something.	Verb	22.24
-6391	-	CUSTOM	PREVENT	To avoid the occurrence of an event; to stop from doing something or being in a certain state.		Noun	19.59;19.61
+6391	-	CUSTOM	PREVENT	To avoid the occurrence of an event; to stop from doing something or being in a certain state.	Noun	19.59;19.61
 6043	6106;1351742;699910	CUT	-	To perform an incision (for example, with a knife).	Verb	9.22
 1510941	-	CUT DOWN	-	To bring down by cutting.	Verb	9.221
 1511118	-	CUTLASS	-	A short sword with a curved blade, and a convex edge; once used by sailors when boarding an enemy ship.	Noun	20.99902
@@ -428,7 +428,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 335607	-	DARK	-	Having an absolute or (more often) relative lack of light.	Adjective	15.63
 1025381	-	DARKNESS	-	Absence of light.	Noun	1.62
 5881	-	DAUGHTER	-	An animal&#039;s female offspring (including that of a human).	Noun	2.42
-454163	-	DAUGHTER-IN-LAW	DAUGTHER-IN-LAW	The wife of someone&#039;s son.		Noun	2.64;2.641
+454163	-	DAUGHTER-IN-LAW	DAUGTHER-IN-LAW	The wife of someone&#039;s son.	Noun	2.64;2.641
 338616	670747	DAWN	-	A period of time at the beginning of the day shortly before sunrise during which the light gradually becomes stronger.	Noun	14.43
 5477	-	DAY	-	The period between sunrise and sunset where one enjoys daylight.	Noun	14.41
 5533	-	DAY	-	A period of time lasting 24 hours	Noun	14.411
@@ -442,11 +442,11 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 6535	-	DEEP	-	Having a bottom or base that is far away from the top.	Adjective	12.67
 858	-	DEER	-	The common name for 41 species of even-toed ungulates that compose the family Cervidae in the order Artiodactyla; males have antlers.	Noun	3.75
 345406	-	DEFEAT	-	An end to a struggle or contest that did not end in success.	Noun	20.42
-5818	-	DEFEND	PRESERVE; RETREAT	To keep something or someone safe or prevent harm coming to someone or something.		Verb	11.24;20.44;20.45
+5818	-	DEFEND	PRESERVE; RETREAT	To keep something or someone safe or prevent harm coming to someone or something.	Verb	11.24;20.44;20.45
 442442	-	DEFENDANT	-	Any party who is required to answer the complaint of a plaintiff in a civil lawsuit before a court.	Noun	21.22
 915102	-	DEMON	-	Evil spirit or person that is wicked or cruel in their actions.	Noun	22.35
 341655	994825	DENY	-	To refuse strongly and solemnly to own or acknowledge.	Verb	18.34
-980418	-	DESCEND	GO DOWN	To go from a higher to a lower place.		Verb	10.473
+980418	-	DESCEND	GO DOWN	To go from a higher to a lower place.	Verb	10.473
 155705	-	DESCENDANTS	-	One who is the progeny of someone at any distance of time.	Noun	2.57
 333618	-	DESTROY	-	To damage beyond use or repair.	Verb	11.27
 921645	-	DEW	-	Atmospheric moisture that condenses after a warm day and appears during the night on cool surfaces as small drops.	Noun	1.64
@@ -454,7 +454,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 159359	8175	DIFFICULT	-	Not easy, which needs hard work, patience and effort.	Adjective	17.47
 6024	-	DIG	-	To move earth, rocks, etc. out of the way, usually to create a hole.	Verb	8.22
 1510840	-	DIGGING STICK	-	A rod shaped implement used by the aboriginal people of Australia to dig yam and as a combat weapon.	Noun	8.28
-7654	-	DINNER	SUPPER	A meal that is eaten in the late afternoon or evening daily.		Noun	5.44;5.45
+7654	-	DINNER	SUPPER	A meal that is eaten in the late afternoon or evening daily.	Noun	5.44;5.45
 1511014	-	DIP	-	To immerse oneself; to become plunged in a liquid; to sink, to loewe, to decrease	Verb	10.99904
 5483	-	DIRTY	-	Covered with or containing unpleasant substances such as dirt or grime.	Adjective	15.88
 155161	-	DISAPPEAR	-	To cease to appear, to not be visible anymore.	Verb	10.491
@@ -469,7 +469,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 616807	-	DOLPHIN	-	A carnivorous aquatic mammal inhabiting mostly in the shallower seas of the continental shelves.	Noun	3.662
 8030	-	DONKEY	-	A domesticated animal, Equus asinus.	Noun	3.46
 1253751	-	DOOR	-	A moveable barrier that can be closed or open to control access to a building, a room, a car, an area, etc.	Noun	7.22
-433601	-	DOOR-BOLT	LATCH	A fastening for a door that has a bar that fits into a notch or slot, and is lifted by a lever or string from either side.		Noun	7.231
+433601	-	DOOR-BOLT	LATCH	A fastening for a door that has a bar that fits into a notch or slot, and is lifted by a lever or string from either side.	Noun	7.231
 1153341	-	DOORPOST	-	The frame that supports a door.	Noun	7.221
 5716	6812	DOUBT	-	Challenge about the truth or accuracy of a matter.	Noun	17.43
 6812	-	DOUBT	-	To lack confidence in; to disbelieve, question, or suspect.	Verb	17.99907
@@ -498,7 +498,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 1009	-	DUST	-	Any kind of solid material divided in particles of very small size.	Noun	1.213
 1510985	-	DWELL	-	To live; to reside; to remain or continue.	Verb	9.99931
 1335255	-	DYE	-	To modify the color of something by applying dye.	Verb	6.39
-5496	-	EACH	EVERY	Every individual or anything of the given class, with no exceptions.		Function word	13.99903
+5496	-	EACH	EVERY	Every individual or anything of the given class, with no exceptions.	Function word	13.99903
 838154	-	EAGLE	-	Any of several large carnivorous birds in the family Accipitridae, having a powerful hooked bill and keen vision.	Noun	3.584
 5510	-	EAR	-	The organ of hearing, consisting of the pinna, auditory canal, eardrum, malleus, incus, stapes and cochlea.	Noun	4.22
 1048124	-	EARLOBE	-	The lower fleshy part of the human ear.	Noun	4.221
@@ -565,9 +565,9 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 5464	-	FATHER	-	A male parent.	Noun	2.35
 936030	-	FATHER'S BROTHER	-	The brother of someone\xe2\x80\x99s father.	Noun	2.512
 1372531	-	FATHER'S SISTER	-	The sister of one&#039;s father.	Noun	2.522
-454081	-	FATHER-IN-LAW	-	The father of someone&#039;s spouse.		Noun	2.61;2.611;2.99905
+454081	-	FATHER-IN-LAW	-	The father of someone&#039;s spouse.	Noun	2.61;2.611;2.99905
 1153477	-	FATHOM	-	A linear unit of measurement, equal to 6 feet, for water depth.	Noun	12.541
-622752	-	FAUCET	TAP	A device applied to the end of a pipe in order to interrupt and regulate the flow of a liquid or gas.		Noun	23.5
+622752	-	FAUCET	TAP	A device applied to the end of a pipe in order to interrupt and regulate the flow of a liquid or gas.	Noun	23.5
 1280872	868115	FAULT	-	Wrong act done deliberately or good act omitted deliberately.	Noun	16.76
 345325	-	FEAR	-	An emotion experienced in anticipation of some specific pain or danger.	Noun	16.53
 6025	-	FEAR	-	To be scared of; to have an uncontrollable emotion of anxiety about something that causes a scared reaction or frightening impression.	Verb	-
@@ -580,7 +580,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 1525942	-	FERMENTED DRINK	-	A fermented drink is a beverage containing alcohol because of a metabolic process that converts sugar to acids, gases and/or alcohol (e.g. beer or wine).	Noun	5.94
 6347	-	FEVER	-	A higher than normal temperature of a person (or generally a mammal).	Noun	4.841
 5500	-	FEW	-	More than one, but not as many as usual or as expected.	Function word	13.17
-1425	-	FIELD	SAIL	A limited area of land with grass or crops growing on it, which is usually surrounded by fences or closely planted bushes when it is part of a farm.		Noun	10.88;8.12
+1425	-	FIELD	SAIL	A limited area of land with grass or crops growing on it, which is usually surrounded by fences or closely planted bushes when it is part of a farm.	Noun	10.88;8.12
 7010	-	FIFTEEN	-	The cardinal number occurring after fourteen and before sixteen, represented in Roman numerals as XV and in Arabic numerals as 15.	Function word	13.103
 7019	-	FIFTY	-	The cardinal number occurring after forty-nine and before fifty-one, represented in Roman numerals as L and in Arabic numerals as 50.	Function word	-
 1510497	-	FIG	-	The fruit of the fig tree, pear-shaped and containing many small seeds.	Noun	5.75
@@ -588,7 +588,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 6030	-	FIGHT	-	To be involved in a physical confrontation.	Verb	20.11
 637005	-	FILE	-	A hand tool used to shape material by abrasion.	Noun	9.99909
 962533	-	FILL	-	To make full.	Verb	13.99907
-1431	-	FILM	MOVIE	A sequence of animated images.		Noun	23.62
+1431	-	FILM	MOVIE	A sequence of animated images.	Noun	23.62
 1425624	-	FIN	-	An appendage of a fish used for swimming.	Noun	3.652
 336790	-	FIND	-	To encounter something by accident or after searching for it.	Verb	11.32
 1444	541549	FINE	-	A pecuniary punishment or penalty imposed by lawful tribunal upon person convicted of crime or misdemeanor.	Noun	21.38
@@ -669,7 +669,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 1601	-	GARDEN	-	A piece of land next to a house where flowers and other plants are grown and which often has an area of grass.	Noun	8.13
 1525934	-	GARDEN-HOUSE	-	A small building in a garden, such as a shed, which is not usually build to be inhabitated for long times.	Noun	7.131
 6430	-	GATE	-	An opening, or passage in a fence or wall; the entrance through which you enter or leave a room or building.	Noun	7.22
-7643	-	GATHER	MEET	To collect in one place, usually for a purpose.		Verb	12.21;19.65
+7643	-	GATHER	MEET	To collect in one place, usually for a purpose.	Verb	12.21;19.65
 5696	-	GERMAN	-	A person of German nationality.	Noun	2.99906
 334733	-	GET	-	To get or obtain an item; to come into the possession of something.	Verb	11.16
 525317	-	GHOST	-	The visible disembodied soul of a dead person.	Noun	22.45
@@ -679,11 +679,11 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 6059	-	GIVE	-	To transfer the possession or holding (of an object) to another person.	Verb	11.21
 1160012	522528	GIVE BACK	-	To transfer a good to the person or people it came from, or to their legal successors.	Verb	11.22
 1656	-	GLASS	-	A hard, amorphous, inorganic, usually transparent, brittle substance made by fusing silicates, sometimes borates and phosphates, with certain basic oxides and then rapidly cooling to prevent crystallization.	Noun	9.74
-8320	-	GLASSES	SPECTACLES	A pair of lenses in a frame that are worn in front of the eyes and are used to correct faulty vision or protect the eyes.		Noun	23.24
+8320	-	GLASSES	SPECTACLES	A pair of lenses in a frame that are worn in front of the eyes and are used to correct faulty vision or protect the eyes.	Noun	23.24
 369021	-	GLOVE	-	A garment for a hand, often extending to the wrist and sometimes up to the elbow, which either covers each finger individually, or separates the thumb from the other fingers.	Noun	6.58
 46	-	GLUE	-	Substance used for sticking objects together.	Noun	9.56
-334831	-	GO	-	To move from a place to another that is further away.		Verb	10.47;10.58
-7092	-	GO AWAY	LEAVE	To move away from a place, a situation or a talk.		Verb	10.49;9.99932
+334831	-	GO	-	To move from a place to another that is further away.	Verb	10.47;10.58
+7092	-	GO AWAY	LEAVE	To move away from a place, a situation or a talk.	Verb	10.49;9.99932
 480460	-	GO OUT	-	To move out of or depart from.	Verb	10.474
 335553	-	GO UP	-	To ascend; to go up.	Verb	10.471
 6257	-	GOAT	-	A common four-legged animal (Capra) that is related to sheep and bred by humans for its coat and milk.	Noun	3.36
@@ -738,7 +738,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 5616	-	HAND	-	That part of the fore limb below the forearm or wrist in primates (including humans).	Noun	4.33
 436343	-	HANDKERCHIEF	-	A piece of cloth, usually square and often fine and elegant, carried for wiping the face, nose or hands.	Noun	6.81
 1510949	-	HANG UP	-	To put up to hang	Verb	9.341
-1717	-	HARBOUR	PORT; WHARF	Area of water next to the coast, often surrounded by thick walls, where ships and boats can be sheltered.		Noun	10.91;9.9991;9.99926
+1717	-	HARBOUR	PORT; WHARF	Area of water next to the coast, often surrounded by thick walls, where ships and boats can be sheltered.	Noun	10.91;9.9991;9.99926
 8173	-	HARD	-	Resistant to pressure.	Adjective	15.74
 535092	-	HARE	-	Mammal of the family hares and rabbits (Leporidae) with long ears, short tail and hindlegs which are shorter than the forelegs and permit running quickly.	Noun	3.863
 358355	-	HARPOON	-	A spearlike weapon with a barbed head used in hunting whales and large fish.	Noun	9.99911
@@ -821,7 +821,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 871642	-	IDOL	-	A representation of a deity, notably a statue or a statuette.	Noun	22.37
 6076	1393788	IF	-	[The introduction of a condition or decision.]	Function word	17.53
 647456	-	IGUANA	-	(Iguanidae)A lizard family.	Noun	3.99921
-7800	-	ILL	SICK	Whose health is altered.		Adjective	4.84
+7800	-	ILL	SICK	Whose health is altered.	Adjective	4.84
 1229900	-	IMITATE	-	To follow as a model or a pattern.	Verb	17.172
 904194	-	IMMEDIATELY	-	In an immediate manner; instantly or without delay.	Function word	14.19
 6077	-	IN	-	Contained or encased by.	Function word	12.012
@@ -903,12 +903,12 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 2124	-	LEAF	-	The main organ of photosynthesis and transpiration in higher plants, usually consisting of a flat green blade attached to the stem directly or by a stalk.	Noun	8.56
 157124	-	LEARN	-	To acquire, or attempt to acquire knowledge or an ability to do something.	Verb	17.24
 2126	-	LEATHER	-	The dressed or tanned hide of an animal, usually with the hair removed.	Noun	6.29
-412005	-	LEECH	WATER LEECH	A worm-like creature that lives in water and sucks blood from animals.		Noun	
+412005	-	LEECH	WATER LEECH	A worm-like creature that lives in water and sucks blood from animals.	Noun	
 1499731	-	LEFT	-	Something that is on the left side relative to another object.	Adjective	12.42
 5665	-	LEG	-	The limb of an animal (including humans) that extends from the groin to the ankle.	Noun	4.35
 159035	-	LEND	-	To put an item or resource at the disposal of another, with the requirement to have the same or its equivalent returned eventually.	Verb	11.61
 1190083	-	LENT	-	Period of penitence for Christians before Easter.	Noun	22.99908
-476248	-	LET GO	SET FREE	To give freedom; to release from confinement or restraint.		Verb	11.34
+476248	-	LET GO	SET FREE	To give freedom; to release from confinement or restraint.	Verb	11.34
 6590	-	LETTER	-	A text that is written to and for a specific person or set of people (and is most commonly sent to them by post).	Noun	23.42
 1510901	-	LIANA	-	A climbing woody vine, usually tropical.	Noun	8.99925
 1077778	-	LIBERATE	-	To set free from the power of another.	Verb	19.445
@@ -959,7 +959,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 833779	1067624	MAD	-	Mentally ill.	Adjective	17.23
 8426	-	MADAGASCAR	-	An island country in the Indian Ocean off the southeastern coast of Africa	Noun	19.99908
 1511137	-	MAGIC	-	The use of rituals or actions, especially based on supernatural or occult knowledge, to manipulate or obtain information about the natural world, especially when seen as falling outside the realm of religion; also the forces allegedly drawn on for such practices. A specific ritual or procedure associated with supernatural magic or with mysticism; a spell.	Noun	22.42
-1366616	-	MAIL	POST	A batch of letters and parcels received via post.		Noun	23.4
+1366616	-	MAIL	POST	A batch of letters and parcels received via post.	Noun	23.4
 1364993	1373397	MAINLAND	-	A large and continuous mass of land representing most of a region or a country but excluding outlying islands.	Noun	1.26
 339200	-	MAKE	-	To create something by combining or assembling materials or parts or by changing it.	Verb	9.111
 6396	-	MALE	-	Of, relating to, or denoting a member of the sex that begets young by fertilizing ova.	Adjective	2.23
@@ -1008,7 +1008,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 5651	-	MISTAKE	-	A mistake, an oversight, a slight; usually apologetic, referring to one&#039;s own failures.	Noun	16.77
 1510518	-	MOCHI	-	A Japanese rice cake made from glutinous rice.	Noun	5.99914
 451991	-	MOLAR TOOTH	-	A tooth located in the back of the mouth used for crushing and grinding food.	Noun	4.272
-1507122	-	MOLD	MOULD	To create something, usually for a specific function.		Verb	9.72
+1507122	-	MOLD	MOULD	To create something, usually for a specific function.	Verb	9.72
 8385	-	MOLE	-	Mammif\xc3\xa8re insectivore, noir, qui vit sous terre dans des galeries qu&#039;il creuse avec ses pattes.	Noun	3.99929
 6992	-	MONDAY	-	The first day of the week in Europe and in systems using the ISO 8601 norm; the second day of the week in the United States of America.	Noun	14.63
 6408	-	MONEY	-	An unspecified amount in a currency.	Noun	11.43
@@ -1026,7 +1026,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 5463	-	MOTHER	-	A woman who has at least one child.	Noun	2.36
 936024	-	MOTHER'S BROTHER	-	The brother of someone\xe2\x80\x99s mother.	Noun	2.511
 1372595	-	MOTHER'S SISTER	-	The sister of one&#039;s mother.	Noun	2.521
-452350	-	MOTHER-IN-LAW	-	The mother of someone&#039;s spouse.		Noun	2.62;2.621;2.99909
+452350	-	MOTHER-IN-LAW	-	The mother of someone&#039;s spouse.	Noun	2.62;2.621;2.99909
 1200	-	MOTOR	-	A machine in which power is applied to do work by the conversion of various forms of energy into mechanical force and motion.	Noun	23.185
 2414	-	MOTORCYCLE	-	Single-track, two-wheeled motor vehicle.	Noun	23.135
 2421	-	MOUNTAIN	-	A feature of the earth&#039;s surface that rises high above the base and has generally steep slopes and a relatively small summit area.	Noun	1.22
@@ -1048,7 +1048,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 5995	-	NAME	-	Any word or phrase which designates a particular person, place, class or thing.	Noun	18.28
 5862	-	NAPE OF THE NECK	-	The back part of the neck.	Noun	4.281
 5566	-	NARROW	-	Having a small width.	Adjective	12.62
-1417428	-	NASAL MUCUS	SNOT	Mucus from the nose.		Noun	4.232
+1417428	-	NASAL MUCUS	SNOT	Mucus from the nose.	Noun	4.232
 1162698	-	NATIVE COUNTRY	-	One\xe2\x80\x99s country of birth.	Noun	19.12
 7690	-	NAVEL	-	A scar where the umbilical cord was attached.	Noun	4.43
 869106	-	NEAR	-	Not far distant in time or space or degree or circumstances.	Adverb	12.43
@@ -1088,7 +1088,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 479578	-	NURSE	-	A person trained to provide care for the sick.	Noun	23.21
 1403728	-	NUT	-	A hard-shelled seed.	Noun	5.77
 2597	-	OAK	-	Any tree of the genus Quercus in the order Fagales, characterized by simple, usually lobed leaves, scaly winter buds, a star-shaped pith, and its fruit, the acorn, which is a nut; the wood is tough, hard, and durable, generally having a distinct pattern.	Noun	8.61
-1478129	-	OAR	PADDLE	A tool used for pushing against liquid, generally for the propulsion of a boat.		Noun	10.85;10.851
+1478129	-	OAR	PADDLE	A tool used for pushing against liquid, generally for the propulsion of a boat.	Noun	10.85;10.851
 701390	-	OATH	-	Promise or solemn declaration in front of an authority, another person or to oneself.	Noun	21.25
 1111216	-	OATS	-	A species of grass (Avena sativa) grown for its seed.	Noun	8.46
 6686	992545	OBEY	-	To do as you are told.	Verb	19.46
@@ -1163,7 +1163,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 7328	-	PERJURY	-	The deliberate giving of false or misleading testimony under oath.	Noun	21.47
 431335	1504322	PERMIT	-	To approve a specific action.	Verb	19.47
 333730	2234	PERSON	-	A human being.	Noun	2.1
-1250941	-	PERSPIRE	SWEAT	To secrete sweat.		Verb	4.55
+1250941	-	PERSPIRE	SWEAT	To secrete sweat.	Verb	4.55
 1454217	-	PESTLE	-	A heavy cylindrical object with a rounded end used for crushing and grinding.	Noun	5.59
 2758	-	PET	-	An animal which is kept in the home as a companion and treated affectionately.	Noun	3.99933
 2761	-	PETROLEUM	-	A comparatively volatile liquid bitumen composed principally of hydrocarbon, with traces of sulphur, nitrogen or oxygen compounds; can be removed from the earth in a liquid state.	Noun	23.195
@@ -1185,7 +1185,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 1510464	-	PIRANHA	-	Any of the carnivorous freshwater fish living in South American rivers and belonging to the subfamily Serrasalminae.	Noun	3.99934
 160433	-	PISS	-	To allow urine to flow from the bladder out of the body.	Verb	4.65
 1238556	-	PITCHER	-	A container shaped like a vase with a handle and a spout used to serve liquids.	Noun	5.34
-1510832	-	PITCHFORK	-	An agricultural tool comprising a fork attached to a long handle used for pitching hay or bales of hay high up onto a haystack.		Noun	8.26
+1510832	-	PITCHFORK	-	An agricultural tool comprising a fork attached to a long handle used for pitching hay or bales of hay high up onto a haystack.	Noun	8.26
 503503	-	PITY	-	Deep awareness of the suffering of another, coupled with the wish to relieve it.	Noun	16.35
 337267	-	PLACE	-	A position or area in a space.	Noun	12.11
 440073	-	PLACE	-	To bring something in a specific place or in a specific position.	Verb	-
@@ -1200,7 +1200,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 154781	-	PLATE	-	A dish on which food is served or from which food is eaten.	Noun	5.32
 6010	-	PLAY	-	To act in a manner such that one has fun; to engage in playful activities expressly for the purpose of recreation.	Verb	16.26
 996296	-	PLOT	-	Agreement on a secret plot.	Noun	19.63
-845139	-	PLOUGH	PLOW	To use a plough on to prepare for planting.		Verb	8.21
+845139	-	PLOUGH	PLOW	To use a plough on to prepare for planting.	Verb	8.21
 1510468	-	PLOVER	-	Any of various wading birds of the family Charadriidae.	Noun	3.99935
 941830	-	PLUM	-	A fruit of the plum tree.	Noun	8.99941
 7816	-	POCKET	-	A kind of pouch, which is accessible by an opening in an article of clothing and serves for storage; usually large enough in order to accommodate at least one hand.	Noun	6.61
@@ -1247,7 +1247,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 1374507	-	PROUD	-	Feeling greatly pleased, or satisfied by something or someone that is highly honorable or creditable to oneself	Adjective	16.48
 1073333	-	PUBIC HAIR	-	Dense, coarse hair that grows on the male and female genital area beginning in puberty.	Noun	4.145
 6071	840722	PULL	-	To apply a force to (an object), in order that it moves towards the origin of the force that was applied.	Verb	9.33
-366683	-	PUMPKIN	SQUASH	A squash fruit of the Cucurbita genus, most commonly orange in colour when ripe and traditionally used during Halloween.		Noun	8.931
+366683	-	PUMPKIN	SQUASH	A squash fruit of the Cucurbita genus, most commonly orange in colour when ripe and traditionally used during Halloween.	Noun	8.931
 1511126	-	PUNISHMENT	-	The act or process of punishing, imposing and/or applying a sanction; a penalty to punish wrongdoing, especially for crime.	Noun	21.37
 341470	353776	PUPIL	-	A student under the supervision of a teacher or professor.	Noun	17.26
 450119	-	PURSUE	-	Trying to achieve or to reach something.	Verb	10.53
@@ -1256,7 +1256,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 429615	-	PUT	-	To set or place an object in a different place than it original was.	Verb	12.12
 1335540	-	PUT ON	-	Entrer dans (un v\xc3\xaatement) ; \xc3\xa9quiper (un v\xc3\xaatement) sur son propre corps.	Verb	6.11
 8235	-	QUAIL	-	(Coturnix coturnix) Small (17 cm) rotund bird from the pheasant family (Phasianidae)	Noun	3.865
-7805	-	QUARREL	TWIST	A loud or noisy verbal confrontation between two or more people.		Noun	10.17;19.62
+7805	-	QUARREL	TWIST	A loud or noisy verbal confrontation between two or more people.	Noun	10.17;19.62
 1241323	-	QUARREL	-	To take part in a loud or angry verbal confrontation with one or more other people.	Verb	19.9994
 5708	-	QUEEN	-	A female monarch.	Noun	19.33
 5759	5761;5763;5760	QUIET	-	With little or no sound; denoting absence of disturbing noise.	Adjective	15.46
@@ -1269,7 +1269,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 3100	-	RAIN	-	Precipitation in the form of liquid water drops with diameters greater than 0.5 millimetres.	Noun	1.75
 5523	-	RAIN	-	To fall from the clouds in drops of water.	Verb	-
 7041	-	RAINBOW	-	A multicoloured arc in the sky caused by the refraction of light within droplets of rain in the air.	Noun	1.59
-5772	-	RAISE	-	To cause to rise; to move something from a lower position to a higher one.		Verb	10.22;8.99962
+5772	-	RAISE	-	To cause to rise; to move something from a lower position to a higher one.	Verb	10.22;8.99962
 1510836	-	RAKE	-	A garden tool with a row of pointed teeth fixed to a long handle, used for collecting grass or debris, or for loosening soil.	Noun	8.27
 5855	-	RAM	-	A male sheep.	Noun	3.26
 467328	-	RAMEN NOODLES	-	A Japanese noodle dish of Chinese origins. It consists of long, originally hand-pulled noodles, a soup based on miso, soy sauce or salt, and toppings like sliced pork (chashu), seaweed (nori), kamaboko or green onions.	Noun	5.99915
@@ -1340,7 +1340,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 6259	-	SALIVA	-	A secretion from the salivary glands (found in the mouth) that can be spat out.	Noun	4.9991
 5599	-	SALT	-	A condiment (NaCl - Sodium Chloride) used to add to or enhance the flavour of food (commonly with pepper).	Noun	5.81
 475116	1384111	SALTY	-	Containing salt.	Adjective	15.36
-6406	1407061	SAME	SIMILAR	Having some particular qualities or characteristics in common, but not all of them.		Function word	12.92;17.99903
+6406	1407061	SAME	SIMILAR	Having some particular qualities or characteristics in common, but not all of them.	Function word	12.92;17.99903
 1407061	6437;6406;1407064	SAME	-	Bearing full likeness by having precisely the same set of characteristics.	Function word	24.13
 3305	-	SAND	-	A loose material consisting of small mineral particles, or rock and mineral particles, distinguishable by the naked eye; grains vary from almost spherical to angular, with a diameter range from 1/16 to 2 millimeters.	Noun	1.215
 1383890	-	SANDAL	-	An open type of outdoor footwear leaving most of the upper part of the foot exposed, particularly the toes.	Noun	6.99907
@@ -1382,7 +1382,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 493075	-	SEND	-	To make something (an object, a message) go from one place to another.	Verb	10.63
 5883	-	SEPARATE	-	To cause something or someone to move away from something or someone else.	Verb	12.23
 1504891	-	SERVANT	-	A person performing duties for others. For example a person employed in a household which cares about the domestic duties.	Noun	19.43
-5974	515194	SETTLEMENT	TOWN	An area with residential districts, shops and amenities, and its own local government.		Noun	19.15;19.99932
+5974	515194	SETTLEMENT	TOWN	An area with residential districts, shops and amenities, and its own local government.	Noun	19.15;19.99932
 7004	-	SEVEN	-	The cardinal number occurring after six and before eight, represented in Roman numerals as VII, in Arabic numerals as 7.	Function word	13.07
 6073	-	SEW	-	To pass thread repeatedly through fabric or a material, using a needle, in order to join two or more parts or to make a pattern or motif.	Verb	6.35
 5966	-	SHADE	-	Darkness, where light (particularly sunlight) is blocked.	Noun	1.63
@@ -1443,7 +1443,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 1511010	-	SLEDGE	-	A low sled drawn by animals, typically on snow, ice or grass.	Noun	10.79
 6519	-	SLEEP	-	To rest in a state of decreased consciousness and reduced metabolism.	Verb	4.61
 1414327	-	SLEEVE	-	The part of a garment that covers the arm.	Noun	6.99908
-5791	-	SLIDE	SLIP	To fall over (usually unexpectedly) onto the ground or floor, due to the floor being slippery, smooth or slimy.		Verb	10.42
+5791	-	SLIDE	SLIP	To fall over (usually unexpectedly) onto the ground or floor, due to the floor being slippery, smooth or slimy.	Verb	10.42
 1511106	-	SLING	-	An instrument for throwing stones or other missiles, consisting of a short strap with two strings fastened to its ends, or with a string fastened to one end and a light stick to the other.	Noun	20.23
 355484	-	SLOVAK	-	A person of Slovak nationality.	Noun	2.99915
 335287	-	SLOW	-	With low speed.	Adverb	14.22
@@ -1473,7 +1473,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 6335	333730	SOMEONE	-	An unspecified person.	Function word	24.9991
 6387	-	SOMETIMES	-	On certain occasions, or in certain circumstances, but not always.	Function word	14.33
 6634	-	SON	-	One&#039;s male child.	Noun	2.41
-454149	-	SON-IN-LAW	-	The husband of someone&#039;s daughter.		Noun	2.63;2.631
+454149	-	SON-IN-LAW	-	The husband of someone&#039;s daughter.	Noun	2.63;2.631
 476597	-	SONG	-	A musical piece with lyrics (or &quot;words to sing&quot;); prose that one can sing.	Noun	23.64
 3552	-	SONGBIRD	-	Any passerine bird of the suborder Oscines, having highly developed vocal organs and, in most, a music call.&#10;(Source: CED)	Noun	3.9994
 335437	-	SOON	-	In a near future.	Function word	14.331
@@ -1491,7 +1491,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 525509	-	SPADE	-	Tool having a flat and sharp metal tip and a wooden handle used to break, dig and move the earth.	Noun	8.23
 7965	-	SPAIN	-	Country in Western Europe.	Noun	19.99911
 7891	-	SPARROW	-	A small song bird, in the family Passeridae.	Noun	3.99941
-6656	-	SPEAK	TALK	To communicate by the use of sounds that are interpreted as language; to communicate verbally.		Verb	18.21
+6656	-	SPEAK	TALK	To communicate by the use of sounds that are interpreted as language; to communicate verbally.	Verb	18.21
 408915	-	SPEAR	-	Arme longue et droite en bois, termin\xc3\xa9e par un fer pointu, utilis\xc3\xa9e au moyen \xc3\xa2ge.	Noun	20.26
 4834	-	SPEECH	-	An address or form of oral communication in which a speaker makes his thoughts and emotions known before an audience, often for a given purpose.&#10;(Source: RHW)	Noun	18.222
 413739	-	SPELL	-	To say the letters that make up a word, one after the other.	Verb	18.9991
@@ -1510,7 +1510,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 157536	-	SPOUSE	-	A married person; A married woman or a married man.	Noun	2.99916
 1083572	-	SPREAD OUT	-	To spread out or open from a closed or folded state.	Verb	9.34
 3596	-	SPRING	-	A place where ground water flows naturally from a rock or the soil onto the land surface or into a body of surface water.	Noun	1.37
-6360	-	SPRING	-	Traditionally the first of the four seasons, the season of growth with an ever increasing amount of daytime.		Noun	1.9991;14.75
+6360	-	SPRING	-	Traditionally the first of the four seasons, the season of growth with an ever increasing amount of daytime.	Noun	1.9991;14.75
 1399469	-	SPUR	-	A kind of small sharp bony or horny spike  pointing rearward, near the foot of certain male galliform birds.	Noun	9.99922
 3599	-	SQUARE	-	An open area in a town, sometimes including the surrounding buildings.	Noun	12.78
 6017	441998;441891	SQUEEZE	-	To apply pressure to something from two or more sides at once.	Verb	9.343
@@ -1518,7 +1518,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 6045	-	STAB	-	To pierce or to wound with a pointed tool or weapon, especially a knife or dagger.	Verb	9.223
 3602	-	STABLE	-	A building or structure usually with stalls that is used to house and feed horses, cattle or other animals.	Noun	3.19
 399816	-	STALLION	-	An uncastrated male horse.	Noun	3.42
-8041	-	STAMMER	STUTTER	To have problems articulating the words, repeting sometimes some syllables.		Verb	18.211
+8041	-	STAMMER	STUTTER	To have problems articulating the words, repeting sometimes some syllables.	Verb	18.211
 6053	-	STAND	-	To be upright in an erect position, supported by the feet.	Verb	12.15
 6041	-	STAR	-	A luminous celestial body that is made from gases (particularly hydrogen and helium) and forms the shape of a sphere.	Noun	1.54
 481714	-	STATE	-	The condition in which someone or something is in.	Noun	17.99905
@@ -1615,7 +1615,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 1506073	-	THATCH	-	Natural roofing material such as straw, reeds, leaves, etc.	Noun	7.52
 1360510	1379890	THEN	-	Soon after this; following in chronological order.	Function word	24.99912
 858309	5489	THERE	-	In a not completely determined place which is not here.	Function word	24.1
-352331	-	THEY	-	The third person plural of the personal pronoun that designates more than one person or animal, thing or idea which have already been mentioned previously.		Function word	2.96;24.99913
+352331	-	THEY	-	The third person plural of the personal pronoun that designates more than one person or animal, thing or idea which have already been mentioned previously.	Function word	2.96;24.99913
 5503	-	THICK	-	Relatively large distance from one surface to the opposite in its smallest solid dimension.	Adjective	12.63
 515549	-	THIEF	-	Someone who takes property belonging to someone else with the intention of keeping it or selling it.	Noun	21.52
 348189	-	THIGH	-	The area between the pelvis and buttocks and the knee.	Noun	4.351
@@ -1693,7 +1693,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 1200609	-	TURTLE	-	A reptile of the order Testudines (the crown group of the superorder Chelonia), characterised by a special bony or cartilaginous shell developed from their ribs that acts as a shield.	Noun	3.98
 7007	-	TWELVE	-	The cardinal number occurring after eleven and before thirteen, represented in Roman numerals as XII and in Arabic numerals as 12.	Function word	13.102
 7013	-	TWENTY	-	The cardinal number occurring after nineteen and before twenty-one, represented in Roman numerals as XX and in Arabic numerals as 20.	Function word	13.104
-6389	-	TWICE	TWO TIMES	Two times.		Function word	13.38
+6389	-	TWICE	TWO TIMES	Two times.	Function word	13.38
 431713	-	TWINS	-	A case of multiple birth in which the mother gives birth to two offspring from the same pregnancy.	Noun	2.458
 6248	5425	TWO	-	The cardinal number occurring after one and before three, represented in Roman numerals as II and in Arabic numerals as 2.	Function word	13.02
 1329165	-	UDDER	-	An organ in female quadruped mammals which consists of mammary glands and has several teats.	Noun	4.42
@@ -1744,19 +1744,19 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 4079	-	WATERFALL	-	A perpendicular or steep descent of the water of a stream.	Noun	1.39
 458943	-	WATERMELON	-	The fruit of the watermelon plant (Citrullus vulgaris, Citrullus lanatus), having a green rind and watery flesh that is bright red when ripe and contains black pips.	Noun	8.99954
 421112	-	WAVE	-	A disturbance in an fluid medium.	Noun	1.35
-5455	-	WE	-	The speaker or writer and at least one other person.		Function word	2.94;24.99914
+5455	-	WE	-	The speaker or writer and at least one other person.	Function word	2.94;24.99914
 496905	-	WE	-	inclusive &quot;we&quot;: I and at least one other person, including the addressed person(s)&#10;(pronoun 1st person plural with 2nd person)	Function word	2.941
 496889	-	WE	-	exclusive &quot;we&quot;: I and at least one other person, but not the addressed person (you)&#10;&#10;(pronoun 1st person plural without 2nd person)	Function word	2.942
 6555	-	WEAK	-	Lacking in force or ability.	Adjective	4.82
 4128	-	WEAPONS	-	An instrument of attack or defense in combat, as a gun, missile, or sword.	Noun	20.21
 420726	-	WEAR	-	Fix clothes on your body and carry them.	Verb	6.99911
 4129	-	WEATHER	-	The day-to-day meteorological conditions, especially temperature, cloudiness, and rainfall, affecting a specific place.	Noun	1.78
-1280854	-	WEAVE	-	To make, as fabric, by enterlacing threads.		Verb	6.33;9.75
+1280854	-	WEAVE	-	To make, as fabric, by enterlacing threads.	Verb	6.33;9.75
 5532	-	WEDDING	-	A ceremony celebrating the beginning of a marriage, during which the marrying parties exchanges vows.	Noun	2.34
 6990	-	WEDNESDAY	-	The third day of the week in Europe and in systems using the ISO 8601 norm; the fourth day of the week in the United States of America.	Noun	14.65
 6145	-	WEEK	-	A period of seven days.	Noun	14.61
 478489	-	WEIGH	-	To determine the weight of an object.	Verb	11.92
-4138	-	WELL	-	A hole dug into the earth to reach a supply of water, oil, brine or gas.		Noun	1.37;9.99925
+4138	-	WELL	-	A hole dug into the earth to reach a supply of water, oil, brine or gas.	Noun	1.37;9.99925
 7537	-	WEST	-	One of the four principal compass points, specifically 270\xc2\xb0, conventionally directed to the left on maps. The direction of the setting sun.	Noun	12.46
 7027	-	WET	-	Covered with or impregnated with liquid.	Adjective	15.83
 4147	-	WHALE	-	Large marine mammals of the order Cetacea; the body is streamlined, the broad flat tail is used for propulsion, and the limbs are balancing structures.	Noun	3.663
@@ -1802,7 +1802,7 @@ OMEGAWIKI	SEEALSO	GLOSS	ALIAS	DEFINITION	POS	WOLD
 3414	-	WOODY SHRUB	-	A woody perennial plant, smaller than a tree, with several major branches arising from near the base of the main stem.	Noun	8.99958
 4174	-	WOOL	-	The soft, curly hair that forms the fleece of sheep, lamas and other animals and which is used to produce clothing.	Noun	6.22
 6551	-	WORD	-	A distinct unit of language (sounds in speech or written letters) with a particular meaning, composed of one or more morphemes, and also of one or more phonemes that determine its sound pattern.	Noun	18.26
-471303	-	WORK	-	To do a specific task by employing physical or mental powers.		Noun	9.12
+471303	-	WORK	-	To do a specific task by employing physical or mental powers.	Noun	9.12
 691207	6480	WORKSHOP	-	Laboratorio o estudio de un artesano.	Noun	23.58
 4181	-	WORLD	-	The Earth with all its inhabitants and all things upon it.	Noun	1.1
 5466	-	WORM	-	A generally tubular invertebrate of the annelid phylum.	Noun	3.84
