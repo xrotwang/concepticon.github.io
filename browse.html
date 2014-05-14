@@ -1,6 +1,8 @@
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <script type="text/javascript" src="javascripts/vendor/jquery-1.11.1.min.js"></script>
+		<script type="text/javascript" src="http://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
     <style>
 table {
   border: 2px solid black;
@@ -14,7 +16,13 @@ td {
   max-width: 400px;
   font-size: 80%;
 }
-
+/* Sortable tables */
+table.sortable thead {
+    background-color:lightgray;
+    color:#666666;
+    //font-weight: bold;
+    cursor: pointer;
+}
 
 
 tr {
@@ -64,98 +72,98 @@ function showData()
     {
       if(start == 1)
       {
-  points = line.split('\t');
-  table += "<tr>" //<td>"+counter+"</td>";
-  counter += 1;
-  for(j=0,p;p=points[j];j++)
-  {
-    if(header[j] == 'OMEGAWIKI')
-    {
-      var fill = '<a target="_blank" href="http://www.omegawiki.org/DefinedMeaning:'+p+'">'+p+'</a>';
-    }
-    else if(header[j] == 'SEEALSO')
-    {
-      var fill_ar = [];
-      if(p=='-')
-      {
-        fill_ar.push('<span style="color:white">.</span>');
-      }
-      else
-      {
-        var fills = p.split(';');
-        for(var k=0,f;f=fills[k];k++)
+        points = line.split('\t');
+        table += '<tr id="OW_'+points[0]+'">' //<td>"+counter+"</td>";
+        counter += 1;
+        for(j=0,p;p=points[j];j++)
         {
-          var tmp_fill = '<a target="_blank" href="http://www.omegawiki.org/DefinedMeaning:'+f+'">'+f+'</a> ';
-          fill_ar.push(tmp_fill);
-        }
-      }
-      var fill = fill_ar.join(', ')
-    }
-    else if(header[j] == 'WOLD')
-    {
-      var fill_ar = [];
-      if(p == '-')
-      {
-        fill_ar.push('<span style="color:white">.</span>');
-      }
-      else
-      {
-        var fills = p.split(';');
-        for(var k=0,f; f=fills[k];k++)
-        {
-          if(f != '-')
+          if(header[j] == 'OMEGAWIKI')
           {
-            var tmp_fill = '<a target="_blank" href="http://wold.livingsources.org/meaning/'+f.replace(/\./,"-")+'">'+f+'</a>';
-            fill_ar.push(tmp_fill);
+            var fill = '<a target="_blank" href="http://www.omegawiki.org/DefinedMeaning:'+p+'">'+p+'</a>';
           }
+          else if(header[j] == 'SEEALSO')
+          {
+            var fill_ar = [];
+            if(p=='-')
+            {
+              fill_ar.push('<span style="color:white">.</span>');
+            }
+            else
+            {
+              var fills = p.split(';');
+              for(var k=0,f;f=fills[k];k++)
+              {
+                var tmp_fill = '<a target="_blank" href="http://www.omegawiki.org/DefinedMeaning:'+f+'">'+f+'</a> ';
+                fill_ar.push(tmp_fill);
+              }
+            }
+            var fill = fill_ar.join(', ')
+          }
+          else if(header[j] == 'WOLD')
+          {
+            var fill_ar = [];
+            if(p == '-')
+            {
+              fill_ar.push('<span style="color:white">.</span>');
+            }
+            else
+            {
+              var fills = p.split(';');
+              for(var k=0,f; f=fills[k];k++)
+              {
+                if(f != '-')
+                {
+                  var tmp_fill = '<a target="_blank" href="http://wold.livingsources.org/meaning/'+f.replace(/\./,"-")+'">'+f+'</a>';
+                  fill_ar.push(tmp_fill);
+                }
+              }
+            }
+            if(fill_ar.length == 1)
+            {
+              var fill = fill_ar[0];
+            }
+            else if(fill_ar.length > 1)
+            {
+              var fill = '<span style="background-color:red">'+fill_ar.join(', ')+'</span>';
+            }
+            else
+            {
+              var fill = '<span style="color:white">.</span>';
+            }
+          }
+          else
+          {
+            if(p != '-')
+            {
+              var fill = p;
+            }
+            else
+            {
+              var fill = '<span style="color:white">.</span>';
+            }
+          }
+          table += '<td class="'+header[j]+'">'+fill+'</td>';
         }
-      }
-      if(fill_ar.length == 1)
-      {
-        var fill = fill_ar[0];
-      }
-      else if(fill_ar.length > 1)
-      {
-        var fill = '<span style="background-color:red">'+fill_ar.join(', ')+'</span>';
-      }
-      else
-      {
-        var fill = '<span style="color:white">.</span>';
-      }
-    }
-    else
-    {
-      if(p != '-')
-      {
-        var fill = p;
-      }
-      else
-      {
-        var fill = '<span style="color:white">.</span>';
-      }
-    }
-    table += '<td class="'+header[j]+'">'+fill+'</td>';
-  }
-  table += '</tr>';
-      }
-      else
-      {
-  start = 1;
-  counter = 1;
-  var points = line.split('\t');
-  var table = '<table id="concepticon" border="1"><tr>'; //<th>'+points.join('</th><th>')+'</th></tr>';
+        table += '</tr>';
+     }
+     else
+     {
+       start = 1;
+       counter = 1;
+       var points = line.split('\t');
+       var table = '<table id="concepticon" class="sortable" border="1"><tr>'; //<th>'+points.join('</th><th>')+'</th></tr>';
 
-  for(var j=0, p; p = points[j]; j++)
-  {
-    header[j] = p;
-    table += '<th id="'+p.toLowerCase()+'">'+p+'</th>';
-  }
-  table += '</tr>';
-      }
-    }
-  }
-  table += '</table>';
-  show.innerHTML = table;
+       for(var j=0, p; p = points[j]; j++)
+       {
+         header[j] = p;
+         table += '<th id="'+p.toLowerCase()+'">'+p+'</th>';
+       }
+       table += '</tr>';
+     }
+   }
+ }
+table += '</table>';
+show.innerHTML = table;
 }
 
 function searchTable()
@@ -174,9 +182,14 @@ function searchTable()
   for(var i=1, row; row=table.rows[i]; i++)
   {
     cell = row.cells[2];
-    if(cell.innerHTML.indexOf(text.toUpperCase()) == -1)
+		var fullText = '';
+		for(j=0,cell;cell=row.cells[j];j++)
+		{
+			fullText += cell.innerHTML.toUpperCase();
+		}
+    if(fullText.indexOf(text.toUpperCase()) == -1)
     {
-      if(cell.innerHTML == text.toUpperCase().replace(/"/g,''))
+      if(fullText == text.toUpperCase().replace(/"/g,''))
       {
         row.style.display = 'table-row';
       }
@@ -191,6 +204,42 @@ function searchTable()
     }
   }
 }
+
+function loadFile(url,wait)
+{
+  $.ajax({
+    async: wait,
+    type: "GET",
+    url: url,
+    dataType: "text",
+    success: function(data) { storeText(data); }
+  });
+}
+
+//function sortColumn(colid)
+//{
+//  var table = document.getElementById('concepticon');
+//	var cols = [];
+//	for(var i=1,row;row=table.rows[i];i++)
+//	{
+//		var cell = row.cells[colid];
+//		cols.push([cell,rows);
+//	}
+//	cols.sort(function (a,b){return a[0] - b[0];});
+//	var new_table = '';
+//	for 
+//
+//}
+
+function storeText(data)
+{
+  var store = document.getElementById("store");
+  store.innerText = data;
+
+  var db = document.getElementById("db");
+  //db.innerHTML = store.innerText;
+}
+
 </script>
   </head>
   <body>
@@ -206,6 +255,10 @@ function searchTable()
   <div id="db"></div>
   <script>
     document.getElementById('file').addEventListener('change', handleFileSelect, false);
+  </script>
+  <script>
+    loadFile('datapackage/concepticon.tsv',false);
+    showData();
   </script>
 
   </body>
