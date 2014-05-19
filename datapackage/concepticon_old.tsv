@@ -1,6 +1,7 @@
 # CONCEPTICON
 # Created by: QLC Research Group
-# Created on: 2014-05-19 08:16
+# Created on: 2014-05-14 13:38
+
 OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 7064	-	ABOVE	Spatial relations	In or to a higher place; higher than; on or over the upper surface.	Function word	12.081
 751478	541549	ACCUSE	Law	To lay a charge against; bring an accusation against.	Verb	21.31
@@ -127,7 +128,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 468867	-	BILL	Possession	Sum owed in a restaurant, or the relative bill.	Noun	11.66
 7898	-	BIRCH	Agriculture and vegetation	A tree of the genus Betula, with small leaves and a trunk that is white with darker blotches.	Noun	8.63
 400	-	BIRD	Animals	Any of the bipedal, warm-blooded vertebrates that lay eggs having wings which, for most species, enables them to fly.	Noun	3.581
-1511158	-	BIRTH CERTIFICATE	Modern world	official document certifying the details of a person's birth. Name, date, and parents' names are always included; details such as parents' occupation and religion may be included.	Noun	23.36
+1511158	-	BIRTH CERTIFICATE	Modern world	official document certifying the details of a person's birth. Name, date, and parents' names are always included; details such as parents' occupation and religion may be included.  	Noun	23.36
 5993	-	BITE	The body	To cut off a piece by clamping the teeth.	Verb	4.58
 375671	-	BITTER	Sense perception	Having an acrid taste.	Adjective	15.37
 1341728	-	BLACK	Sense perception	Dark and colourless; not reflecting visible light.	Adjective	15.65
@@ -189,7 +190,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 509506	-	BRUISE	The body	A collection of blood in the body tissue outside the blood vessels	Noun	4.852
 7562	-	BRUSH	Clothing and grooming	An implement with a handle, and a head with multiple more or less flexible bristles, used for arranging hair.	Noun	6.92
 398978	-	BUFFALO	Animals	A wild heavy bison of the species Bison bison, having a broad massive horned head.	Noun	3.917
-441	-	BUG	Animals	Any of the suborder Heteroptera, having piercing and sucking mouthparts, specialized as a beak. (Source: CED)	Noun	-
+441	-	BUG	Animals	Any of the suborder Heteroptera, having piercing and sucking mouthparts, specialized as a beak.(Source: CED)	Noun	-
 7714	339200;699003	BUILD	Basic actions and technology	To form by combining materials or parts.	Verb	9.44
 432142	-	BULL	Animals	Male bovine animal.	Noun	3.21
 908269	-	BUNCH	Food and drink	A group of things fastened or growing together.	Noun	5.712
@@ -233,15 +234,15 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 335306	1506955	CATCH	Motion	To take hold of, especially in the hands, so as to seize or restrain or stop the motion of.	Verb	10.252
 511	-	CATTLE	Animals	Domesticated bovine animals, including cows, steers and bulls, raised and bred on a ranch or farm.	Noun	3.2
 364159	1160391	CAUSE	Cognition	That which brings about any condition or produces any effect.	Noun	17.42
-513	-	CAVE	The physical world	1) An underground hollow with access from the ground surface or from the sea, often found in limestone areas and on rocky coastlines.2) A natural cavity, chamber or recess which leads beneath the surface of the earth, generally in a horizontal or obliquely inclined direction. It may be in the form of a passage or a gallery, its shape depending in part on the joint pattern or structure of the rock and partly on the type of process involved in its excavation. Thus, caves worn by subterranean rivers may be different in character from, and of considerably greater extent than, a sea-cave eroded by marine waves.3) A natural underground open space, generally with a connection to the surface and large enough for a person to enter. The most common type of cave is formed in a limestone by dissolution. (Source: CED /  WHIT /  BJGEO)	Noun	1.28
+513	-	CAVE	The physical world	1) An underground hollow with access from the ground surface or from the sea, often found in limestone areas and on rocky coastlines.2) A natural cavity, chamber or recess which leads beneath the surface of the earth, generally in a horizontal or obliquely inclined direction. It may be in the form of a passage or a gallery, its shape depending in part on the joint pattern or structure of the rock and partly on the type of process involved in its excavation. Thus, caves worn by subterranean rivers may be different in character from, and of considerably greater extent than, a sea-cave eroded by marine waves.3) A natural underground open space, generally with a connection to the surface and large enough for a person to enter. The most common type of cave is formed in a limestone by dissolution.(Source: CED /  WHIT /  BJGEO)	Noun	1.28
 849510	1496276	CEASE	Time	To have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical.	Verb	14.28
 915513	-	CENTIPEDE	Animals	Any of various flattened, wormlike arthropods of the class Chilopoda, whose bodies are divided into many segments, each with one pair of legs.	Noun	3.814
 157395	-	CERTAIN	Cognition	Without any doubt or possibility of deviation.	Adjective	17.37
 6665	-	CHAIN	Basic actions and technology	A series of interlocked rings or links forming a flexible length.	Noun	9.18
 6162	-	CHAIR	The house	An item of furniture comprising a seat, legs, back, and sometimes arm rests, on which or in which one people can sit.	Noun	7.43
-640095	-	CHAMELEON	Animals	(Chamaeleonidae) A squamate that belong to one of the best-known lizard families.	Noun	3.913
+640095	-	CHAMELEON	Animals	(Chamaeleonidae)A squamate that belong to one of the best-known lizard families.	Noun	3.913
 5547	5546	CHANGE	Spatial relations	To make different.	Verb	12.93
-535	-	CHARCOAL	The physical world	A porous solid product containing 85-98% carbon and produced by heating carbonaceous materials such as cellulose, wood or peat at 500-600 C° in the absence of air. (Source: MGH)	Noun	1.89
+535	-	CHARCOAL	The physical world	A porous solid product containing 85-98% carbon and produced by heating carbonaceous materials such as cellulose, wood or peat at 500-600 C° in the absence of air.(Source: MGH)	Noun	1.89
 8184	1171283	CHEAP	Possession	Low in price.	Adjective	11.89
 7034	-	CHEEK	The body	The soft skin on each side of the face, between the eyes and the chin; the outer surface of the sides of the oral cavity.	Noun	4.208
 6435	-	CHEESE	Food and drink	A curdled or cultured milk product.	Noun	5.88
@@ -271,9 +272,9 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 335501	-	CLEAN	Sense perception	Not dirty.	Adjective	15.87
 425679	429929	CLEAR	Cognition	Free of ambiguity or doubt.	Adjective	17.34
 5722	-	CLEVER	Emotions and values	Mentally agile.	Adjective	16.84
-4261	-	CLIFF	The physical world	A steep coastal declivity which may or may not be precipitous, the slope angle being dependent partly on the jointing, bedding and hardness of the materials from which the cliff has been formed, and partly on the erosional processes at work. Where wave attack is dominant the cliff-foot will be rapidly eroded and cliff retreat will take place, especially in unconsolidated materials such as clays, sands, etc., frequently leaving behind an abrasion platform at the foot of the cliff. (Source: WHIT)	Noun	1.222
+4261	-	CLIFF	The physical world	A steep coastal declivity which may or may not be precipitous, the slope angle being dependent partly on the jointing, bedding and hardness of the materials from which the cliff has been formed, and partly on the erosional processes at work. Where wave attack is dominant the cliff-foot will be rapidly eroded and cliff retreat will take place, especially in unconsolidated materials such as clays, sands, etc., frequently leaving behind an abrasion platform at the foot of the cliff.(Source: WHIT)	Noun	1.222
 479387	-	CLIMB	Motion	To mount to a high or little accessible place using feet and hands.	Verb	10.472
-1510537	-	CLOAK	Clothing and grooming	A long outer garment worn over the shoulders covering the back; a cape, often with a hood.	Noun	6.41
+1510537	-	CLOAK	Clothing and grooming	A long outer garment worn over the shoulders covering the back; a cape, often with a hood.  	Noun	6.41
 5790	-	CLOCK	Time	An instrument used to measure or keep track of time.	Noun	14.53
 6620	-	CLOTH	Clothing and grooming	A woven fabric such as used in dressing, decorating, cleaning or other practical use.	Noun	6.21
 8254	621	CLOTHES	Clothing and grooming	All coverings designed to be worn on a person's body.	Noun	6.12
@@ -317,8 +318,8 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 432006	-	COW	Animals	Female bovine animal (Bos taurus) of the subfamily Bovinae of the family Bovidae.	Noun	3.23
 388687	-	COYOTE	Animals	(Canis latrans) A member of the Canidae family native to North America.	Noun	3.862
 1168231	-	CRAWL	Motion	to move in a prone position with the body resting on or close to the ground.	Verb	10.41
-4568	-	CRIME	Modern world	Any act done in violation of those duties which an individual owes to the community, and for the breach of which the law has provided that the offender shall make satisfaction to the public. (Source: BLACK)	Noun	23.37
-791	-	CROCODILE	Animals	Any large tropical reptile of the family Crocodylidae: order Crocodylia. They have a broad head, tapering snout, massive jaws, and a thick outer covering of bony plates. (Source: CED)	Noun	3.97
+4568	-	CRIME	Modern world	Any act done in violation of those duties which an individual owes to the community, and for the breach of which the law has provided that the offender shall make satisfaction to the public.(Source: BLACK)	Noun	23.37
+791	-	CROCODILE	Animals	Any large tropical reptile of the family Crocodylidae: order Crocodylia. They have a broad head, tapering snout, massive jaws, and a thick outer covering of bony plates.(Source: CED)	Noun	3.97
 1507521	-	CROOKED	Spatial relations	Opposite of straight	Adjective	12.74
 5908	-	CROSS	Spatial relations	A geometrical figure consisting of two straight lines or bars intersecting each other such that at least one of them is bisected by the other.	Noun	12.77
 1507443	-	CROUCH	Motion	To lower one's body close to the ground by bending one's knees completely.	Verb	10.413
@@ -341,7 +342,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 335607	-	DARK	Sense perception	Having an absolute or (more often) relative lack of light.	Adjective	15.63
 1025381	-	DARKNESS	The physical world	Absence of light.	Noun	1.62
 5881	-	DAUGHTER	Kinship	An animal's female offspring (including that of a human).	Noun	2.42
-454163	-	DAUGHTER-IN-LAW	Kinship	The wife of someone's son.	Noun	2.64;2.641
+454163	-	DAUGHTER-IN-LAW,DAUGTHER-IN-LAW	Kinship	The wife of someone's son.	Noun	2.64;2.641
 338616	670747	DAWN	Time	A period of time at the beginning of the day shortly before sunrise during which the light gradually becomes stronger.	Noun	14.43
 5533	-	DAY	Time	A period of time lasting 24 hours	Noun	14.411
 5477	-	DAY	Time	The period between sunrise and sunset where one enjoys daylight.	Noun	14.41
@@ -354,8 +355,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 6535	-	DEEP	Spatial relations	Having a bottom or base that is far away from the top.	Adjective	12.67
 858	-	DEER	Animals	The common name for 41 species of even-toed ungulates that compose the family Cervidae in the order Artiodactyla; males have antlers.	Noun	3.75
 345406	-	DEFEAT	Warfare and hunting	An end to a struggle or contest that did not end in success.	Noun	20.42
-956366	5818	PRESERVE	Possession	To protect; to keep; to maintain the condition of.	Verb	11.24
-5818	956366	DEFEND	Warfare and hunting	To keep something or someone safe or prevent harm coming to someone or something.	Verb	20.44
+5818	-	DEFEND,PRESERVE	Warfare and hunting	To keep something or someone safe or prevent harm coming to someone or something.	Verb	11.24;20.44
 442442	-	DEFENDANT	Law	Any party who is required to answer the complaint of a plaintiff in a civil lawsuit before a court.	Noun	21.22
 915102	-	DEMON	Religion and belief	Evil spirit or person that is wicked or cruel in their actions.	Noun	22.35
 341655	994825	DENY	Speech and language	To refuse strongly and solemnly to own or acknowledge.	Verb	18.34
@@ -367,7 +367,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 159359	8175	DIFFICULT	Cognition	Not easy, which needs hard work, patience and effort.	Adjective	17.47
 6024	-	DIG	Agriculture and vegetation	To move earth, rocks, etc. out of the way, usually to create a hole.	Verb	8.22
 1510840	-	DIGGING STICK	Agriculture and vegetation	A rod shaped implement used by the aboriginal people of Australia to dig yam and as a combat weapon.	Noun	8.28
-7654	-	DINNER, SUPPER	Food and drink	A meal that is eaten in the late afternoon or evening daily.	Noun	5.44;5.45
+7654	-	DINNER,SUPPER	Food and drink	A meal that is eaten in the late afternoon or evening daily.	Noun	5.44;5.45
 5483	-	DIRTY	Sense perception	Covered with or containing unpleasant substances such as dirt or grime.	Adjective	15.88
 155161	-	DISAPPEAR	Motion	To cease to appear, to not be visible anymore.	Verb	10.491
 941	-	DISEASE	The body	A definite pathological process having a characteristic set of signs and symptoms which are detrimental to the well-being of the individual.	Noun	4.844
@@ -470,7 +470,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 345325	-	FEAR	Emotions and values	An emotion experienced in anticipation of some specific pain or danger.	Noun	16.53
 5436	-	FEATHER	The body	A branching, hair-like structure that grows on the skin of birds and protects them against coldness and water and allows their wings to create lift.	Noun	4.393
 467089	343166;343171	FEEL	Sense perception	To be in some emotional state.	Verb	15.72
-1510534	-	FELT	Clothing and grooming	A cloth or stuff made of matted fibres of wool, or wool and fur, fulled or wrought into a compact substance by rolling and pressure, with lees or size, without spinning or weaving.	Noun	6.27
+1510534	-	FELT	Clothing and grooming	A cloth or stuff made of matted fibres of wool, or wool and fur, fulled or wrought into a compact substance by rolling and pressure, with lees or size, without spinning or weaving.  	Noun	6.27
 6392	-	FEMALE	Animals	A member of the sex which is generally characterized as the one associated with the larger gametes (for species which have two sexes and for which this distinction can be made).	Adjective	3.13
 6393	-	FEMALE	Kinship	Of, relating to, or denoting the sex which is generally characterized as the one associated with the larger gametes (for species which have two sexes and for which this distinction can be made).	Adjective	2.24
 698534	-	FENCE	Agriculture and vegetation	Delimitation for an area.	Noun	8.16
@@ -504,7 +504,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 156104	5448	FIVE	Quantity	The fifth natural number (5).	Function word	13.05
 376152	-	FLAME	The physical world	A bright yellow, red or bluish light which emerges during combustion processes.	Noun	1.82
 6680	-	FLAT	Spatial relations	Having no variations in altitude.	Adjective	12.71
-1476	-	FLEA	Animals	Any of the wingless insects composing the order Siphonaptera; most are ectoparasites of mammals and birds. (Source: MGH)	Noun	3.813
+1476	-	FLEA	Animals	Any of the wingless insects composing the order Siphonaptera; most are ectoparasites of mammals and birds.(Source: MGH)	Noun	3.813
 414377	-	FLEE	Motion	Leaving a dangerous or unpleasant situation.	Verb	10.51
 1539792	-	FLESH	The body	The flesh of humans as opposed to the flesh of animals.	Noun	4.13
 6457	6074	FLOAT	Motion	To move or run smoothly and continously as a fluid.	Verb	10.34
@@ -735,7 +735,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1510490	-	LAME	The body	Moving with pain or difficulty on account of injury, defect or temporary obstruction of a function.	Adjective	4.94
 2062	-	LAMP	The house	A device that produces light, such as an electric lamp.	Noun	7.45
 846608	-	LAND	Motion	To descend to a surface, especially from the air.	Verb	10.92
-2063	-	LAND	The physical world	A specified geographical tract of the Earth's surface including all its attributes, comprising its geology, superficial deposits, topography, hydrology, soils, flora and fauna, together with the results of past and present human activity, to the extent that these attributes exert a significant influence on the present and future land utilization. (Source: WHIT)	Noun	1.21
+2063	-	LAND	The physical world	A specified geographical tract of the Earth's surface including all its attributes, comprising its geology, superficial deposits, topography, hydrology, soils, flora and fauna, together with the results of past and present human activity, to the extent that these attributes exert a significant influence on the present and future land utilization.(Source: WHIT)	Noun	1.21
 5713	5442	LANGUAGE	Speech and language	A system of communication using the spoken or signed word or using symbols that represent words, signs or sounds.	Noun	18.24
 1223914	-	LARCH	Agriculture and vegetation	A coniferous  tree, of genus Larix, having deciduous leaves	Noun	8.991
 1510846	-	LASSO	Agriculture and vegetation	A long rope with a sliding loop on one end, generally used in ranching to catch cattle and horses.	Noun	8.29
@@ -769,7 +769,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 452743	-	LIGHT	Sense perception	With a small mass, little weight or density; the opposite of heavy.	Adjective	15.82
 1502678	-	LIGHT	Sense perception	(of color) having a relatively small amount of color components.	Adjective	15.62
 1299599	-	LIGHT	The physical world	To cause to undergo fire combustion.	Verb	1.86
-2158	-	LIGHT	The physical world	Electromagnetic radiation that is capable of causing a visual sensation. (Source: CED)	Noun	1.61
+2158	-	LIGHT	The physical world	Electromagnetic radiation that is capable of causing a visual sensation.(Source: CED)	Noun	1.61
 6811	-	LIGHTNING	The physical world	The flash of light caused by the discharge of atmospheric electrical charge.	Noun	1.55
 1511001	-	LIMP	Motion	To walk lamely, as if favouring one leg.	Verb	10.451
 451773	873185	LINE	Spatial relations	An infinitely long, infinitely thin, not bent line in geometry.	Noun	12.84
@@ -865,7 +865,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 343359	-	MOVE	Motion	To change the location of an object.	Verb	10.11
 1431	-	MOVIE	Modern world	A sequence of animated images.	Noun	23.62
 1403529	-	MOW	Agriculture and vegetation	To cut all [the grass, crop or any thin plants] of a surface area of the ground.	Verb	8.32
-2428	-	MUD	The physical world	A mixture of clay and/or silt with water to form a plastic mass with a particle size preponderantly below 0.06 mm diameter. It is deposited in low-energy environments in lakes, estuaries and lagoons. It may also be deposited in deep-sea environments. (Source: WHIT)	Noun	1.214
+2428	-	MUD	The physical world	A mixture of clay and/or silt with water to form a plastic mass with a particle size preponderantly below 0.06 mm diameter. It is deposited in low-energy environments in lakes, estuaries and lagoons. It may also be deposited in deep-sea environments.(Source: WHIT)	Noun	1.214
 377499	-	MULE	Animals	The offspring of a male donkey and a female horse.	Noun	3.47
 1258410	-	MUMBLE	Speech and language	To speak unintelligibly and without articulating.	Verb	18.16
 359371	-	MURDER	Law	The intentional or premeditated killing of another person.	Noun	21.42
@@ -1016,7 +1016,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 2847	-	POISON	The body	A substance which, when ingested, inhaled, or absorbed, or when applied to, injected into, or developed within the body, in relatively small amounts, may cause injury, harm, or destruction to organs, tissue, or life.	Noun	4.89
 1506095	-	POLE	The house	A strong upright piece of wood, metal etc. that is fixed into the ground, especially to support something	Noun	7.56
 2852	-	POLICE	Modern world	Branch of the government which is charged with the preservation of public order, the promotion of public health and safety, and the prevention, detection, and punishment of crimes.	Noun	23.33
-1510543	-	PONCHO	Clothing and grooming	A simple garment, made from a rectangle of cloth, with a slit in the middle for the head.	Noun	6.411
+1510543	-	PONCHO	Clothing and grooming	A simple garment, made from a rectangle of cloth, with a slit in the middle for the head.  	Noun	6.411
 6897	-	POOR	Possession	With little or no possessions or money.	Adjective	11.52
 1210547	-	PORPOISE	Animals	A short-snouted genus of the dolphin family, 1.2 to 2.5 metres (4 to 8 feet) long, gregarious in habits, yielding an oil and leather.	Noun	3.662
 1717	-	PORT	Motion	Area of water next to the coast, often surrounded by thick walls, where ships and boats can be sheltered.	Noun	10.91
@@ -1032,7 +1032,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1486478	-	PRAWNS	Animals	A decapod crustacean of the suborder Dendrobranchiata.	Noun	3.833
 1056622	-	PRAY	Religion and belief	To address God or a higher being with praise, thanksgiving, confession or supplication.	Verb	22.17
 1509379	-	PREACH	Religion and belief	To deliver a sermon.	Verb	22.22
-1875	692485	PRECIPICE	The physical world	The inclined surface of any part of the Earth's surface, as a hillslope; also, a broad part of a continent descending toward an ocean, as the Pacific slope. (Source: BJGEO)	Noun	1.222
+1875	692485	PRECIPICE	The physical world	The inclined surface of any part of the Earth's surface, as a hillslope; also, a broad part of a continent descending toward an ocean, as the Pacific slope.(Source: BJGEO)	Noun	1.222
 489482	-	PREGNANT	The body	Carrying developing offspring within the body.	Adjective	4.73
 381596	438838	PRESIDENT	Modern world	The title of one who presides over an organisation, company, trade union, university, country, etc.	Noun	23.31
 842520	-	PRESS	Basic actions and technology	To apply pressure to an item.	Verb	9.342
@@ -1113,7 +1113,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 5465	-	ROPE	Basic actions and technology	Thick, strong string made of several strands that have been twisted together.	Noun	9.19
 7031	5826	ROTTEN	Food and drink	Having changed its colour, smell or composition (partially or completely), due to being attacked and decomposed by microorganisms (relating to organic matter).	Adjective	5.125
 846773	-	ROUGH	Sense perception	Having a texture that has much friction. Not smooth.	Adjective	15.76
-1505691	-	ROUGH	The physical world	With large waves (of sea).	Adjective	1.323
+1505691	-	ROUGH	The physical world	(of sea): With large waves.	Adjective	1.323
 5984	700103	ROUND	Spatial relations	Circular or having a circular cross-section in at least one direction.	Adjective	12.81
 7808	-	ROW	Motion	To pull oars through water in order to make a water vehicle (such as a boat) move.	Verb	10.852
 6062	-	RUB	Basic actions and technology	To move one's hand or an object over a surface or other object (maintaining constant contact and applying moderate pressure).	Verb	9.31
@@ -1262,7 +1262,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 6656	-	SPEAK	Speech and language	To communicate by the use of sounds that are interpreted as language; to communicate verbally.	Verb	18.21
 408915	-	SPEAR	Warfare and hunting	a long, stabbing weapon for thrusting or throwing, consisting of a wooden shaft to which a sharp-pointed head, as of iron or steel, is attached.	Noun	20.26
 8320	-	SPECTACLES	Modern world	A pair of lenses in a frame that are worn in front of the eyes and are used to correct faulty vision or protect the eyes.	Noun	23.24
-4834	-	SPEECH	Speech and language	An address or form of oral communication in which a speaker makes his thoughts and emotions known before an audience, often for a given purpose. (Source: RHW)	Noun	18.222
+4834	-	SPEECH	Speech and language	An address or form of oral communication in which a speaker makes his thoughts and emotions known before an audience, often for a given purpose.(Source: RHW)	Noun	18.222
 3588	-	SPIDER	Animals	Any predatory silk-producing arachnid of the order Araneae, having four pairs of legs and a rounded unsegmented body consisting of abdomen and cephalothorax.	Noun	3.818
 456539	-	SPIDER WEB	Animals	A fine net of threads woven by a spider to catch insects	Noun	3.819
 1240334	-	SPIN	Clothing and grooming	to make (yarn) by drawing out, twisting, and winding fibers.	Verb	6.31
@@ -1300,7 +1300,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 352530	-	STOMACH	The body	An organ in the body, involved in digestion of food.	Noun	4.46
 3633	-	STONE	The physical world	A general term for rock that is used in construction, either crushed for use as aggregate or cut into shaped blocks as dimension stone.	Noun	1.44
 341452	-	STORE	Possession	An establishment, either physical or virtual, that sells goods or services to the public.	Noun	11.86
-3635	-	STORM	The physical world	An atmospheric disturbance involving perturbations of the prevailing pressure and wind fields on scales ranging from tornadoes to extratropical cyclones; also the associated weather and the like. (Source: MGH)	Noun	1.58
+3635	-	STORM	The physical world	An atmospheric disturbance involving perturbations of the prevailing pressure and wind fields on scales ranging from tornadoes to extratropical cyclones; also the associated weather and the like.(Source: MGH)	Noun	1.58
 3637	358439	STOVE	The house	A chamber within which a fuel-air mixture is burned to provide heat, the heat itself being radiated outward from the chamber; used for space heating, process-fluid heating, and steel blast furnaces.	Noun	7.32
 5994	-	STRAIGHT	Spatial relations	Not crooked or bent; having a constant direction throughout its length.	Adjective	12.73
 346995	-	STRANGER	Social and political relations	Someone who is not known.	Noun	19.55
@@ -1413,7 +1413,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 436437	-	TOWEL	Clothing and grooming	Piece of absorbent fabric or paper used for drying or wiping.	Noun	6.82
 6890	-	TOWER	Warfare and hunting	Structure, usually taller than it is wide, often used as a lookout.	Noun	20.36
 5974	-	TOWN	Social and political relations	An area with residential districts, shops and amenities, and its own local government.	Noun	19.15
-3812	506398	TRADE	Possession	The act or the business of buying and selling for money. Mercantile or commercial business in general or the buying and selling, or exchanging, of commodities, either by wholesale or retail within a country or between countries. (Source: WESTS)	Verb	11.83
+3812	506398	TRADE	Possession	The act or the business of buying and selling for money. Mercantile or commercial business in general or the buying and selling, or exchanging, of commodities, either by wholesale or retail within a country or between countries.(Source: WESTS)	Verb	11.83
 3834	-	TRAIN	Modern world	A self-propelled, connected group of vehicles moving on rails.	Noun	23.155
 519501	-	TRAP	Warfare and hunting	To catch in a trap, to immobilize.	Verb	20.65
 464297	-	TRAP	Warfare and hunting	A device for catching and holding animals.	Noun	20.64
@@ -1449,7 +1449,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 3953	-	VEGETABLES	Food and drink	Any of various herbaceous plants having parts that are used as food.	Noun	5.65
 510127	-	VEIL	Clothing and grooming	A head covering.	Noun	6.59
 8471	-	VEIN	The body	A blood vessel that transports blood from the capillaries back to the heart.	Noun	4.151
-3962	-	VERMIN	Animals	Small animals and insects that can be harmful and which are difficult to control when they appear in large numbers. (Source: CAMB)	Noun	-
+3962	-	VERMIN	Animals	Small animals and insects that can be harmful and which are difficult to control when they appear in large numbers.(Source: CAMB)	Noun	-
 345436	-	VICTORY	Warfare and hunting	An end to a struggle or contest that did end in success.	Noun	20.41
 3968	687459	VILLAGE	Social and political relations	A group of houses and other buildings, such as a church, a school and some shops, which is smaller than a town, usually in the countryside.	Noun	19.16
 1510857	-	VINE	Agriculture and vegetation	the climbing plant (genus: Vitis) that produces grapes	Noun	8.67
@@ -1473,8 +1473,8 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 4079	-	WATERFALL	The physical world	A perpendicular or steep descent of the water of a stream.	Noun	1.39
 421112	-	WAVE	The physical world	A disturbance in an fluid medium.	Noun	1.35
 5455	-	WE	Kinship	The speaker or writer and at least one other person.	Function word	2.94
-496889	-	WE	Kinship	exclusive "we": I and at least one other person, but not the addressed person (you) (pronoun 1st person plural without 2nd person)	Function word	2.942
-496905	-	WE	Kinship	inclusive "we": I and at least one other person, including the addressed person(s) (pronoun 1st person plural with 2nd person)	Function word	2.941
+496889	-	WE	Kinship	exclusive "we": I and at least one other person, but not the addressed person (you)(pronoun 1st person plural without 2nd person)	Function word	2.942
+496905	-	WE	Kinship	inclusive "we": I and at least one other person, including the addressed person(s)(pronoun 1st person plural with 2nd person)	Function word	2.941
 6555	-	WEAK	The body	Lacking in force or ability.	Adjective	4.82
 4128	-	WEAPONS	Warfare and hunting	An instrument of attack or defense in combat, as a gun, missile, or sword.	Noun	20.21
 4129	-	WEATHER	The physical world	The day-to-day meteorological conditions, especially temperature, cloudiness, and rainfall, affecting a specific place.	Noun	1.78
@@ -1551,55 +1551,3 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1539816	-	YOUNGER SIBLING	Kinship	A person who is born after another person who has the same parents.	Noun	2.4562
 7132	-	YOUNGER SISTER	Kinship	A female who is younger than one or more of her siblings.	Noun	2.455
 5653	809644	ZERO	Quantity	The cardinal number that denotes no quantity or amount at all.	Function word	13
-416275	-	PEBBLES	-	Small stone abraded by water.	-	-
-1541173	-	BLOWGUN	-	a pipe or tube through which darts or other missiles are blown by the breath.	-	-
-6259	-	SALIVA	-	A secretion from the salivary glands (found in the mouth) that can be spat out.	-	-
-1541204	-	GUAN	-	a large game bird of the curassow family, common in dense woodlands of Central and South America.	-	-
-1292296	-	COCA	-	A plant in the family Erythroxylaceae, native to western South America.	-	-
-1510464	-	PIRANHA	-	Any of the carnivorous freshwater fish living in South American rivers and belonging to the subfamily Serrasalminae.	-	-
-1541261	-	LOWER LEG	-	part of the leg between the knee and the foot.	-	-
-652702	-	HUMMINGBIRD	-	A small bird in the family Trochilidae.	-	-
-1541248	-	LONG HAIR	-	Hair that is not cut.	-	-
-1510885	-	ACHIOTE	-	A derivative of the achiote trees of tropical regions of the Americas used as a red food coloring and as a flavoring.	-	-
-763	-	CORAL SNAKE	-	The skeleton of certain solitary and colonial anthozoan coelenterates; composed chiefly of calcium carbonate.	-	-
-8038	-	BUZZARD	-	Diurnal bird of prey belonging to the Accipitridae family.	-	-
-647456	-	IGUANA	-	(Iguanidae)A lizard family.	-	-
-1398936	-	SHIN	-	The front part of the leg below the knee.	-	-
-1541252	-	UPPER BACK	-	upper part of the back.	-	-
-1541194	-	COLLARED PECCARY	-	piglike hoofed mammal of the genus Tayassu,  of North and South America,  having a dark gray coat with a white collar.	-	-
-667122	-	MACAW	-	Large colorful parrots of the Americas, classified into six of the many Psittacidae genera: Ara, Anodorhynchus, Cyanopsitta, Primolius, Orthopsittaca, and Diopsittaca.	-	-
-1541256	-	LOWER ARM	-	the part of the arm between the elbow and the hand.	-	-
-1505835	-	BANISTERIUM	-	A psychoactive infusion prepared from the Banisteriopsis spp.	-	-
-817621	-	ARMADILLO	-	(family Dasypodidae) Burrowing chiefly nocturnal mammal with body covered with strong horny plates.	-	-
-7489	-	SEAT, STOOL	-	Seat for more than one person, narrow and long, with or without back support, made of hard materials (wood, metal), that is normally found in public places (churches, parks, etc.).	-	-
-1541242	-	TIP OF TONGUE	-	front part of the tongue.	-	-
-348242	-	ADAM’S APPLE	-	A lump at the front of the neck.	-	-
-1510408	-	AGOUTI	-	A rodent similar in appearance to a guinea pig but having longer legs.	-	-
-1541265	-	STORM CLOUDS	-	darkish clouds attending a windstorm.	-	-
-1541200	-	WHITE-LIPPED PECCARY	-	piglike hoofed mammal, of North and South America, having a black gray coat with whitish cheeks; larger than the collared peccary.	-	-
-1541269	-	CORN FIELD	-	a field in which corn is grown.	-	-
-1541228	-	CHONTA PALM	-	species of flowering plant in the Arecaceae family,trunked palm tree which is endemic to the Juan Fernández Islands archipielago in the southeast Pacific Ocean west of Chile.	-	-
-870564	-	CROWN OF HEAD	-	A royal, imperial or princely headdress; a diadem.	-	-
-1541167	-	UPPER ARM	-	the part of the arm between the shoulder and the elbow.	-	-
-1510514	-	MANIOC FLOUR	-	Flour made of the cassava plant or root.	-	-
-686508	-	RAPIDS	-	Fast flowing section of a stream, often shallow and with exposed rock or boulders.	-	-
-1541184	-	HOWLER MONKEY	-	large, prehensile-tailed tropical American monkey of the genus Alouatta,  the males of which make a howling noise	-	-
-1510442	-	CURASSOW	-	A bird, the crested curassow or royal pheasant.	-	-
-370629	-	RATTLESNAKE	-	-	-	-
-3784	-	TOAD	-	Any anuran amphibian of the family Bufonidae, such as Bufo bufo of Europe. They are similar to frogs but are more terrestrial, having a drier warty skin.	-	-
-3788	-	TORTOISE	-	Any herbivorous terrestrial chelonian reptile of the family Testudinidae, of most warm regions, having a heavy dome-shaped shell and clawed limbs.	-	-
-5447	-	FOUR	-	The fourth natural number (4).	-	-
-962485	-	MASK	-	A cover, or partial cover, for the face, used for disguise or protection.	-	-
-1510460	-	PACA	-	A large rodent, with dark brown or black fur, a white or yellowish underbelly and rows of white spots along its sides, native to Central America and South America.	-	-
-375199	-	PARAKEET	-	Any of several slender species of parrot.	-	-
-1541208	-	CHIGGOE, JIGGER FLEA	-	a flea, Tunga penetrans,  of tropical America and Africa, the impregnated female of which embeds itself in the skin, especially of the feet, of humans and animals and becomes greatly distended with eggs.	-	-
-379150	-	ANACONDA, WATER BOA	-	Any of various large non-venomous snakes of the genus Eunectes, found mainly in northern South America.	-	-
-1541218	-	CEBUS MONKEY	-	a Central and South American monkey, Cebus capucinus,  having a prehensile tail and hair on the head resembling a cowl.	-	-
-4307	-	SHELTER	-	Cover or protection, as from weather or danger; place of refuge.
-(Source: CED)	-	-
-1541236	-	FRONT TEETH, INEISORS	-	several teeth located above and below in the mouth of mammals to bite food off.	-	-
-6933	-	BUSH	-	A plant resembling a small tree, but has no, and will never develop, a stem.	-	-
-1541232	-	CHICHA	-	a beverage made from fermented corn in South and Central America.	-	-
-1510424	-	CAPYBARA	-	The largest living rodent native to South America, living partly on land and partly in water.	-	-
-1511147	-	SHAMAN, FOLK HEALER	-	A traditional (prescientific) faith healer; a member of certain tribal societies who acts as a religious medium between the concrete and spirit worlds.	-	-
-1541190	-	SPIDER MONKEY	-	tropical American monkey of the genus Ateles,  having a slender body, long, slender limbs, and a long, prehensile tail.	-	-
