@@ -3,6 +3,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <script type="text/javascript" src="javascripts/vendor/jquery-1.11.1.min.js"></script>
 		<script type="text/javascript" src="javascripts/vendor/sorttable.js"></script>
+    <script type="text/javascript" src="javascripts/vendor/filesaver.js"></script>
     <script type="text/javascript" src="javascripts/compare.js"></script>
     <style>
 table {
@@ -47,7 +48,8 @@ else
   <input type="file" id="file" name="file" accept=".tsv" class="submit2 active" />
   <input type="button" id="showstuff" name="showstuff" value="SHOW" onclick="showData();" class="submit2 active"/>
   <span style="padding-left:20px;color:white">.</span>
-  <input type="text" onkeyup="searchTable();" id="textfield" size=40 />
+  <!--<input type="text" onkeyup="searchTable();" id="textfield" size=40 />-->
+  <input type="button" id="showstuff" name="showstuff" value="EXPORT" onclick="exportData();" class="submit2 active"/>
   <br>
   <br>
   <div id="show"></div>
@@ -206,8 +208,19 @@ function showData()
     }
     head += 'OMEGAWIKI\n';
     db.innerHTML = count+' direct matches (+)<br>'+scount+' multiple matches (!)<br>'+vcount+' indirect matches (?)<br>'+fcount+' fuzzy matches (%)<br>'+mcount+' mismatches (-)'+'<pre><code>'+head+commons+"</code></pre>";
-
+    
+    var store = document.getElementById('storeB');
+    store.innerText = head+commons;
 }
+
+function exportData()
+{
+  var store = document.getElementById('storeB');
+  new_text = store.innerText;
+  var blob = new Blob([new_text], {type: "text/plain;charset=utf-8"});
+  saveAs(blob, 'merged.tsv');  
+}
+
   </script>
 
   </body>
