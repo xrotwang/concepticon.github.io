@@ -1,0 +1,120 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <script type="text/javascript" src="javascripts/vendor/jquery-1.11.1.min.js"></script>
+		<script type="text/javascript" src="javascripts/vendor/sorttable.js"></script>
+    <script type="text/javascript" src="javascripts/compare.js"></script>
+    <style>
+table {
+  border: 2px solid black;
+}
+td {
+  max-width: 250px;
+}
+.DEFINITION {
+  border: 1px solid gray;
+  max-width: 400px;
+  font-size: 80%;
+}
+/* Sortable tables */
+table.sortable thead {
+    background-color:lightgray;
+    color:#000000;
+    //font-weight: bold;
+    cursor: pointer;
+}
+
+
+tr {
+  border: 1px solid black;
+}
+    </style>
+<script>
+if (window.File && window.FileReader && window.FileList && window.Blob) 
+{
+}
+else
+{
+  alert("The File APIs are not fully supported in this browser.");
+}
+
+</script>
+  </head>
+  <body>
+  <div id="storeA" style="display:none"></div>
+  <div id="storeB" style="display:none"></div>
+  <h3>Concepticon-Viewer (<a href="http://quanthistling.info">QLC Research Group</a>)</h3>
+  <input type="file" id="file" name="file" accept=".tsv" class="submit2 active" />
+  <input type="button" id="showstuff" name="showstuff" value="SHOW" onclick="showData();" class="submit2 active"/>
+  <span style="padding-left:20px;color:white">.</span>
+  <input type="text" onkeyup="searchTable();" id="textfield" size=40 />
+  <br>
+  <br>
+  <div id="show"></div>
+  <div id="db"></div>
+  <script>
+    document.getElementById('file').addEventListener('change', fileSelect('storeB'), false);
+  </script>
+  <script>
+loadFile('concepticon.tsv',false,'storeA');
+function showData()
+{
+    var db = document.getElementById('db');
+    var csv1 = getCSV('storeA');
+    var csv2 = getCSV('storeB');
+
+    // extract glosses
+    var glossesA = {};
+    for(key in csv1)
+    {
+      if(key != 'header')
+      {
+        var gloss = csv1[key]['gloss'];
+        glossesA[gloss.toLowerCase()] = key;
+      }
+    }
+
+    var commons = '';
+    var count = 0;
+
+    var glossesB = [];
+    for(key in csv2)
+    {
+      if(key != 'header')
+      {
+        var gloss = csv2[key]['gloss'].toLowerCase();
+        if(gloss in glossesA)
+        {
+          count += 1;
+          var text = '+';
+          for(k in csv2[key])
+          {
+            text += '\t'+csv2[key][k];
+          }
+          text += '\t'+csv1[glossesA[gloss]]['omegawiki']+'\n';
+          commons += text;
+        }
+        else
+        {
+          var text = '-';
+          for(k in csv2[key])
+          {
+            text += '\t'+csv2[key][k];
+          }
+          text += '\t?\n';
+          commons += text;
+        }
+      }
+    }
+    var head = 'MATCH';
+    for(k in csv2["header"])
+    {
+      head += '\t'+csv2['header'][k].toUpperCase();
+    }
+    head += 'OMEGAWIKI\n';
+    db.innerHTML = 'Found '+count+' direct matches:'+'<pre><code>'+head+commons+"</code></pre>";
+}
+  </script>
+
+  </body>
+</head>
