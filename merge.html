@@ -1,11 +1,11 @@
 <html>
-  <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <script type="text/javascript" src="javascripts/vendor/jquery-1.11.1.min.js"></script>
-		<script type="text/javascript" src="javascripts/vendor/sorttable.js"></script>
-    <script type="text/javascript" src="javascripts/vendor/filesaver.js"></script>
-    <script type="text/javascript" src="javascripts/compare.js"></script>
-    <style>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<script type="text/javascript" src="javascripts/vendor/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="javascripts/vendor/sorttable.js"></script>
+<script type="text/javascript" src="javascripts/vendor/filesaver.js"></script>
+<script type="text/javascript" src="javascripts/compare.js"></script>
+<style>
 table {
   border: 2px solid black;
 }
@@ -19,17 +19,29 @@ td {
 }
 /* Sortable tables */
 table.sortable thead {
-    background-color:lightgray;
-    color:#000000;
-    //font-weight: bold;
-    cursor: pointer;
+  background-color:lightgray;
+  color:#000000;
+  //font-weight: bold;
+  cursor: pointer;
 }
 
-
+span.hovera{
+  color: red;
+  font-weight: bold;
+}
+div.hoverb{
+  display:none;
+}
+span.hovera:hover .hoverb{
+  display: block;
+  font-weight: normal;
+  background-color: CornFlowerBlue;
+  color: white;
+}
 tr {
   border: 1px solid black;
 }
-    </style>
+</style>
 <script>
 if (window.File && window.FileReader && window.FileList && window.Blob) 
 {
@@ -40,177 +52,189 @@ else
 }
 
 </script>
-  </head>
-  <body>
-  <div id="storeA" style="display:none"></div>
-  <div id="storeB" style="display:none"></div>
-  <h3>Concepticon-Viewer (<a href="http://quanthistling.info">QLC Research Group</a>)</h3>
-  <input type="file" id="file" name="file" accept=".tsv" class="submit2 active" />
-  <input type="button" id="showstuff" name="showstuff" value="SHOW" onclick="showData();" class="submit2 active"/>
-  <span style="padding-left:20px;color:white">.</span>
-  <!--<input type="text" onkeyup="searchTable();" id="textfield" size=40 />-->
-  <input type="button" id="showstuff" name="showstuff" value="EXPORT" onclick="exportData();" class="submit2 active"/>
-  <br>
-  <br>
-  <div id="show"></div>
-  <div id="db"></div>
-  <script>
-    document.getElementById('file').addEventListener('change', fileSelect('storeB'), false);
-  </script>
-  <script>
+</head>
+<body>
+<div id="storeA" style="display:none"></div>
+<div id="storeB" style="display:none"></div>
+<h3>Concepticon-Viewer (<a href="http://quanthistling.info">QLC Research Group</a>) 
+  <span class="hovera">[?]
+    <div class="hoverb">
+      <ul>
+	<li>
+	Upload a file with help of the BROWSE button on the left.
+	</li>
+	<li>Load the file-content by pressing the SHOW button.</li>
+	<li>Save the edited file content by pressing the EXPORT button and specifying a
+	download location</li>
+      </ul>
+    </div>
+</span></h3>
+<input type="file" id="file" name="file" accept=".tsv" class="submit2 active" />
+<input type="button" id="showstuff" name="showstuff" value="SHOW" onclick="showData();" class="submit2 active"/>
+<span style="padding-left:20px;color:white">.</span>
+<!--<input type="text" onkeyup="searchTable();" id="textfield" size=40 />-->
+<input type="button" id="showstuff" name="showstuff" value="EXPORT" onclick="exportData();" class="submit2 active"/>
+<br>
+<br>
+<div id="show"></div>
+<div id="db"></div>
+<script>
+document.getElementById('file').addEventListener('change', fileSelect('storeB'), false);
+</script>
+<script>
 loadFile('datapackage/concepticon.tsv',false,'storeA');
 function showData()
 {
-    var db = document.getElementById('db');
-    var csv1 = getCSV('storeA');
-    var csv2 = getCSV('storeB');
+  var db = document.getElementById('db');
+  var csv1 = getCSV('storeA');
+  var csv2 = getCSV('storeB');
 
-    // extract glosses
-    var glossesA = {};
-    for(key in csv1)
+  // extract glosses
+  var glossesA = {};
+  for(key in csv1)
+  {
+    if(key != 'header')
     {
-      if(key != 'header')
+      var gloss = csv1[key]['gloss'].toLowerCase();
+      if(gloss in glossesA)
       {
-        var gloss = csv1[key]['gloss'].toLowerCase();
-        if(gloss in glossesA)
-        {
-          glossesA[gloss] = glossesA[gloss]+'/'+key;
-        }
-        else
-        {
-          glossesA[gloss] = key;
-        }
+	glossesA[gloss] = glossesA[gloss]+'/'+key;
+      }
+      else
+      {
+	glossesA[gloss] = key;
       }
     }
-    var commons = '';
-    var count = 0;
-    var scount = 0;
-    var vcount = 0;
-    var fcount = 0;
-    var mcount = 0;
+  }
+  var commons = '';
+  var count = 0;
+  var scount = 0;
+  var vcount = 0;
+  var fcount = 0;
+  var mcount = 0;
 
-    var glossesB = [];
-    for(key in csv2)
+  var glossesB = [];
+  for(key in csv2)
+  {
+    if(key != 'header')
     {
-      if(key != 'header')
+      var gloss = csv2[key]['gloss'].toLowerCase();
+      if(gloss in glossesA)
       {
-        var gloss = csv2[key]['gloss'].toLowerCase();
-        if(gloss in glossesA)
-        {
-          var text = '';
-          for(k in csv2[key])
-          {
-            text += '\t'+csv2[key][k];
-          }
-          if(glossesA[gloss].indexOf('/') != -1)
-          {
-            var keys = glossesA[gloss].split('/');
-            var owids = [];
-            for(var i=0,k;k=keys[i];i++)
+	var text = '';
+	for(k in csv2[key])
+	{
+	  text += '\t'+csv2[key][k];
+	}
+	if(glossesA[gloss].indexOf('/') != -1)
+	{
+	  var keys = glossesA[gloss].split('/');
+	  var owids = [];
+	  for(var i=0,k;k=keys[i];i++)
+	  {
+	    owids.push(csv1[k]['omegawiki']);
+	  }
+	  text = '!'+text + '\t'+owids.join('/');
+	  scount += 1;
+	}
+	else
+	{
+	  count += 1;
+	  text = '+'+text+'\t'+csv1[glossesA[gloss]]['omegawiki'];
+	}
+	commons += text+'\n';
+      }
+      else if(gloss.replace(/^to /,'').replace(/[?!\.]/,'') in glossesA)
+      {
+	vcount += 1;
+	var ngloss = gloss.replace(/^to /,'').replace(/[?!]/,'');
+	var text = '?';
+	for(k in csv2[key])
+	{
+	  text += '\t'+csv2[key][k];
+	}
+	if(glossesA[ngloss].indexOf('/') != -1)
+	{
+	  var keys = glossesA[ngloss].split('/');
+	  var owids = [];
+	  for(var i=0,k;k=keys[i];i++)
+	  {
+	    owids.push(csv1[k]['omegawiki']);
+	  }
+	  text += '\t'+owids.join('/');
+	}
+	else
+	{
+	  text += '\t'+csv1[glossesA[ngloss]]['omegawiki'];
+	}
+	commons += text+' ('+ngloss+')\n';
+      }
+      else
+      {
+	// try to split the stuff and to search for indirect matches
+	var ngloss = gloss.replace(/^to /,'').replace(/[?!]/,'');
+	var nglosses = ngloss.split(/[\/\s,;]+/);
+	var matches = [];
+	for(i=0,k;k=nglosses[i];i++)
+	{
+	  if(k in glossesA)
+	  {
+	    matches.push(k.toLowerCase())
+	  }
+	}
+	if(matches.length >= 1)
+	{
+	  fcount += 1;
+	  var text = '%';
+	  for(k in csv2[key])
+	  {
+	    text += '\t'+csv2[key][k];
+	  }
+	  var texts = [];
+	  for(i=0;i<matches.length;i++)
+	  {
+	    var m = matches[i];
+	    if(glossesA[m].indexOf('/') != -1)
+	    {
+	      var keys = glossesA[m].split('/');
+	      var owids = [];
+	      for(var i=0,k;k=keys[i];i++)
+	      {
+		owids.push(csv1[k]['omegawiki']);
+	      }
+	      texts.push(owids.join('/')+' ('+m+')');
+	    }
+            else
             {
-              owids.push(csv1[k]['omegawiki']);
+              texts.push(csv1[glossesA[m]]['omegawiki']+' ('+m+')');
             }
-            text = '!'+text + '\t'+owids.join('/');
-            scount += 1;
           }
-          else
-          {
-            count += 1;
-            text = '+'+text+'\t'+csv1[glossesA[gloss]]['omegawiki'];
-          }
-          commons += text+'\n';
+        commons += text + '\t'+texts.join('; ')+'\n';
         }
-        else if(gloss.replace(/^to /,'').replace(/[?!\.]/,'') in glossesA)
+	else
         {
-          vcount += 1;
-          var ngloss = gloss.replace(/^to /,'').replace(/[?!]/,'');
-          var text = '?';
+          var text = '-';
           for(k in csv2[key])
-          {
-            text += '\t'+csv2[key][k];
-          }
-          if(glossesA[ngloss].indexOf('/') != -1)
-          {
-            var keys = glossesA[ngloss].split('/');
-            var owids = [];
-            for(var i=0,k;k=keys[i];i++)
-            {
-              owids.push(csv1[k]['omegawiki']);
-            }
-            text += '\t'+owids.join('/');
-          }
-          else
-          {
-            text += '\t'+csv1[glossesA[ngloss]]['omegawiki'];
-          }
-          commons += text+' ('+ngloss+')\n';
-        }
-        else
-        {
-          // try to split the stuff and to search for indirect matches
-          var ngloss = gloss.replace(/^to /,'').replace(/[?!]/,'');
-          var nglosses = ngloss.split(/[\/\s,;]+/);
-          var matches = [];
-          for(i=0,k;k=nglosses[i];i++)
-          {
-            if(k in glossesA)
-            {
-              matches.push(k.toLowerCase())
-            }
-          }
-          if(matches.length >= 1)
-          {
-            fcount += 1;
-            var text = '%';
-            for(k in csv2[key])
             {
               text += '\t'+csv2[key][k];
             }
-            var texts = [];
-            for(i=0;i<matches.length;i++)
-            {
-              var m = matches[i];
-              if(glossesA[m].indexOf('/') != -1)
-              {
-                var keys = glossesA[m].split('/');
-                var owids = [];
-                for(var i=0,k;k=keys[i];i++)
-                {
-                  owids.push(csv1[k]['omegawiki']);
-                }
-                texts.push(owids.join('/')+' ('+m+')');
-              }
-              else
-              {
-                texts.push(csv1[glossesA[m]]['omegawiki']+' ('+m+')');
-              }
-            }
-            commons += text + '\t'+texts.join('; ')+'\n';
-          }
-          else
-          {
-            var text = '-';
-            for(k in csv2[key])
-            {
-              text += '\t'+csv2[key][k];
-            }
-            text += '\t?\n';
-            commons += text;
-            mcount += 1;
-          }
+          text += '\t?\n';
+          commons += text;
+          mcount += 1;
         }
       }
     }
-    var head = 'MATCH';
-    for(k in csv2["header"])
-    {
-      head += '\t'+csv2['header'][k].toUpperCase();
-    }
-    head += 'OMEGAWIKI\n';
-    db.innerHTML = count+' direct matches (+)<br>'+scount+' multiple matches (!)<br>'+vcount+' indirect matches (?)<br>'+fcount+' fuzzy matches (%)<br>'+mcount+' mismatches (-)'+'<pre><code>'+head+commons+"</code></pre>";
-    
-    var store = document.getElementById('storeB');
-    store.innerText = head+commons;
+  }
+  var head = 'MATCH';
+  for(k in csv2["header"])
+  {
+    head += '\t'+csv2['header'][k].toUpperCase();
+  }
+  head += 'OMEGAWIKI\n';
+  db.innerHTML = count+' direct matches (+)<br>'+scount+' multiple matches (!)<br>'+vcount+' indirect matches (?)<br>'+fcount+' fuzzy matches (%)<br>'+mcount+' mismatches (-)'+'<pre><code>'+head+commons+"</code></pre>";
+
+  var store = document.getElementById('storeB');
+  store.innerText = head+commons;
 }
 
 function exportData()
@@ -221,7 +245,7 @@ function exportData()
   saveAs(blob, 'merged.tsv');  
 }
 
-  </script>
+</script>
 
-  </body>
+</body>
 </head>
