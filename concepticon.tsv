@@ -401,6 +401,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1505807	-	DOUGH	Food and drink	A mixture of flour and water ready to be baked into bread, pastry etc.	Noun	5.53
 7890	-	DOVE	Animals	One of several birds of the family Columbidae.	Noun	3.594
 5797	-	DOWN	Spatial relations	From an higher position to a lower one.	Function word	12.03
+1166811	-	DRAW MILK	Food and drink	To draw milk from (a mammal, especially a cow).	Verb	5.87
 840722	339936	DRAW WATER	Basic actions and technology	To draw by a physical force causing or tending to cause to approach, adhere, or unite	Verb	9.9
 8448	-	DREAM	The body	To experience while sleeping.	Verb	4.62
 154560	-	DRESS	Clothing and grooming	A one-piece garment for a woman that has a skirt and a body section.	Noun	6.42
@@ -480,13 +481,12 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1153477	-	FATHOM	Spatial relations	A linear unit of measurement, equal to 6 feet, for water depth.	Noun	12.541
 622752	-	FAUCET	Modern world	A device applied to the end of a pipe in order to interrupt and regulate the flow of a liquid or gas.	Noun	23.5
 1280872	868115	FAULT	Emotions and values	Wrong act done deliberately or good act omitted deliberately.	Noun	16.76
-345325	-	FEAR	Emotions and values	An emotion experienced in anticipation of some specific pain or danger.	Noun	16.53
-6025	-	FEAR	Emotions and values	To be scared of; to have an uncontrollable emotion of anxiety about something that causes a scared reaction or frightening impression.	Verb	-
+6025	-	FEAR, BE AFRAID	Emotions and values	To be scared of; to have an uncontrollable emotion of anxiety about something that causes a scared reaction or frightening impression.	Verb	-
+345325	-	FEAR, FRIGHT	Emotions and values	An emotion experienced in anticipation of some specific pain or danger.	Noun	16.53
 5436	-	FEATHER	The body	A branching, hair-like structure that grows on the skin of birds and protects them against coldness and water and allows their wings to create lift.	Noun	4.393
 467089	343166;343171	FEEL	Sense perception	To be in some emotional state.	Verb	15.72
 1510534	-	FELT	Clothing and grooming	A cloth or stuff made of matted fibres of wool, or wool and fur, fulled or wrought into a compact substance by rolling and pressure, with lees or size, without spinning or weaving.	Noun	6.27
-6392	-	FEMALE	Animals	A member of the sex which is generally characterized as the one associated with the larger gametes (for species which have two sexes and for which this distinction can be made).	Adjective	3.13
-6393	-	FEMALE	Kinship	Of, relating to, or denoting the sex which is generally characterized as the one associated with the larger gametes (for species which have two sexes and for which this distinction can be made).	Adjective	2.24
+6393	6392	FEMALE	Animals	Of, relating to, or denoting the sex which is generally characterized as the one associated with the larger gametes (for species which have two sexes and for which this distinction can be made).	Adjective	2.24;3.13
 698534	-	FENCE	Agriculture and vegetation	Delimitation for an area.	Noun	8.16
 1525942	-	FERMENTED DRINK	Food and drink	A fermented drink is a beverage containing alcohol because of a metabolic process that converts sugar to acids, gases and/or alcohol (e.g. beer or wine).	Noun	5.94
 6347	-	FEVER	The body	A higher than normal temperature of a person (or generally a mammal).	Noun	4.841
@@ -527,8 +527,8 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 961244	7030	FLOW	Motion	To move as a fluid from one position to another (e.g. of people).	Verb	10.32
 1487	-	FLOWER	Agriculture and vegetation	The reproductive structure of angiosperm plants, consisting of stamens and carpels surrounded by petals and sepals all borne on the receptacle.	Noun	8.57
 344824	-	FLUTE	Speech and language	A musical instrument of the woodwind family.	Noun	18.71
-6261	-	FLY	Animals	A common insect; any species of insect of the order Diptera.	Noun	3.83
-6052	-	FLY	Motion	To move autonomously through the air, without any part of the object or object's enclosure touching anything attached to the ground.	Verb	10.37
+6261	-	FLY, INSECT	Animals	A common insect; any species of insect of the order Diptera.	Noun	3.83
+6052	-	FLY, MOVE THROUGH AIR	Motion	To move autonomously through the air, without any part of the object or object's enclosure touching anything attached to the ground.	Verb	10.37
 6776	-	FOAL	Animals	A juvenile horse, especially one which is not yet weaned.	Noun	3.45
 7153	-	FOAM	The physical world	A mass of adjacent small pockets of air or bubbles with solid or liquid boundaries.	Noun	1.324
 1502	-	FOG	The physical world	Water droplets or, rarely, ice crystals suspended in the air in sufficient concentration to reduce visibility appreciably.	Noun	1.74
@@ -548,7 +548,6 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1526645	-	FORKED BRANCH	Agriculture and vegetation	At this point a branch is forked into two or more branches.	Noun	8.74
 859332	-	FORTRESS	Warfare and hunting	A fortified place; a large and permanent fortification, sometimes including a town.	Noun	20.35
 6253	5447	FOUR	Quantity	The cardinal number occurring after three and before five, represented in Roman numerals as IV, in Arabic numerals as 4.	Function word	13.04
-5447	-	FOUR	Quantity	The fourth natural number (4).	Function word	-
 1505737	-	FOWL	Animals	A bird that is kept for its meat and eggs.	Noun	3.5
 5726	-	FOX	Animals	A carnivorous relatively small canine of the species Vulpes Vulpes.	Noun	3.74
 1511050	-	FRAGRANT	Sense perception	Sweet-smelling; having a pleasant (usually strong) scent or fragrance.	Adjective	15.25
@@ -659,8 +658,8 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1287831	5489	HERE	Miscellaneous function words	at this place	Function word	24.09
 342235	-	HERON	Animals	A long-legged, long-necked wading bird of the family Ardeidae.	Noun	3.583
 1339563	-	HICCOUGH	The body	To have spasms of the diaphragm.	Verb	4.521
-1505751	-	HIDE	The body	Skin of an animal.	Noun	4.12
-161806	-	HIDE	Spatial relations	To put something in a place where it will be harder to discover or out of sight.	Verb	12.27
+161806	-	HIDE, CONCEAL	Spatial relations	To put something in a place where it will be harder to discover or out of sight.	Verb	12.27
+1505751	-	HIDE, SKIN	The body	Skin of an animal.	Noun	4.12
 5562	335942;342616	HIGH	Spatial relations	Having relatively great height.	Adjective	12.31
 1769	-	HIGH TIDE	The physical world	The level of water when the tide is at its highest level.	Noun	1.354
 1772	-	HILL	The physical world	A natural elevation of the land surface, usually rounded.	Noun	1.22
@@ -675,8 +674,8 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 404630	-	HONEY	Food and drink	A viscous, sweet substance produced from nectar or honeydew by bees.	Noun	5.84
 461013	-	HOOK	Spatial relations	A rod bent into a curved shape, for catching, holding, or sustaining anything.	Noun	12.75
 475239	-	HOPE	Emotions and values	To want something to happen.	Verb	16.63
-5981	-	HORN	The body	A hard growth of keratin that protrudes from the top of the head of certain animals.	Noun	4.17
-401769	-	HORN	Speech and language	A wind instrument made of a wound copper tube with a wide sound bucket and valves.	Noun	18.73
+401769	-	HORN, INSTRUMENT	Speech and language	A wind instrument made of a wound copper tube with a wide sound bucket and valves.	Noun	18.73
+5981	-	HORN, KERATINIZED SKIN	The body	A hard growth of keratin that protrudes from the top of the head of certain animals.	Noun	4.17
 1780	-	HORSE	Animals	A large animal with four legs of the Equus caballus species which people ride on or use for carrying things or pulling vehicles.	Noun	3.41
 1782	-	HOSPITAL	Modern world	A place where people who are ill or injured are treated and taken care of by doctors and nurses.	Noun	23.2
 638743	-	HOST	Social and political relations	A person or organization responsible for running an event.	Noun	19.57
@@ -742,8 +741,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1505815	-	KNEAD	Food and drink	To press a dough many times with one's hands.	Verb	5.54
 5918	-	KNEE	The body	In man, the joint in the middle part of the leg.	Noun	4.36
 1120420	-	KNEEL	Motion	To go down on one or both knees.	Verb	10.412
-1539808	-	KNIFE	Basic actions and technology	knife for preparing food	Noun	9.23
-5873	-	KNIFE	Food and drink	A utensil consisting of a sharpened piece of hard material such as steel or other metal, ceramic, glass or stone, usually attached to a handle, that is formed in a manner that allows for cutting softer materials, especially meat or other food.	Noun	5.38
+5873	-	KNIFE	Food and drink	A utensil consisting of a sharpened piece of hard material such as steel or other metal, ceramic, glass or stone, usually attached to a handle, that is formed in a manner that allows for cutting softer materials, especially meat or other food.	Noun	5.38;9.23
 342406	-	KNOT	Basic actions and technology	A loop of string or any other long flexible material which cannot be untied without pulling part of the string through the loops.	Noun	9.192
 6004	710114;955211	KNOW	Cognition	To be certain or sure about something.	Verb	17.17
 6099	-	LADDER	The house	A frame usually portable, of wood, metal, or rope, for ascent and descent, consisting of two vertical side pieces to which are horizontally fastened cross strips or rounds forming steps.	Noun	7.37
@@ -752,20 +750,20 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 352601	-	LAMB	Animals	Young sheep.	Noun	3.29
 1510490	-	LAME	The body	Moving with pain or difficulty on account of injury, defect or temporary obstruction of a function.	Adjective	4.94
 2062	-	LAMP	The house	A device that produces light, such as an electric lamp.	Noun	7.45
-846608	-	LAND	Motion	To descend to a surface, especially from the air.	Verb	10.92
-2063	-	LAND	The physical world	A specified geographical tract of the Earth's surface including all its attributes, comprising its geology, superficial deposits, topography, hydrology, soils, flora and fauna, together with the results of past and present human activity, to the extent that these attributes exert a significant influence on the present and future land utilization. (Source: WHIT)	Noun	1.21
+846608	-	LAND, DESCEND	Motion	To descend to a surface, especially from the air.	Verb	10.92
+2063	-	LAND, EARTH	The physical world	A specified geographical tract of the Earth's surface including all its attributes, comprising its geology, superficial deposits, topography, hydrology, soils, flora and fauna, together with the results of past and present human activity, to the extent that these attributes exert a significant influence on the present and future land utilization. (Source: WHIT)	Noun	1.21
 5713	5442	LANGUAGE	Speech and language	A system of communication using the spoken or signed word or using symbols that represent words, signs or sounds.	Noun	18.24
 1223914	-	LARCH	Agriculture and vegetation	A coniferous  tree, of genus Larix, having deciduous leaves	Noun	8.991
 1510846	-	LASSO	Agriculture and vegetation	A long rope with a sliding loop on one end, generally used in ranching to catch cattle and horses.	Noun	8.29
-6337	-	LAST	Quantity	After all the others.	Function word	13.35
-533044	-	LAST	Time	To endure, continue over time.	Verb	14.252
+533044	-	LAST, ENDURE	Time	To endure, continue over time.	Verb	14.252
+6337	-	LAST, FINAL	Quantity	After all the others.	Function word	13.35
 433601	-	LATCH	The house	A fastening for a door that has a bar that fits into a notch or slot, and is lifted by a lever or string from either side.	Noun	7.231
 154705	154699	LATE	Time	After the expected or usual time.	Function word	14.17
 5876	-	LAUGH	Emotions and values	To express pleasure, mirth or derision by peculiar movement of the muscles of the face, particularly of the mouth, causing a lighting up of the face and eyes, and usually accompanied by the emission of explosive or chuckling sounds from the chest and throat.	Verb	16.25
 4549	-	LAW	Law	A body of rules of action or conduct prescribed by a legislative authority, and having binding legal force.	Noun	21.11
 6424	-	LAZY	The body	Unwilling to do work or make an effort.	Adjective	4.92
-2119	-	LEAD	Basic actions and technology	A heavy toxic bluish-white metallic element with symbol Pb and atomic number 82 that is highly malleable; occurs principally as galena and is used in alloys, accumulators, cable sheaths, paints, and as a radiation shield.	Noun	9.68
-471268	-	LEAD	Motion	To be ahead of others, e.g., in a race.	Verb	10.64
+2119	-	LEAD, CHEMICAL ELEMENT	Basic actions and technology	A heavy toxic bluish-white metallic element with symbol Pb and atomic number 82 that is highly malleable; occurs principally as galena and is used in alloys, accumulators, cable sheaths, paints, and as a radiation shield.	Noun	9.68
+1091895	471268	LEAD, GUIDE	Motion	To move ahead (of others) in time or space.	Verb	10.64
 2124	-	LEAF	Agriculture and vegetation	The main organ of photosynthesis and transpiration in higher plants, usually consisting of a flat green blade attached to the stem directly or by a stalk.	Noun	8.56
 157124	-	LEARN	Cognition	To acquire, or attempt to acquire knowledge or an ability to do something.	Verb	17.24
 2126	-	LEATHER	Clothing and grooming	The dressed or tanned hide of an animal, usually with the hair removed.	Noun	6.29
@@ -779,15 +777,15 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1077778	-	LIBERATE	Social and political relations	To set free from the power of another.	Verb	19.445
 730404	-	LICENSE PLATE	Modern world	Metal sheet for alphanumerical identification of vehicles, on their front and/or rear parts.	Noun	23.35
 1510483	-	LICK	The body	To stroke with the tongue.	Verb	4.59
-161769	-	LIE	Emotions and values	To knowingly say something that is untrue.	Verb	16.67
-6005	-	LIE	Spatial relations	To rest in a horizontal, static position, usually on another surface.	Verb	12.14
 1425860	-	LIE DOWN	Spatial relations	(For a human or animal) to assume a horizontally extended position on a surface.	Verb	12.14
+161769	-	LIE, MISLEAD	Emotions and values	To knowingly say something that is untrue.	Verb	16.67
+6005	-	LIE, REST	Spatial relations	To rest in a horizontal, static position, usually on another surface.	Verb	12.14
 1419171	1419153;8409;1419162	LIFE	The body	The state of being.	Noun	4.741
 156785	-	LIFT	Motion	To cause an object to have a higher location than previously.	Verb	10.22
-452743	-	LIGHT	Sense perception	With a small mass, little weight or density; the opposite of heavy.	Adjective	15.82
-1502678	-	LIGHT	Sense perception	(of color) having a relatively small amount of color components.	Adjective	15.62
-1299599	-	LIGHT	The physical world	To cause to undergo fire combustion.	Verb	1.86
-2158	-	LIGHT	The physical world	Electromagnetic radiation that is capable of causing a visual sensation. (Source: CED)	Noun	1.61
+1502678	-	LIGHT COLOR	Sense perception	(of color) having a relatively small amount of color components.	Adjective	15.62
+2158	-	LIGHT RADIATION	The physical world	Electromagnetic radiation that is capable of causing a visual sensation. (Source: CED)	Noun	1.61
+452743	-	LIGHT WEIGHT	Sense perception	With a small mass, little weight or density; the opposite of heavy.	Adjective	15.82
+1299599	-	LIGHT, BURN	The physical world	To cause to undergo fire combustion.	Verb	1.86
 6811	-	LIGHTNING	The physical world	The flash of light caused by the discharge of atmospheric electrical charge.	Noun	1.55
 1511001	-	LIMP	Motion	To walk lamely, as if favouring one leg.	Verb	10.451
 451773	873185	LINE	Spatial relations	An infinitely long, infinitely thin, not bent line in geometry.	Noun	12.84
@@ -823,8 +821,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1364993	1373397	MAINLAND	The physical world	A large and continuous mass of land representing most of a region or a country but excluding outlying islands.	Noun	1.26
 157264	-	MAIZE	Agriculture and vegetation	A type of grain of the species Zea mays.	Noun	8.47
 339200	-	MAKE	Basic actions and technology	To create something by combining or assembling materials or parts or by changing it.	Verb	9.111
-6395	-	MALE	Animals	A member of the sex that begets young by fertilizing ova.	Adjective	3.12
-6396	-	MALE	Kinship	Of, relating to, or denoting a member of the sex that begets young by fertilizing ova.	Adjective	2.23
+6396	-	MALE	Kinship	Of, relating to, or denoting a member of the sex that begets young by fertilizing ova.	Adjective	2.23;3.12
 6397	-	MAN	Kinship	An adult human member of the sex that begets young by fertilizing ova.	Noun	2.21
 395809	-	MANIOC	Agriculture and vegetation	Shrub (Manihot esculenta) whose roots are rich in starch	Noun	8.92
 1526633	-	MANIOC BREAD	Food and drink	Bread made of the roots of the cassava plant.	Noun	5.983
@@ -855,8 +852,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 470229	-	MERCHANT	Possession	A businessperson engaged in trade.	Noun	11.84
 1026415	-	MIDDAY	Time	Time of day when the sun is in its zenith.	Noun	14.45
 475332	-	MIDDLE	Spatial relations	Being in the midway between the ends.	Noun	12.37
-1166811	-	MILK	Food and drink	To draw milk from (a mammal, especially a cow).	Verb	5.87
-2358	-	MILK	Food and drink	The whitish fluid secreted by the mammary gland for the nourishment of the young; composed of carbohydrates, proteins, fats, mineral salts, vitamins, and antibodies.	Noun	5.86
+2358	-	MILK FLUID	Food and drink	The whitish fluid secreted by the mammary gland for the nourishment of the young; composed of carbohydrates, proteins, fats, mineral salts, vitamins, and antibodies.	Noun	5.86
 2359	-	MILL	Food and drink	A building where grain is crushed into flour.	Noun	5.57
 397763	-	MILLET	Agriculture and vegetation	A group of small-seeded species of cereal crops, widely grown around the world for food and fodder.	Noun	8.911
 6418	-	MIND	Cognition	The ability for rational thought.	Noun	17.11
@@ -873,8 +869,8 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 5729	-	MOON	The physical world	A natural satellite of a planet.	Noun	1.53
 950694	1379482	MORE	Quantity	[Used in forming the comparative form of many adjectives and almost all comparable adverbs.]	Function word	13.16
 5840	1452308	MORNING	Time	The period of time from the start of the day (midnight) until midday (12:00).	Noun	14.44
-703845	-	MORTAR	The house	Paste made of a mixture of a binder (cement, plaster or lime), sand and water used in masonry to make bricks, stones, etc. stick together.	Noun	7.63
-1454028	-	MORTAR	Food and drink	A bowl used to crush and grind ingredients with a pestle.	Noun	5.58
+703845	-	MORTAR BINDER	The house	Paste made of a mixture of a binder (cement, plaster or lime), sand and water used in masonry to make bricks, stones, etc. stick together.	Noun	7.63
+1454028	-	MORTAR CRUSHER	Food and drink	A bowl used to crush and grind ingredients with a pestle.	Noun	5.58
 6563	-	MOSQUE	Religion and belief	A place of worship for followers of the Islamic faith.	Noun	22.132
 630453	-	MOSQUITO	Animals	A small flying insect (of the family Culicidae) known for biting and sucking blood.	Noun	3.832
 5463	-	MOTHER	Kinship	A woman who has at least one child.	Noun	2.36
@@ -909,8 +905,8 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 5823	-	NECK	The body	The part of the body (found in some animals, including humans) that connects the head and the trunk.	Noun	4.28
 900585	-	NECKLACE	Clothing and grooming	An article of jewelry that is worn around the neck.	Noun	6.75
 2497	447380	NEED	Cognition	The fact or an instance of feeling the lack of something.	Noun	17.45
-5951	337519	NEEDLE	Clothing and grooming	A thin, sharp implement used in sewing, knitting and acupuncture.	Noun	6.36
-1506160	-	NEEDLE	Agriculture and vegetation	A needle of coniferous tree	Noun	8.993
+5951	337519	NEEDLE FOR SEWING	Clothing and grooming	A thin, sharp implement used in sewing, knitting and acupuncture.	Noun	6.36
+1506160	-	NEEDLE TREE	Agriculture and vegetation	A needle of coniferous tree	Noun	8.993
 5820	-	NEIGHBOUR	Social and political relations	A person living in a house that is adjacent or nearby another person's house.	Noun	19.54
 454945	-	NEPHEW	Kinship	A child of someone's brother or sister.	Noun	2.53
 957309	-	NEST	Animals	To build or settle into a nest.	Noun	3.58
@@ -977,8 +973,8 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1510588	-	PADLOCK	The house	A detachable lock that can be used to secure something by means of a sliding or hinged shackle	Noun	7.232
 7257	-	PAIN	Emotions and values	An unpleasant, usually localised physical sensation that is often the result of an injury, disease or other ailment.	Noun	16.31
 496633	-	PAINFUL	Sense perception	Full of pain; causing uneasiness or distress, either physical or mental.	Adjective	-
-959903	-	PAINT	Basic actions and technology	To make a painting.	Verb	9.89
-2709	-	PAINT	Basic actions and technology	A mixture of pigment and a vehicle, such as oil or water, that together form a liquid or paste that can be applied to a surface to provide an adherent coating that imparts colour, protects the surface and/or gives the surface different features.	Noun	9.88
+2709	-	PAINT, PIGMENTS	Basic actions and technology	A mixture of pigment and a vehicle, such as oil or water, that together form a liquid or paste that can be applied to a surface to provide an adherent coating that imparts colour, protects the surface and/or gives the surface different features.	Noun	9.88
+959903	-	PAINTING	Basic actions and technology	To make a painting.	Verb	9.89
 8187	-	PAIR	Quantity	Two similar or identical things taken together.	Noun	13.37
 529277	-	PALM OF HAND	The body	The inner and somewhat concave part of the human hand that extends from the wrist to the bases of the fingers.	Noun	4.331
 528656	-	PALM TREE	Agriculture and vegetation	Any of various evergreen trees from the family Palmae or Arecaceae, which are mainly found in the tropics.	Noun	8.81
@@ -1024,14 +1020,13 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1238556	-	PITCHER	Food and drink	A container shaped like a vase with a handle and a spout used to serve liquids.	Noun	5.34
 1510832	-	PITCHFORK	Agriculture and vegetation	An agricultural tool comprising a fork attached to a long handle used for pitching hay or bales of hay high up onto a haystack.	Noun	8.26
 503503	-	PITY	Emotions and values	Deep awareness of the suffering of another, coupled with the wish to relieve it.	Noun	16.35
-337267	-	PLACE	Spatial relations	A position or area in a space.	Noun	12.11
-440073	-	PLACE	Motion	To bring something in a specific place or in a specific position.	Verb	-
+337267	-	PLACE, POSITION	Spatial relations	A position or area in a space.	Noun	12.11
 2813	-	PLAIN	The physical world	An extensive, broad tract of level or rolling, almost treeless land with a shrubby vegetation, usually at a low elevation.	Noun	1.23
 992256	-	PLAINTIFF	Law	One who commences a legal process by a complaint.	Noun	21.21
 1510567	1510570	PLAIT	Clothing and grooming	A flat fold; a doubling, as of cloth; a pleat.	Noun	6.921
 703135	-	PLAIT/BRAID,WEAVE	Basic actions and technology	to unite or arrange (threads, strips, parts, branches, etc.) so as to intercross one another passing it alternately over and under.	Verb	9.75
-2836	1471369	PLANT	Agriculture and vegetation	Any living organism that synthesizes its food from inorganic substances, possesses cellulose cell walls, responds slowly and often permanently to a stimulus, lacks specialized sense organs and nervous system, and has no powers of locomotion.	Noun	8.53
-619975	-	PLANT	Agriculture and vegetation	To put a plant in the ground so that it strikes root and grows.	Verb	8.531
+619975	-	PLANT,GROW	Agriculture and vegetation	To put a plant in the ground so that it strikes root and grows.	Verb	8.531
+2836	1471369	PLANT,VEGETATION	Agriculture and vegetation	Any living organism that synthesizes its food from inorganic substances, possesses cellulose cell walls, responds slowly and often permanently to a stimulus, lacks specialized sense organs and nervous system, and has no powers of locomotion.	Noun	8.53
 1511168	-	PLANTAIN	Agriculture and vegetation	A plant of the genus Plantago, with a rosette of sessile leaves about 10 cm long with a narrow part instead of a petiole, and with a spike inflorescence with the flower spacing varying widely among the species.	Noun	-
 2840	-	PLASTIC	Modern world	A polymeric material (usually organic) of large molecular weight which can be shaped by flow; usually refers to the final product with fillers, plasticizers, pigments, and stabilizers included (versus the resin, the homogeneous polymeric starting material); examples are polyvinyl chloride, polyethylene, and urea-formaldehyde.	Noun	23.57
 154781	-	PLATE	Food and drink	A dish on which food is served or from which food is eaten.	Noun	5.32
@@ -1075,6 +1070,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1374507	-	PROUD	Emotions and values	Feeling greatly pleased, or satisfied by something or someone that is highly honorable or creditable to oneself	Adjective	16.48
 1073333	-	PUBIC HAIR	The body	Dense, coarse hair that grows on the male and female genital area beginning in puberty.	Noun	4.145
 6071	840722	PULL	Basic actions and technology	To apply a force to (an object), in order that it moves towards the origin of the force that was applied.	Verb	9.33
+1507419	-	PULL OF SKIN	Basic actions and technology	Strip or pull off the skin or hide of	Verb	9.29
 366683	-	PUMPKIN	Agriculture and vegetation	A squash fruit of the Cucurbita genus, most commonly orange in colour when ripe and traditionally used during Halloween.	Noun	8.931
 1511126	-	PUNISHMENT	Law	The act or process of punishing, imposing and/or applying a sanction; a penalty to punish wrongdoing, especially for crime.	Noun	21.37
 341470	353776	PUPIL	Cognition	A student under the supervision of a teacher or professor.	Noun	17.26
@@ -1093,9 +1089,9 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 6853	-	RAFT	Motion	a collection of logs, planks, casks, etc., fastened together for floating on water.	Noun	10.84
 355194	-	RAFTER	The house	One of several parallel sloping beams that extend from the ridge to the wall-plate, to support the roof and its associated loads; the sloping top member of a roof truss, which carries the purlins.	Noun	7.54
 1510563	-	RAG	Clothing and grooming	A piece of old cloth; a tattered piece of cloth; a shred, a tatter.	Noun	6.81
-3100	-	RAIN	The physical world	Precipitation in the form of liquid water drops with diameters greater than 0.5 millimetres.	Noun	1.75
-5523	-	RAIN	The physical world	To fall from the clouds in drops of water.	Verb	-
+3100	-	RAIN,PRECIPATION	The physical world	Precipitation in the form of liquid water drops with diameters greater than 0.5 millimetres.	Noun	1.75
 7041	-	RAINBOW	The physical world	A multicoloured arc in the sky caused by the refraction of light within droplets of rain in the air.	Noun	1.59
+5523	-	RAINING	The physical world	To fall from the clouds in drops of water.	Verb	-
 5772	-	RAISE	Motion	To cause to rise; to move something from a lower position to a higher one.	Verb	10.22
 1510836	-	RAKE	Agriculture and vegetation	A garden tool with a row of pointed teeth fixed to a long handle, used for collecting grass or debris, or for loosening soil.	Noun	8.27
 5855	-	RAM	Animals	A male sheep.	Noun	3.26
@@ -1144,7 +1140,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 5465	-	ROPE	Basic actions and technology	Thick, strong string made of several strands that have been twisted together.	Noun	9.19
 7031	5826	ROTTEN	Food and drink	Having changed its colour, smell or composition (partially or completely), due to being attacked and decomposed by microorganisms (relating to organic matter).	Adjective	5.125
 846773	-	ROUGH	Sense perception	Having a texture that has much friction. Not smooth.	Adjective	15.76
-1505691	-	ROUGH	The physical world	With large waves (of sea).	Adjective	1.323
+1505691	-	ROUGH OF SEA	The physical world	With large waves (of sea).	Adjective	1.323
 5984	700103	ROUND	Spatial relations	Circular or having a circular cross-section in at least one direction.	Adjective	12.81
 7808	-	ROW	Motion	To pull oars through water in order to make a water vehicle (such as a boat) move.	Verb	10.852
 6062	-	RUB	Basic actions and technology	To move one's hand or an object over a surface or other object (maintaining constant contact and applying moderate pressure).	Verb	9.31
@@ -1154,8 +1150,8 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 6323	-	RUN	Motion	To move quickly by alternately making a short jump off of either foot.	Verb	10.46
 1054188	-	RYE	Agriculture and vegetation	Biennial plant from the genus Secale of the family Poaceae, used as a cereal or for forage.	Noun	8.45
 479450	-	SACRIFICE	Religion and belief	Something surrendered or lost in order to gain an objective.	Noun	22.15
-345771	-	SAIL	Motion	A large piece of fabric (as canvas) by means of which wind is used to propel a sailing vessel.	Noun	10.88
 345774	-	SAIL	Motion	To traverse or travel by ship on a body of water.	Verb	10.36
+345771	-	SAILCLOTH	Motion	A large piece of fabric (as canvas) by means of which wind is used to propel a sailing vessel.	Noun	10.88
 6259	-	SALIVA	The body	A secretion from the salivary glands (found in the mouth) that can be spat out.	Noun	-
 5599	-	SALT	Food and drink	A condiment (NaCl - Sodium Chloride) used to add to or enhance the flavour of food (commonly with pepper).	Noun	5.81
 475116	1384111	SALTY	Sense perception	Containing salt.	Adjective	15.36
@@ -1240,12 +1236,11 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 3424	-	SILVER	Basic actions and technology	A very ductile malleable brilliant greyish-white element with symbol Ar and atomic number 47 having the highest electrical and thermal conductivity of any metal.	Noun	9.65
 6406	-	SIMILAR	Spatial relations	Having some particular qualities or characteristics in common, but not all of them.	Adjective	12.92
 5540	-	SING	Speech and language	To produce harmonious sounds with one's voice.	Verb	18.12
-389091	-	SINK	Modern world	A bowl for washing hands, dishwashing or other purposes, often affixed to a wall.	Noun	23.51
-349629	474485	SINK	Motion	To fall or drop to a lower place or level.	Verb	10.33
+389091	-	SINK,BASIN	Modern world	A bowl for washing hands, dishwashing or other purposes, often affixed to a wall.	Noun	23.51
+474485	-	SINK,DESCEND	Motion	To cause a boat to go down in the water.	Verb	10.33
 5544	-	SISTER	Kinship	A female person who has the same parents as another person.	Noun	2.45
 6022	-	SIT	Spatial relations	To be in a position with the upper body upright and the legs resting.	Verb	12.13
 7003	-	SIX	Quantity	The cardinal number occurring after five and before seven, represented in Roman numerals as VI, in Arabic numerals as 6.	Function word	13.06
-1507419	-	SKIN	Basic actions and technology	Strip or pull off the skin or hide of	Verb	9.29
 3430	-	SKIN	The body	The tissue forming the outer covering of the vertebrate body: it consists of two layers, the outermost of which may be covered with hair, scales, feathers, etc. It is mainly protective and sensory in function.	Noun	4.12
 6552	-	SKIRT	Clothing and grooming	An article of clothing, usually worn by women and girls, that hangs from the waist and covers the lower part of the body.	Noun	6.46
 6568	-	SKULL	The body	The main bone of the head; the cranium.	Noun	4.202
@@ -1258,11 +1253,11 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 5791	-	SLIP	Motion	To fall over (usually unexpectedly) onto the ground or floor, due to the floor being slippery, smooth or slimy.	Verb	10.42
 335287	-	SLOW	Time	With low speed.	Adverb	14.22
 5509	-	SMALL	Spatial relations	Not large or big; small in size.	Adjective	12.56
-6520	-	SMELL	Sense perception	To perceive the presence of molecules in the air by inhaling them through the nose.	Verb	15.22
-6521	-	SMELL	Sense perception	To give off a smell that can be perceived by the nose.	Verb	15.21
+6520	-	SMELL,PERCEIVE	Sense perception	To perceive the presence of molecules in the air by inhaling them through the nose.	Verb	15.22
+6521	-	SMELL,STINK	Sense perception	To give off a smell that can be perceived by the nose.	Verb	15.21
 6067	-	SMILE	Emotions and values	To make an upwards movement of the sides of the mouth, that indicates happiness or satisfaction.	Verb	16.251
-6968	-	SMOKE	Agriculture and vegetation	To inhale smoke from for example a cigarette or a cigar.	Verb	8.69
-3451	-	SMOKE	The physical world	An aerosol, consisting of visible particles and gases, produced by the incomplete burning of carbon-based materials, such as wood and fossil fuels.	Noun	1.83
+3451	-	SMOKE,EXHAUST	The physical world	An aerosol, consisting of visible particles and gases, produced by the incomplete burning of carbon-based materials, such as wood and fossil fuels.	Noun	1.83
+6968	-	SMOKE,INHALE	Agriculture and vegetation	To inhale smoke from for example a cigarette or a cigar.	Verb	8.69
 5487	-	SMOOTH	Sense perception	Not rough; having a surface texture that lacks friction.	Adjective	15.77
 638694	-	SNAIL	Animals	(Gastropoda) Ventral footed mollusk, including land snails, terrestrial pulmonate gastropod mollusks.	Noun	3.94
 3388	-	SNAKE	Animals	Any reptile of the suborder Serpentes, typically having a scaly cylindrical limbless body, fused eyelids, and a jaw modified for swallowing large prey.	Noun	3.85
@@ -1290,8 +1285,8 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 6390	-	SOUP	Food and drink	A cooked, liquid dish (made from meat or vegetables that are mixed with broth in a pot) that is often sold in tins.	Noun	5.64
 838324	-	SOUR	Sense perception	Having an acid, sharp or tangy taste.	Adjective	15.38
 6542	-	SOUTH	Spatial relations	One of the four major compass points, specifically 180°, directed toward the South Pole, and conventionally downwards on a map.	Noun	12.48
-341201	-	SOW	Agriculture and vegetation	To scatter, disperse, or plant seeds.	Verb	8.31
-5871	-	SOW	Animals	An adult female pig.	Noun	3.34
+341201	-	SOW SEEDS	Agriculture and vegetation	To scatter, disperse, or plant seeds.	Verb	8.31
+5871	-	SOW,FEMALE PIG	Animals	An adult female pig.	Noun	3.34
 525509	-	SPADE	Agriculture and vegetation	Tool having a flat and sharp metal tip and a wooden handle used to break, dig and move the earth.	Noun	8.23
 6656	-	SPEAK	Speech and language	To communicate by the use of sounds that are interpreted as language; to communicate verbally.	Verb	18.21
 408915	-	SPEAR	Warfare and hunting	a long, stabbing weapon for thrusting or throwing, consisting of a wooden shaft to which a sharp-pointed head, as of iron or steel, is attached.	Noun	20.26
@@ -1310,8 +1305,8 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 6048	-	SPLIT	Basic actions and technology	To divide fully or partly along a more or less straight line.	Verb	9.27
 5944	-	SPOON	Food and drink	An implement for eating or serving, a small bowl with a long straight handle.	Noun	5.37
 1083572	-	SPREAD OUT	Basic actions and technology	To spread out or open from a closed or folded state.	Verb	9.34
-6360	-	SPRING	Time	Traditionally the first of the four seasons, the season of growth with an ever increasing amount of daytime.	Noun	14.75
-3596	-	SPRING	The physical world	A place where ground water flows naturally from a rock or the soil onto the land surface or into a body of surface water.	Noun	1.37
+3596	-	SPRING OF WATER	The physical world	A place where ground water flows naturally from a rock or the soil onto the land surface or into a body of surface water.	Noun	1.37
+6360	-	SPRINGTIME	Time	Traditionally the first of the four seasons, the season of growth with an ever increasing amount of daytime.	Noun	14.75
 3599	-	SQUARE	Spatial relations	An open area in a town, sometimes including the surrounding buildings.	Noun	12.78
 6017	441998;441891	SQUEEZE	Basic actions and technology	To apply pressure to something from two or more sides at once.	Verb	9.343
 666598	-	SQUIRREL	Animals	A small or medium-sized rodent of the family Sciuridae.	Noun	3.869
@@ -1382,8 +1377,8 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 5927	5926;7655	TEA	Modern world	The drink made by infusing dried leaves or buds in hot water.	Noun	23.9
 335855	-	TEACH	Cognition	To pass on knowledge and skills.	Verb	17.25
 445262	1162143	TEACHER	Cognition	A person who passes on knowledge, especially one employed in a school.	Noun	17.27
-704859	-	TEAR	Basic actions and technology	A tug given with force in order to remove something.	Verb	9.28
-6805	-	TEAR	Emotions and values	A drop of liquid produced from the eyes by crying or irritation.	Noun	16.38
+6805	-	TEAR OF EYE	Emotions and values	A drop of liquid produced from the eyes by crying or irritation.	Noun	16.38
+704859	-	TEAR,SHRED	Basic actions and technology	A tug given with force in order to remove something.	Verb	9.28
 5945	-	TELEPHONE	Modern world	An electronic device used for calling people.	Noun	23.12
 7295	-	TELEVISION	Modern world	A device for receiving television signals and displaying them in visual form.	Noun	23.11
 701342	-	TELL	Speech and language	To talk about a story giving its details; to give a detailed account of.	Verb	18.221
@@ -1403,8 +1398,8 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 348189	-	THIGH	The body	The area between the pelvis and buttocks and the knee.	Noun	4.351
 5990	-	THIN	Spatial relations	(Of a person or animal) Narrow in size, and usually indicating carrying little fat.	Adjective	12.65
 339816	-	THING	Possession	That which is considered to exist as a separate entity, quality or concept.	Noun	11.18
-6309	-	THINK	Cognition	To have as opinion, belief, or idea.	Verb	17.14
-6021	-	THINK	Cognition	To actively and consciously use one's mental powers, usually to form ideas.	Verb	17.13
+6309	-	THINK,BELIEVE	Cognition	To have as opinion, belief, or idea.	Verb	17.14
+6021	-	THINK,REFLECT	Cognition	To actively and consciously use one's mental powers, usually to form ideas.	Verb	17.13
 7979	-	THIRD	Quantity	The ordinal form of the cardinal number three.	Function word	13.42
 5458	1370685	THIS	Miscellaneous function words	The indicated object, item, etc.	Function word	24.07
 1243793	-	THORN	Agriculture and vegetation	A sharp and hard structure that grows on a plant.	Noun	-
@@ -1426,8 +1421,8 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 3777	-	TIDE	The physical world	The periodic rise and fall of the water resulting from gravitational interaction between the sun, moon and earth.	Noun	1.352
 844574	6453	TIE	Basic actions and technology	To establish connection between two or more things.	Verb	9.16
 3779	-	TIME	Time	The dimension of the physical universe which, at a given place, orders the sequence of events.	Noun	14.11
-3780	-	TIN	Basic actions and technology	A metallic element with symbol Sn, occurring in cassiterite. It is a malleable silvery-white metal.	Noun	9.69
-6493	-	TIN	Modern world	A tin-plate canister, often cylindrical, for preserved foods such as fruit, meat, or fish.	Noun	23.54
+6493	-	TIN,CAN	Modern world	A tin-plate canister, often cylindrical, for preserved foods such as fruit, meat, or fish.	Noun	23.54
+3780	-	TIN,CHEMICAL ELEMENT	Basic actions and technology	A metallic element with symbol Sn, occurring in cassiterite. It is a malleable silvery-white metal.	Noun	9.69
 1510953	-	TINPLATE	Basic actions and technology	A thin sheet of steel coated with tin to prevent rusting; used to make cans etc.	Noun	9.69
 1541242	-	TIP OF TONGUE	The body	front part of the tongue.	Noun	-
 7117	-	TIRED	The body	In need of some rest or sleep, usually as a result of hard work or physical activity.	Adjective	4.91
@@ -1454,8 +1449,8 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 5974	-	TOWN	Social and political relations	An area with residential districts, shops and amenities, and its own local government.	Noun	19.15
 3812	506398	TRADE	Possession	The act or the business of buying and selling for money. Mercantile or commercial business in general or the buying and selling, or exchanging, of commodities, either by wholesale or retail within a country or between countries. (Source: WESTS)	Verb	11.83
 3834	-	TRAIN	Modern world	A self-propelled, connected group of vehicles moving on rails.	Noun	23.155
-519501	-	TRAP	Warfare and hunting	To catch in a trap, to immobilize.	Verb	20.65
-464297	-	TRAP	Warfare and hunting	A device for catching and holding animals.	Noun	20.64
+519501	-	TRAP, CATCH	Warfare and hunting	To catch in a trap, to immobilize.	Verb	20.65
+464297	-	TRAP, PITFALL	Warfare and hunting	A device for catching and holding animals.	Noun	20.64
 3854	-	TREE	Agriculture and vegetation	Any large woody perennial plant with a distinct trunk giving rise to branches or leaves at some distance from the ground.	Noun	8.6
 1490199	-	TREE STUMP	Agriculture and vegetation	A small remaining portion of the trunk of a tree with the roots still in the ground.	Noun	8.72
 1510861	-	TREE TRUNK	Agriculture and vegetation	The main structural member of a tree.	Noun	8.73
@@ -1513,8 +1508,8 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 4079	-	WATERFALL	The physical world	A perpendicular or steep descent of the water of a stream.	Noun	1.39
 421112	-	WAVE	The physical world	A disturbance in an fluid medium.	Noun	1.35
 5455	-	WE	Kinship	The speaker or writer and at least one other person.	Function word	2.94
-496889	-	WE	Kinship	exclusive “we”: I and at least one other person, but not the addressed person (you) (pronoun 1st person plural without 2nd person)	Function word	2.942
-496905	-	WE	Kinship	inclusive “we”: I and at least one other person, including the addressed person(s) (pronoun 1st person plural with 2nd person)	Function word	2.941
+496889	-	WE EXCLUSIVE	Kinship	exclusive “we”: I and at least one other person, but not the addressed person (you) (pronoun 1st person plural without 2nd person)	Function word	2.942
+496905	-	WE INCLUSIVE	Kinship	inclusive “we”: I and at least one other person, including the addressed person(s) (pronoun 1st person plural with 2nd person)	Function word	2.941
 6555	-	WEAK	The body	Lacking in force or ability.	Adjective	4.82
 4128	-	WEAPONS	Warfare and hunting	An instrument of attack or defense in combat, as a gun, missile, or sword.	Noun	20.21
 4129	-	WEATHER	The physical world	The day-to-day meteorological conditions, especially temperature, cloudiness, and rainfall, affecting a specific place.	Noun	1.78
@@ -1563,8 +1558,8 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 4168	-	WOODS	The physical world	A dense growth of trees more extensive than a grove and smaller than a forest.	Noun	1.41
 4174	-	WOOL	Clothing and grooming	The soft, curly hair that forms the fleece of sheep, lamas and other animals and which is used to produce clothing.	Noun	6.22
 6551	-	WORD	Speech and language	A distinct unit of language (sounds in speech or written letters) with a particular meaning, composed of one or more morphemes, and also of one or more phonemes that determine its sound pattern.	Noun	18.26
-4228	-	WORK	Basic actions and technology	Productive activity, service, trade, or craft for which one is regularly paid.	Noun	9.12
-471303	1507122	WORK	Basic actions and technology	To do a specific task by employing physical or mental powers.	Verb	-
+471303	1507122	WORK,ACTIVITY	Basic actions and technology	To do a specific task by employing physical or mental powers.	Verb	-
+4228	-	WORK,CRAFT	Basic actions and technology	Productive activity, service, trade, or craft for which one is regularly paid.	Noun	9.12
 691207	6480	WORKSHOP	Modern world	a room or building in which work, especially mechanical work, is carried on.	Noun	23.58
 4181	-	WORLD	The physical world	The Earth with all its inhabitants and all things upon it.	Noun	1.1
 5466	-	WORM	Animals	A generally tubular invertebrate of the annelid phylum.	Noun	3.84
