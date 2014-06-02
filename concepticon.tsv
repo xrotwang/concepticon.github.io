@@ -842,7 +842,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1507122	-	MOLD	Basic actions and technology	To create something, usually for a specific function.	Verb	9.72
 6992	-	MONDAY	Time	The first day of the week in Europe and in systems using the ISO 8601 norm; the second day of the week in the United States of America.	Noun	14.63
 6408	-	MONEY	Possession	An unspecified amount in a currency.	Noun	11.43
-5870	-	MONKEY	Animals	A primate from the group "New World monkeys" or "Old World monkeys" (Simiiformes, excluding the superfamily Hominoidea or apes) that lives mainly in rainforests and is distinguished from an Ape by its smaller size and its tail.	Noun	3.76
+5870	-	MONKEY	Animals	A primate from the group “New World monkeys” or “Old World monkeys” (Simiiformes, excluding the superfamily Hominoidea or apes) that lives mainly in rainforests and is distinguished from an Ape by its smaller size and its tail.	Noun	3.76
 5914	-	MONTH	Time	A period into which a year is divided, historically based on the phases of the moon. In the Gregorian calendar there are twelve months.	Noun	14.71
 5729	-	MOON	The physical world	A natural satellite of a planet.	Noun	1.53
 950694	1379482	MORE	Quantity	[Used in forming the comparative form of many adjectives and almost all comparable adverbs.]	Function word	13.16
@@ -1244,7 +1244,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 6387	-	SOMETIMES	Time	On certain occasions, or in certain circumstances, but not always.	Function word	14.33
 6634	-	SON	Kinship	One's male child.	Noun	2.41
 454149	-	SON-IN-LAW	Kinship	The husband of someone's daughter.	Noun	2.63;2.631
-476597	-	SONG	Modern world	A musical piece with lyrics (or "words to sing"); prose that one can sing.	Noun	23.64
+476597	-	SONG	Modern world	A musical piece with lyrics (or “words to sing”); prose that one can sing.	Noun	23.64
 335437	-	SOON	Time	In a near future.	Function word	14.331
 353553	-	SORCERER	Religion and belief	A person who practices magic or sorcery.	Noun	22.43
 1103925	-	SORE	The body	An injured, infected, inflamed or diseased patch of skin.	Noun	4.85
@@ -1471,8 +1471,8 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 4079	-	WATERFALL	The physical world	A perpendicular or steep descent of the water of a stream.	Noun	1.39
 421112	-	WAVE	The physical world	A disturbance in an fluid medium.	Noun	1.35
 5455	-	WE	Kinship	The speaker or writer and at least one other person.	Function word	2.94
-496889	-	WE	Kinship	exclusive "we": I and at least one other person, but not the addressed person (you) (pronoun 1st person plural without 2nd person)	Function word	2.942
-496905	-	WE	Kinship	inclusive "we": I and at least one other person, including the addressed person(s) (pronoun 1st person plural with 2nd person)	Function word	2.941
+496889	-	WE	Kinship	exclusive “we”: I and at least one other person, but not the addressed person (you) (pronoun 1st person plural without 2nd person)	Function word	2.942
+496905	-	WE	Kinship	inclusive “we”: I and at least one other person, including the addressed person(s) (pronoun 1st person plural with 2nd person)	Function word	2.941
 6555	-	WEAK	The body	Lacking in force or ability.	Adjective	4.82
 4128	-	WEAPONS	Warfare and hunting	An instrument of attack or defense in combat, as a gun, missile, or sword.	Noun	20.21
 4129	-	WEATHER	The physical world	The day-to-day meteorological conditions, especially temperature, cloudiness, and rainfall, affecting a specific place.	Noun	1.78
