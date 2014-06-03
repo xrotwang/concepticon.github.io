@@ -1,6 +1,6 @@
 # CONCEPTICON
 # Created by: QLC Research Group
-# Created on: 2014-06-03 10:28
+# Created on: 2014-06-03 17:24
 
 OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1542733	-	(ROPE) BROKE	-	???	???	-
@@ -215,6 +215,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 7714	339200;699003	BUILD	Basic actions and technology	To form by combining materials or parts.	Verb	9.44
 432142	-	BULL	Animals	Male bovine animal.	Noun	3.21
 908269	-	BUNCH	Food and drink	A group of things fastened or growing together.	Noun	5.712
+6039	844863	BURN	The physical world	To be consumed by fire.	Verb	1.852
 1299599	1232648	BURN SOMETHING	The physical world	To cause to undergo fire combustion.	Verb	1.851
 702018	-	BURY	The body	to put in the ground and cover with earth.	Verb	4.78
 461	-	BUS	Modern world	A large, long-bodied motor vehicle equipped with seating for passengers, usually operating as part of a scheduled service.	Noun	23.15
@@ -277,7 +278,6 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1541232	-	CHICHA	Food and drink	a beverage made from fermented corn in South and Central America.	Noun	-
 5778	-	CHICKEN	Animals	A type of domesticated bird from the order of Galliformes which is often raised as a type of poultry (Gallus gallus domesticus).	Noun	3.55
 1411206	-	CHICKEN TAME	-	???	???	-
-4150	-	CHICKEN WILD, WILD ANIMAL	-	???	???	-
 1508307	-	CHIEFTAIN	Social and political relations	The leader/ruler of a tribe/clan	Noun	19.24
 1541208	-	CHIGGOE, JIGGER FLEA	Animals	a flea, Tunga penetrans,  of tropical America and Africa, the impregnated female of which embeds itself in the skin, especially of the feet, of humans and animals and becomes greatly distended with eggs.	Noun	-
 7413	-	CHILD DESCENDANT	Kinship	Biological offspring.	Noun	2.43
@@ -352,6 +352,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1017244	-	COURTYARD	The house	An area wholly or partly surrounded by walls or buildings.	Noun	7.15
 6736	-	COUSIN	Kinship	The child of the sibling of a parent of a person.	Noun	2.55
 342543	-	COVER	Spatial relations	To place something over or upon to conceal or protect.	Verb	12.26
+432006	342006	COW	Animals	Female bovine animal (Bos taurus) of the subfamily Bovinae of the family Bovidae.	Noun	3.23
 388687	-	COYOTE	Animals	(Canis latrans) A member of the Canidae family native to North America.	Noun	3.862
 1168231	-	CRAWL	Motion	to move in a prone position with the body resting on or close to the ground.	Verb	10.41
 1543617	-	CRAYFISH	-	???	???	-
@@ -431,12 +432,14 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1166811	-	DRAW MILK	Food and drink	To draw milk from (a mammal, especially a cow).	Verb	5.87
 840722	339936	DRAW WATER	Basic actions and technology	To draw by a physical force causing or tending to cause to approach, adhere, or unite	Verb	9.9
 8448	-	DREAM	The body	To experience while sleeping.	Verb	4.62
+154560	-	DRESS	Clothing and grooming	A one-piece garment for a woman that has a skirt and a body section.	Noun	6.42
+351289	-	DRESS UP	Clothing and grooming	???	Verb	-
 1505759	-	DRIBBLE	The body	To let saliva flow out of one’s mouth onto one’s chin.	Verb	4.591
 5991	-	DRINK ACTION	Food and drink	To consume a liquid through the mouth.	Verb	5.13
 339	-	DRINK OBJECT	Food and drink	Any one of various liquids for drinking.	Noun	5.9
-1510993	-	DRIP	Motion	To fall one drop at a time.	Verb	10.24
 340699	-	DRIVE	Motion	To operate a (motorized) vehicle (with wheels).	Verb	10.65
 161564	-	DRIVER'S LICENSE	Modern world	Official document granting someone the authorisation to drive some vehicles.	Noun	23.34
+341382	-	DROP	Motion	The event of moving to a lower position due to the effect of gravity.	Verb	10.16
 838127	-	DROWN	The body	To be suffocated in water or other fluid; to perish by suffocation in water.	Verb	4.751
 386380	-	DRUM	Speech and language	A percussion instrument consisting of at least one membrane that is stretched over a shell and struck directly with the player's hands or with a drumstick.	Noun	18.72
 1200507	-	DRUMMING	-	???	???	-
@@ -446,18 +449,8 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 7277	-	DRY UP	-	???	???	-
 5886	-	DUCK	Animals	An aquatic bird of the family Anatidae, having a flat bill and webbed feet.	Noun	3.57
 808314	-	DUIKER	-	???	???	-
-6039	-	DUPLICATE BURN	The physical world	To be consumed by fire.	Verb	1.852
-844863	-	DUPLICATE BURN	-	To undergo combustion.	???	-
-432006	-	DUPLICATE COW	Animals	Female bovine animal (Bos taurus) of the subfamily Bovinae of the family Bovidae.	Noun	3.23
-342006	-	DUPLICATE COW	-	-	???	-
-154560	-	DUPLICATE DRESS	Clothing and grooming	A one-piece garment for a woman that has a skirt and a body section.	Noun	6.42
-351289	-	DUPLICATE DRESS	-	???	???	-
-341382	-	DUPLICATE DROP	Motion	The event of moving to a lower position due to the effect of gravity.	Verb	10.16
-348656	-	DUPLICATE DROP	-	to fall in globules or small portions, as water or other liquid.	???	-
-6396	-	DUPLICATE MALE	Kinship	Of, relating to, or denoting a member of the sex that begets young by fertilizing ova.	Adjective	2.23;3.12
-6395	-	DUPLICATE MALE	-	A member of the sex that begets young by fertilizing ova.	???	-
-5662	-	DUPLICATE STICK	-	???	???	-
-484273	-	DUPLICATE STICK	-	???	???	-
+1510993	-	DUPLICATE DRIP	Motion	To fall one drop at a time.	Verb	10.24
+348656	-	DUPLICATE DRIP	Motion	to fall in globules or small portions, as water or other liquid.	Verb	-
 1009	-	DUST	The physical world	Any kind of solid material divided in particles of very small size.	Noun	1.213
 1335255	-	DYE	Clothing and grooming	To modify the color of something by applying dye.	Verb	6.39
 838154	-	EAGLE	Animals	Any of several large carnivorous birds in the family Accipitridae, having a powerful hooked bill and keen vision.	Noun	3.584
@@ -631,6 +624,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1160012	522528	GIVE BACK	Possession	To transfer a good to the person or people it came from, or to their legal successors.	Verb	11.22
 541498	-	GIVE BIRTH	-	???	???	-
 1656	-	GLASS	Basic actions and technology	A hard, amorphous, inorganic, usually transparent, brittle substance made by fusing silicates, sometimes borates and phosphates, with certain basic oxides and then rapidly cooling to prevent crystallization.	Noun	9.74
+OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 369021	-	GLOVE	Clothing and grooming	A garment for a hand, often extending to the wrist and sometimes up to the elbow, which either covers each finger individually, or separates the thumb from the other fingers.	Noun	6.58
 46	-	GLUE	Basic actions and technology	Substance used for sticking objects together.	Noun	9.56
 334831	-	GO	Motion	To move from a place to another that is further away.	Verb	10.47
@@ -892,6 +886,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1364993	1373397	MAINLAND	The physical world	A large and continuous mass of land representing most of a region or a country but excluding outlying islands.	Noun	1.26
 157264	-	MAIZE	Agriculture and vegetation	A type of grain of the species Zea mays.	Noun	8.47
 339200	-	MAKE	Basic actions and technology	To create something by combining or assembling materials or parts or by changing it.	Verb	9.111
+6396	6395	MALE	Kinship	Of, relating to, or denoting a member of the sex that begets young by fertilizing ova.	Adjective	2.23;3.12
 6397	-	MAN	Kinship	An adult human member of the sex that begets young by fertilizing ova.	Noun	2.21
 1543020	-	MAN'S ROBE	-	???	???	-
 395809	-	MANIOC	Agriculture and vegetation	Shrub (Manihot esculenta) whose roots are rich in starch	Noun	8.92
@@ -1416,6 +1411,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1480565	-	STEPFATHER	Kinship	The husband of one's biological mother, other than one's biological father.	Noun	2.71
 1480454	-	STEPMOTHER	Kinship	The wife of one's biological father, other than one's biological mother.	Noun	2.72
 454195	-	STEPSON	Kinship	The son of one's spouse and his or her previous partner.	Noun	2.73
+5662	484273	STICK	The physical world	???	Noun	-
 8401	-	STINGRAY	Animals	Any of various large, venomous rays, of the orders Rajiformes and Myliobatiformes, having a barbed, whiplike tail.	Noun	3.664
 719375	-	STINGY	Possession	Excessively unwilling to spend.	Adjective	11.54
 1089734	-	STINKING	Sense perception	Having a bad smell.	Adjective	15.26
@@ -1655,6 +1651,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 711582	-	WIDOW	Kinship	A woman whose spouse has died.	Noun	2.76
 933133	-	WIDOWER	Kinship	A man whose spouse has died.	Noun	2.77
 5429	-	WIFE	Kinship	A married woman.	Noun	2.32
+4150	-	WILD ANIMAL, CHICKEN WILD	-	???	???	-
 4160	-	WIND	The physical world	The motion of air relative to the earth's surface; usually means horizontal air motion, as distinguished from vertical motion.	Noun	1.72
 5932	-	WINDOW	The house	An opening, usually covered by one or more panes of clear glass, to allow light from outside to enter a building or vehicle.	Noun	7.25
 6329	-	WINE	Food and drink	An alcoholic beverage made by fermenting juice of grapes.	Noun	5.92
