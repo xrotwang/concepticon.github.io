@@ -449,8 +449,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 7277	-	DRY UP	-	???	???	-
 5886	-	DUCK	Animals	An aquatic bird of the family Anatidae, having a flat bill and webbed feet.	Noun	3.57
 808314	-	DUIKER	-	???	???	-
-1510993	-	DUPLICATE DRIP	Motion	To fall one drop at a time.	Verb	10.24
-348656	-	DUPLICATE DRIP	Motion	to fall in globules or small portions, as water or other liquid.	Verb	-
+348656	1510993	DRIP	Motion	to fall in globules or small portions, as water or other liquid.	Verb	-
 1009	-	DUST	The physical world	Any kind of solid material divided in particles of very small size.	Noun	1.213
 1335255	-	DYE	Clothing and grooming	To modify the color of something by applying dye.	Verb	6.39
 838154	-	EAGLE	Animals	Any of several large carnivorous birds in the family Accipitridae, having a powerful hooked bill and keen vision.	Noun	3.584
