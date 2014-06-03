@@ -1,13 +1,7 @@
-# CONCEPTICON
-# Created by: QLC Research Group
-# Created on: 2014-06-03 17:24
-
 OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
-1542733	-	(ROPE) BROKE	-	???	???	-
-1542724	-	(STICK) SNAPPED	-	???	???	-
 7064	-	ABOVE	Spatial relations	In or to a higher place; higher than; on or over the upper surface.	Function word	12.081
 1508616	-	ABSTAIN FROM FOOD	Religion and belief	To refrain from eating	Verb	22.26
-638652	-	ACCOMPANY	-	???	???	-
+638652	-	ACCOMPANY	Motion	???	Verb	-
 751478	541549	ACCUSE	Law	To lay a charge against; bring an accusation against.	Verb	21.31
 1510885	-	ACHIOTE	Agriculture and vegetation	A derivative of the achiote trees of tropical regions of the Americas used as a red food coloring and as a flavoring.	Noun	-
 419370	-	ACORN	Agriculture and vegetation	Fruit of the oak tree.	Noun	8.66
@@ -27,7 +21,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1510408	-	AGOUTI	Animals	A rodent similar in appearance to a guinea pig but having longer legs.	Noun	-
 106	-	AIR	The physical world	A predominantly mechanical mixture of a variety of individual gases forming the earth's enveloping atmosphere.	Noun	1.71
 6549	108	AIRPLANE	Modern world	A powered heavier-than-air aircraft with fixed wings that obtains lift by the Bernoulli effect and is used for transportation.	Noun	23.16
-1543597	-	ALANG-ALANG GRASS	-	???	???	-
+1543597	-	ALANG-ALANG GRASS	Agriculture and vegetation	???	Noun	-
 1173416	-	ALL	Quantity	The totality of.	Function word	13.14
 648694	-	ALLIGATOR	Animals	(Alligatoridae) A reptile belonging to the order Crocodilia.	Noun	3.97
 904382	-	ALONE	Quantity	Without any others being included or involved.	Adjective	13.331
@@ -45,8 +39,8 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 5610	-	ANSWER	Speech and language	To communicate a message of any form in reaction to something that has been asked or expressed, to the being who expressed it; to react verbally.	Verb	18.32
 160271	-	ANT	Animals	Any of the black, red, brown, or yellow insects of the family Formicidae characterized by a large head and by living in organized colonies.	Noun	3.817
 1385114	-	ANTEATER	Animals	A mammal of the suborder Vermilingua having elongated snouts and feeding on ants and termites.	Noun	3.89
-808465	-	ANTHILL	-	???	???	-
-853880	-	ANUS	-	???	???	-
+808465	-	ANTHILL	Animals	???	Noun	-
+853880	-	ANUS	The body	???	Noun	-
 6777	-	ANVIL	Basic actions and technology	A heavy iron block used by a blacksmith as a surface upon which metal can be struck and shaped.	Noun	9.62
 430287	-	ANXIETY	Emotions and values	An unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath.	Noun	16.33
 721097	-	APPROACH	Motion	To come near to; to move towards.	Verb	10.56
@@ -57,7 +51,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 454297	-	ARMOUR	Warfare and hunting	Clothing that soldiers wear to protect themselves during combat. Historically made of leather or metal, today special materials like kevlar are used.	Noun	20.31
 818235	-	ARMPIT	The body	The hollow under the upper part of the arm at the shoulder.	Noun	4.312
 6414	-	ARMY	Warfare and hunting	A large, military force concerned mainly with ground operations.	Noun	20.15
-6432	-	ARRANGE	-	???	???	-
+6432	-	ARRANGE	Basic actions and technology	???	Verb	-
 5965	-	ARRIVE	Motion	To come to a destination.	Verb	10.55
 420887	-	ARROW	Warfare and hunting	Pointed projectile that is shot with a bow.	Noun	20.25
 819524	-	ARSON	Law	The crime of setting fire to a building or a property on purpose.	Noun	21.46
@@ -67,14 +61,14 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 7621	1495114	ASK, REQUEST	Speech and language	To desire a service or physical goods, often without returning the favor in kind.	Verb	18.35
 834474	-	ASTONISHED	Emotions and values	Filled with the emotional impact of overwhelming surprise or shock.	Adjective	16.15
 6078	-	AT	Spatial relations	With very little distance to or in a particular place or location.	Function word	12.013
-1108044	-	ATOP	-	???	???	-
+1108044	-	ATOP	Spatial relations	???	Function word	-
 337168	436121	ATTACK	Warfare and hunting	The application of violent force to someone or something.	Noun	20.43
 5591	-	AUNT	Kinship	A woman with one or more siblings who have one or more children; a sister of someone's father or mother.	Noun	2.52
 5615	-	AUTUMN	Time	The season after summer and before winter, traditionally from September 21 to December 20 in the northern hemisphere and from March 21 to June 20 in the southern hemisphere.	Noun	14.77
 1505847	-	AWL	Clothing and grooming	Pointed tool for marking or piercing wood or leather.	Noun	6.37
 333200	-	AXE	Basic actions and technology	A tool for felling trees or chopping wood consisting of a heavy metallic head flattened to a blade on one side, and which is attached to a usually wooden handle.	Noun	9.25
 7167	-	AXLE	Motion	The central part of a wheel, that usually does not turn.	Noun	10.77
-541654	-	BABOON	-	???	???	-
+541654	-	BABOON	Animals	???	Noun	-
 5642	-	BABY	Kinship	A very young human being, from birth to a year old.	Noun	2.28
 5648	-	BACK	The body	The rear of body, especially the part between the neck and the end of the spine and opposite the chest and belly.	Noun	4.19
 5650	-	BAD	Emotions and values	Not good; unfavorable; negative.	Adjective	16.72
@@ -88,7 +82,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1505835	-	BANISTERIUM	Food and drink	A psychoactive infusion prepared from the Banisteriopsis spp.	Noun	-
 5632	-	BANK	Modern world	A financial institution where one can borrow money (upon which interest is due) or deposit money (in order to collect interest).	Noun	23.44
 1510869	-	BANYAN	Agriculture and vegetation	A tropical Indian fig tree, Ficus benghalensis, that has many aerial roots.	Noun	8.85
-428797	-	BAOBAB TREE	-	???	???	-
+428797	-	BAOBAB TREE	Agriculture and vegetation	???	Noun	-
 5439	-	BARK	Agriculture and vegetation	The exterior covering of the trunk and branches of a tree.	Noun	8.75
 398106	-	BARLEY	Agriculture and vegetation	A strong cereal of the genus Hordeum, or its grains, often used as food or to make malted drinks.	Noun	8.44
 1511024	-	BARTER	Possession	To exchange goods without involving money.	Verb	11.83
@@ -102,7 +96,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 6480	6478;6479;1378389	BE	Miscellaneous function words	To have existence.	Verb	24.01
 6028	965540	BE ALIVE	The body	To be alive; to have a life.	Verb	4.74
 474983	-	BE BORN	The body	To start living.	Verb	4.72
-8037	677105	BE HUNGRY	Food and drink	A need of food.	Verb	5.14
+6345	-	BE HUNGRY	Food and drink	A need of food.	Verb	5.14
 1539800	-	BE LATE	Time	to be late	Verb	14.24
 1541108	-	BE MANY	Quantity	existence of an indefinite large number of someone or something.	Function word	-
 1103280	-	BE SILENT	Speech and language	To stop speaking or making noise.	Verb	18.23
@@ -137,10 +131,10 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 961409	-	BEND	Basic actions and technology	Movement that causes the formation of a curve.	Verb	9.14
 384870	-	BERRY	Food and drink	A soft fruit which develops from a superior ovary and contains seeds not encased in pits.	Noun	-
 752575	-	BESIDE	Spatial relations	Having the position next to a given place, location or object	Function word	12.02
-1377747	-	BETEL PEPPER VINE	-	???	???	-
-1431444	-	BETELNUT	-	???	???	-
+1377747	-	BETEL PEPPER VINE	Agriculture and vegetation	???	Noun	-
+1431444	-	BETELNUT	Agriculture and vegetation	???	Noun	-
 837839	1415512	BETRAY	Cognition	To cause someone to believe an untruth; to practice trickery or fraud.	Verb	17.441
-334412	-	BETWEEN	-	???	???	-
+334412	-	BETWEEN	Spatial relations	???	Function word	-
 341	-	BICYCLE	Modern world	A vehicle with two wheels in tandem, pedals connected to the rear wheel by a chain, handlebars for steering, and a saddlelike seat.	Noun	23.13
 5437	-	BIG	Spatial relations	Of a great size; the weakest sense of great size.	Adjective	12.55
 468867	-	BILL	Possession	Sum owed in a restaurant, or the relative bill.	Noun	11.66
@@ -155,12 +149,12 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 348520	-	BLANKET	The house	A large cloth used for warmth and for sleeping.	Noun	7.422
 1511134	-	BLESS	Religion and belief	To make something blessed; to confer blessing upon.	Verb	22.23
 6807	-	BLIND	The body	Unable to see.	Adjective	4.97
-1542706	-	BLIND MAN	-	???	???	-
+1542706	-	BLIND MAN	The body	???	Noun	-
 6813	1107600	BLINK	The body	To make a quick wink of one or both eyelids, often repeatedly.	Verb	4.215
 6518	-	BLISTER	The body	A small bubble on the skin, that contains watery fluid and is caused by heat, pressure or infection.	Noun	4.855
 411	-	BLOOD	The body	A fluid connective tissue consisting of the plasma and cells that circulate in the blood vessels.	Noun	4.15
 1375415	-	BLOW	Motion	(Of the wind or a current of air) To move.	Verb	10.38
-1375451	-	BLOW ON FIRE	-	-	???	-
+1375451	-	BLOW ON FIRE	Basic actions and technology	???	Verb	-
 1541173	-	BLOWGUN	Warfare and hunting	a pipe or tube through which darts or other missiles are blown by the breath.	Noun	-
 357132	-	BLUE	Sense perception	Having the pure color of a clear sky; the primary color between green and violet in the visible spectrum, an effect of light with a wavelength between 450 and 500 nm.	Adjective	15.67
 1511061	-	BLUNT	Sense perception	Having a thick edge or point, as an instrument; not sharp.	Adjective	15.79
@@ -184,6 +178,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 7569	-	BORROW	Possession	To receive (something) from somebody temporarily, expecting to return it.	Verb	11.62
 5783	-	BOTTLE	Modern world	A container, typically made of glass and having a tapered neck, used for holding liquids.	Noun	23.56
 334481	366521	BOTTOM	Spatial relations	The part furthest in the direction toward which an unsupported object would fall.	Noun	12.34
+1543020	-	BOUBOU	Clothing and grooming	???	Noun	-
 432931	-	BOUNDARY	Social and political relations	The dividing line or location between two areas.	Noun	19.17
 427040	-	BOW	Warfare and hunting	A weapon made of a curved piece of wood or other flexible material whose ends are connected by a string, used for shooting arrows.	Noun	20.24
 6341	-	BOWL	Food and drink	A roughly hemispherical container used to hold, mix or present food, such as salad, fruit or soup, or other items.	Noun	5.33
@@ -197,6 +192,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1016033	-	BRAVE	Emotions and values	Having or characterized by courage.	Adjective	16.52
 5910	-	BREAD	Food and drink	A common food made mainly from flour, water and yeast and produced by kneading and baking a dough.	Noun	5.51
 333586	480489;480496	BREAK	Basic actions and technology	To end up in two or more pieces, which can't easily be reassembled.	Verb	9.26
+1542733	-	BREAK OF ROPE	Basic actions and technology	???	Verb	-
 5787	-	BREAKFAST	Food and drink	The first meal of the day, usually eaten in the morning.	Noun	5.42
 5992	-	BREAST	The body	The fleshy organ on the chest of a sexually mature human female containing mammary glands.	Noun	4.41
 370376	-	BREATH	The body	The air inhaled and exhaled through the lungs.	Noun	-
@@ -247,14 +243,14 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 447386	-	CARPENTER	Basic actions and technology	Artisan who works with wood.	Noun	9.43
 335263	-	CARRY	Motion	To lift and bring to somewhere else; to transport by lifting.	Verb	10.61
 1527192	-	CARRY IN HAND	Motion	To hold or to take something from one place to another by hands.	Verb	10.612
-1543608	-	CARRY ON BACK	-	???	???	-
+1543608	-	CARRY ON BACK	Motion	???	Verb	-
 1527200	-	CARRY ON HEAD	Motion	To hold or to take something from one place to another on top of the head.	Verb	10.614
 1527196	-	CARRY ON SHOULDER	Motion	To hold or to take something from one place to another on one shoulder.	Verb	10.613
 1527204	-	CARRY UNDER ARM	Motion	To hold or to take something from one place to another under the arm.	Verb	10.615
 1240424	-	CART	Motion	a two-wheeled vehicle, commonly without springs, drawn by mules, oxen, or the like, used for the conveyance of heavy goods.	Noun	10.75
 1462598	-	CARVE	Basic actions and technology	To cut or to chip in order to form something.	Verb	9.81
 395385	-	CASSAVA	Agriculture and vegetation	A starchy pulp made with the roots of the cassava plant.	Noun	8.92
-1543612	-	CASSOWARY	-	???	???	-
+1543612	-	CASSOWARY	Animals	???	Noun	-
 1421991	-	CAST	Basic actions and technology	To pour [a hardenable liquid material, like metal, plaster, glass, concrete etc.] into a mold in order to produce a solid object of the shape of the mold.	Verb	9.63
 5446	-	CAT	Animals	A common four-legged animal (Felis silvestris) that is often kept as a household pet.	Noun	3.62
 335306	1506955	CATCH	Motion	To take hold of, especially in the hands, so as to seize or restrain or stop the motion of.	Verb	10.252
@@ -277,7 +273,6 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1510493	-	CHEW	Food and drink	To crush with the teeth by repeated closing and opening of the jaws; done to food to soften it and break it down by the action of saliva before it is swallowed.	Verb	5.18
 1541232	-	CHICHA	Food and drink	a beverage made from fermented corn in South and Central America.	Noun	-
 5778	-	CHICKEN	Animals	A type of domesticated bird from the order of Galliformes which is often raised as a type of poultry (Gallus gallus domesticus).	Noun	3.55
-1411206	-	CHICKEN TAME	-	???	???	-
 1508307	-	CHIEFTAIN	Social and political relations	The leader/ruler of a tribe/clan	Noun	19.24
 1541208	-	CHIGGOE, JIGGER FLEA	Animals	a flea, Tunga penetrans,  of tropical America and Africa, the impregnated female of which embeds itself in the skin, especially of the feet, of humans and animals and becomes greatly distended with eggs.	Noun	-
 7413	-	CHILD DESCENDANT	Kinship	Biological offspring.	Noun	2.43
@@ -315,7 +310,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1292296	-	COCA	Agriculture and vegetation	A plant in the family Erythroxylaceae, native to western South America.	Noun	-
 646	-	COCKROACH	Animals	The most primitive of the living winged insects.	Noun	3.816
 419639	-	COCONUT	Agriculture and vegetation	The large hard-shelled oval nut with a fibrous husk of the cocos palm.	Noun	8.82
-1311390	-	COCONUT TREE	-	???	???	-
+1311390	-	COCONUT TREE	Agriculture and vegetation	???	Noun	-
 5670	1400215	COFFEE	Modern world	A beverage made by infusing the beans of the coffee plant in hot water.	Noun	23.91
 8052	-	COIN	Possession	A piece of currency, usually metallic and in the shape of a disc, but sometimes polygonal, or with a hole in the middle.	Noun	11.44
 1178541	-	COLD DISEASE	The body	A contagious, viral infectious disease of the upper respiratory system; common symptoms include cough, sore throat, runny nose, nasal congestion and sneezing.	Noun	4.843
@@ -328,7 +323,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 6056	5965	COME	Motion	To move toward or to reach either the speaker, the person spoken to, or the subject of the speaker's narrative.	Verb	10.48
 159011	-	COME BACK	Motion	To go there where one was before.	Verb	10.481
 957698	-	COMMAND	Social and political relations	That which is enjoined or ordered to one or several persons by a superior authority.	Verb	19.45
-155053	-	COMPOUND	-	???	???	-
+155053	-	COMPOUND	Social and political relations	???	Noun	-
 474203	-	CONCEIVE	The body	To become pregnant.	Verb	4.732
 155122	-	CONDEMN	Law	To declare, after a judgement, that somebody is guilty of commiting a crime.	Verb	21.32
 1506163	-	CONE	Agriculture and vegetation	The fruit of a pine or fir tree.	Noun	8.996
@@ -355,7 +350,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 432006	342006	COW	Animals	Female bovine animal (Bos taurus) of the subfamily Bovinae of the family Bovidae.	Noun	3.23
 388687	-	COYOTE	Animals	(Canis latrans) A member of the Canidae family native to North America.	Noun	3.862
 1168231	-	CRAWL	Motion	to move in a prone position with the body resting on or close to the ground.	Verb	10.41
-1543617	-	CRAYFISH	-	???	???	-
+1543617	-	CRAYFISH	Animals	???	Noun	-
 4568	-	CRIME	Modern world	Any act done in violation of those duties which an individual owes to the community, and for the breach of which the law has provided that the offender shall make satisfaction to the public. (Source: BLACK)	Noun	23.37
 791	-	CROCODILE	Animals	Any large tropical reptile of the family Crocodylidae: order Crocodylia. They have a broad head, tapering snout, massive jaws, and a thick outer covering of bony plates. (Source: CED)	Noun	3.97
 1507521	-	CROOKED	Spatial relations	Opposite of straight	Adjective	12.74
@@ -371,7 +366,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1510442	-	CURASSOW	Animals	A bird, the crested curassow or royal pheasant.	Noun	-
 156675	-	CURE	The body	To remedy an illness using medical or medicamentous treatment; to provide a cure for.	Verb	4.86
 1023517	-	CURSE	Religion and belief	An appeal or prayer for evil or misfortune to befall someone or something.	Verb	22.24
-1542267	-	CUSHMA	Clothing and grooming	a one-piece dress used by the Ashaninka Indians.	Noun
+1542267	-	CUSHMA	Clothing and grooming	a one-piece dress used by the Ashaninka Indians.	Noun	
 707480	-	CUSTOM	Social and political relations	A pattern of behavior inherited or acquired through frequent repetition.	Noun	19.61
 6043	6106;1351742;699910	CUT	Basic actions and technology	To perform an incision (for example, with a knife).	Verb	9.22
 1510941	-	CUT DOWN	Basic actions and technology	To bring down by cutting.	Verb	9.221
@@ -391,8 +386,8 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 5477	-	DAY OF LIGHT	Time	The period between sunrise and sunset where one enjoys daylight.	Noun	14.41
 6660	1042272	DEAD	The body	Not alive; lacking life.	Adjective	4.7501
 428203	-	DEAF	The body	Not having the faculty of hearing, or only having a restricted capability to hear.	Adjective	4.95
-1542714	-	DEAF MAN	-	???	???	-
-387598	-	DEATH	-	???	???	-
+1542714	-	DEAF MAN	The body	???	Noun	-
+387598	-	DEATH	The body	???	Noun	-
 843	-	DEBT	Possession	Something owed to someone else.	Noun	11.64
 1030671	-	DECEIT	Emotions and values	The act or practice of deceiving.	Noun	16.68
 6535	-	DEEP	Spatial relations	Having a bottom or base that is far away from the top.	Adjective	12.67
@@ -410,7 +405,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 6024	-	DIG	Agriculture and vegetation	To move earth, rocks, etc. out of the way, usually to create a hole.	Verb	8.22
 1510840	-	DIGGING STICK	Agriculture and vegetation	A rod shaped implement used by the aboriginal people of Australia to dig yam and as a combat weapon.	Noun	8.28
 7654	-	DINNER, SUPPER	Food and drink	A meal that is eaten in the late afternoon or evening daily.	Noun	5.44;5.45
-1057993	-	DIRT	-	???	???	-
+1057993	-	DIRT	Sense perception	???	Noun	-
 5483	-	DIRTY	Sense perception	Covered with or containing unpleasant substances such as dirt or grime.	Adjective	15.88
 155161	-	DISAPPEAR	Motion	To cease to appear, to not be visible anymore.	Verb	10.491
 941	-	DISEASE	The body	A definite pathological process having a characteristic set of signs and symptoms which are detrimental to the well-being of the individual.	Noun	4.844
@@ -437,19 +432,19 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1505759	-	DRIBBLE	The body	To let saliva flow out of one’s mouth onto one’s chin.	Verb	4.591
 5991	-	DRINK ACTION	Food and drink	To consume a liquid through the mouth.	Verb	5.13
 339	-	DRINK OBJECT	Food and drink	Any one of various liquids for drinking.	Noun	5.9
+348656	1510993	DRIP	Motion	to fall in globules or small portions, as water or other liquid.	Verb	-
 340699	-	DRIVE	Motion	To operate a (motorized) vehicle (with wheels).	Verb	10.65
 161564	-	DRIVER'S LICENSE	Modern world	Official document granting someone the authorisation to drive some vehicles.	Noun	23.34
 341382	-	DROP	Motion	The event of moving to a lower position due to the effect of gravity.	Verb	10.16
 838127	-	DROWN	The body	To be suffocated in water or other fluid; to perish by suffocation in water.	Verb	4.751
 386380	-	DRUM	Speech and language	A percussion instrument consisting of at least one membrane that is stretched over a shell and struck directly with the player's hands or with a drumstick.	Noun	18.72
-1200507	-	DRUMMING	-	???	???	-
+1200507	-	DRUMMING	Motion	???	Verb	-
 6098	-	DRUNK	The body	Being in a temporary state in which one's physical and mental faculties are impaired due to excessive consumption of alcohol.	Adjective	4.98
 5989	-	DRY	Sense perception	(Almost) free from liquid or moisture.	Adjective	15.84
-1542663	-	DRY SEASON	-	???	???	-
-7277	-	DRY UP	-	???	???	-
+1542663	-	DRY SEASON	Time	???	Noun	-
+7277	-	DRY UP	Basic actions and technology	???	Verb	-
 5886	-	DUCK	Animals	An aquatic bird of the family Anatidae, having a flat bill and webbed feet.	Noun	3.57
-808314	-	DUIKER	-	???	???	-
-348656	1510993	DRIP	Motion	to fall in globules or small portions, as water or other liquid.	Verb	-
+808314	-	DUIKER	Animals	???	Noun	-
 1009	-	DUST	The physical world	Any kind of solid material divided in particles of very small size.	Noun	1.213
 1335255	-	DYE	Clothing and grooming	To modify the color of something by applying dye.	Verb	6.39
 838154	-	EAGLE	Animals	Any of several large carnivorous birds in the family Accipitridae, having a powerful hooked bill and keen vision.	Noun	3.584
@@ -466,8 +461,8 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 366432	-	EDGE	Spatial relations	The boundary of a surface.	Noun	12.353
 340828	-	EGG	Food and drink	Egg (either fertilized or not) from domesticated birds, most commonly hens, seen as food.	Noun	5.97
 7005	-	EIGHT	Quantity	The cardinal number occurring after seven and before nine, represented in Roman numerals as VIII, in Arabic numerals as 8.	Function word	13.08
-7014	-	EIGHTEEN	-	???	???	-
-7022	-	EIGHTY	-	???	???	-
+7014	-	EIGHTEEN	Quantity	???	Function word	-
+7022	-	EIGHTY	Quantity	???	Function word	-
 422180	-	ELBOW	The body	The joint between arm and forearm.	Noun	4.32
 1488304	-	ELECTION	Modern world	A process by which members of a population vote to choose a person to hold public office.	Noun	23.38
 1109	-	ELECTRICITY	Modern world	A general term used for all phenomena caused by electric charge whether static or in motion.	Noun	23.17
@@ -496,7 +491,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 637874	-	EYELASH	The body	One of the hairs that grows on the eyelid, around the eyes.	Noun	4.214
 1046808	-	EYELID	The body	A skin flap that can be closed over an eye.	Noun	4.213
 6410	-	FACE	The body	The front part of the head, featuring the eyes, nose, and mouth and the surrounding area.	Noun	4.204
-332125	-	FAECES	-	???	???	-
+332125	-	FAECES	The body	???	Noun	-
 502976	-	FAIRY	Religion and belief	one of a class of female supernatural beings, generally conceived as having a diminutive human form and possessing magical powers.	Noun	22.44
 1176245	-	FAITHFUL	Emotions and values	Steadfast in affection.	Adjective	16.65
 5622	-	FALL	Motion	To descend in free fall due to the effect of gravity.	Verb	10.23
@@ -505,25 +500,25 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1510960	-	FAN ACTION	Basic actions and technology	To blow air on (something) by means of a fan (hand-held, mechanical or electrical) or otherwise.	Verb	9.791
 912239	898076	FAN OBJECT	Basic actions and technology	A device that provides air circulation in a closed environment by rotating an helix, in order to cool down someone or something.	Noun	9.79
 5997	-	FAR	Spatial relations	Having a large intervening distance with regard to something.	Adverb	12.44
-1410	-	FARM	-	???	???	-
+1410	-	FARM	Agriculture and vegetation	???	Noun	-
 421671	-	FARMER	Agriculture and vegetation	A person who works the land or who keeps livestock, especially on a farm.	Noun	8.11
 515390	-	FART	The body	To emit digestive gases through the anus.	Verb	4.64
 6672	1110122	FAST	Time	Occurring or happening within a short time.	Adverb	14.21
 475820	-	FASTEN	Basic actions and technology	Tighten and close, for example a belt.	Verb	-
 5624	-	FAT	Food and drink	The ester of glycerol and one, two, or three fatty acids.	Noun	5.791
 5464	-	FATHER	Kinship	A male parent.	Noun	2.35
+454081	-	FATHER-IN-LAW	Kinship	The father of someone's spouse.	Noun	2.61;2.611
 936030	-	FATHER'S BROTHER	Kinship	The brother of someone’s father.	Noun	2.512
 1372531	-	FATHER'S SISTER	Kinship	The sister of one's father.	Noun	2.522
-454081	-	FATHER-IN-LAW	Kinship	The father of someone's spouse.	Noun	2.61;2.611
 1153477	-	FATHOM	Spatial relations	A linear unit of measurement, equal to 6 feet, for water depth.	Noun	12.541
-503432	-	FATIGUE	-	???	???	-
+503432	-	FATIGUE	The body	???	Noun	-
 622752	-	FAUCET	Modern world	A device applied to the end of a pipe in order to interrupt and regulate the flow of a liquid or gas.	Noun	23.5
 1280872	868115	FAULT	Emotions and values	Wrong act done deliberately or good act omitted deliberately.	Noun	16.76
 6025	-	FEAR, BE AFRAID	Emotions and values	To be scared of; to have an uncontrollable emotion of anxiety about something that causes a scared reaction or frightening impression.	Verb	-
 345325	-	FEAR, FRIGHT	Emotions and values	An emotion experienced in anticipation of some specific pain or danger.	Noun	16.53
 5436	-	FEATHER	The body	A branching, hair-like structure that grows on the skin of birds and protects them against coldness and water and allows their wings to create lift.	Noun	4.393
 467089	343166;343171	FEEL	Sense perception	To be in some emotional state.	Verb	15.72
-1543589	-	FELL A TREE	-	???	???	-
+1543589	-	FELL A TREE	Agriculture and vegetation	???	Verb	-
 1510534	-	FELT	Clothing and grooming	A cloth or stuff made of matted fibres of wool, or wool and fur, fulled or wrought into a compact substance by rolling and pressure, with lees or size, without spinning or weaving.	Noun	6.27
 6393	6392	FEMALE	Animals	Of, relating to, or denoting the sex which is generally characterized as the one associated with the larger gametes (for species which have two sexes and for which this distinction can be made).	Adjective	2.24;3.13
 698534	-	FENCE	Agriculture and vegetation	Delimitation for an area.	Noun	8.16
@@ -535,9 +530,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 7019	-	FIFTY	Quantity	The cardinal number occurring after forty-nine and before fifty-one, represented in Roman numerals as L and in Arabic numerals as 50.	Function word	-
 1510497	-	FIG	Food and drink	The fruit of the fig tree, pear-shaped and containing many small seeds.	Noun	5.75
 6030	-	FIGHT	Warfare and hunting	To be involved in a physical confrontation.	Verb	20.11
-381333	-	FIGHT HIT	-	???	???	-
-962533	-	FILL	-	???	???	-
-1483486	-	FILL UP	-	???	???	-
+962533	-	FILL	Quantity	???	Verb	-
 1425624	-	FIN	Animals	An appendage of a fish used for swimming.	Noun	3.652
 336790	-	FIND	Possession	To encounter something by accident or after searching for it.	Verb	11.32
 1444	541549	FINE	Law	A pecuniary punishment or penalty imposed by lawful tribunal upon person convicted of crime or misdemeanor.	Noun	21.38
@@ -552,11 +545,11 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 338524	-	FIRST	Quantity	Having no predecessor. The ordinal number corresponding to one.	Function word	13.34
 1460	-	FISH	Animals	A cold-blooded vertebrate animal that lives in water that moves with the help of fins and breathes using gills (Pisces).	Noun	3.65
 1510877	-	FISH POISON	Agriculture and vegetation	in Amazonia, a kind of root is apparently used as fish poison	Noun	8.96
-358355	-	FISH SPEAR	-	???	???	-
 1511114	-	FISH TRAP	Warfare and hunting	A contraption made of wires, rods, fishing-net or other suitable materials with the purpose of catching fish alive.	Noun	20.55
 7928	-	FISHERMAN	Warfare and hunting	A person whose profession is catching fish.	Noun	20.51
 461552	-	FISHHOOK	Warfare and hunting	A metal hook for catching fish.	Noun	20.52
 1048155	-	FISHING LINE	Warfare and hunting	A line intended to fasten hooks in when fishing.	Noun	20.53
+358355	-	FISHING SPEAR	Warfare and hunting	???	Noun	-
 1511110	-	FISHNET	Warfare and hunting	A net used to catch fish.	Noun	20.54
 156104	5448	FIVE	Quantity	The fifth natural number (5).	Function word	13.05
 376152	-	FLAME	The physical world	A bright yellow, red or bluish light which emerges during combustion processes.	Noun	1.82
@@ -572,7 +565,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 344824	-	FLUTE	Speech and language	A musical instrument of the woodwind family.	Noun	18.71
 6261	-	FLY, INSECT	Animals	A common insect; any species of insect of the order Diptera.	Noun	3.83
 6052	-	FLY, MOVE THROUGH AIR	Motion	To move autonomously through the air, without any part of the object or object's enclosure touching anything attached to the ground.	Verb	10.37
-1478231	-	FLYING FOX	-	???	???	-
+1478231	-	FLYING FOX	Animals	???	Noun	-
 6776	-	FOAL	Animals	A juvenile horse, especially one which is not yet weaned.	Noun	3.45
 7153	-	FOAM	The physical world	A mass of adjacent small pockets of air or bubbles with solid or liquid boundaries.	Noun	1.324
 1502	-	FOG	The physical world	Water droplets or, rarely, ice crystals suspended in the air in sufficient concentration to reduce visibility appreciably.	Noun	1.74
@@ -591,7 +584,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 5673	-	FORK	Food and drink	A utensil with spikes used to put solid food into the mouth.	Noun	5.39
 1526645	-	FORKED BRANCH	Agriculture and vegetation	At this point a branch is forked into two or more branches.	Noun	8.74
 859332	-	FORTRESS	Warfare and hunting	A fortified place; a large and permanent fortification, sometimes including a town.	Noun	20.35
-7018	-	FORTY	-	???	???	-
+7018	-	FORTY	Quantity	???	Function word	-
 6253	5447	FOUR	Quantity	The cardinal number occurring after three and before five, represented in Roman numerals as IV, in Arabic numerals as 4.	Function word	13.04
 1505737	-	FOWL	Animals	A bird that is kept for its meat and eggs.	Noun	3.5
 5726	-	FOX	Animals	A carnivorous relatively small canine of the species Vulpes Vulpes.	Noun	3.74
@@ -609,19 +602,19 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 6040	-	FULL	Quantity	Containing the most or maximum amount possible in the given available space.	Adjective	13.21
 1590	-	FUR	Clothing and grooming	The hair-covered, dressed pelt of a mammal, used in the making of garments and as trimming or decoration.	Noun	6.28
 7346	-	FURROW	Agriculture and vegetation	The cut made in a field by a plough.	Noun	8.212
-1543622	-	G-STRING	-	???	???	-
+1543622	-	G-STRING	Clothing and grooming	???	Noun	-
 1601	-	GARDEN	Agriculture and vegetation	A piece of land next to a house where flowers and other plants are grown and which often has an area of grass.	Noun	8.13
 1525934	-	GARDEN-HOUSE	The house	A small building in a garden, such as a shed, which is not usually build to be inhabitated for long times.	Noun	7.131
 6430	-	GATE	The house	An opening, or passage in a fence or wall; the entrance through which you enter or leave a room or building.	Noun	7.22
 1022541	-	GATHER	Spatial relations	To heap up; to collect or gather (e.g. work, magazines, etc.).	Verb	12.21
-1018466	-	GAZELLE	-	???	???	-
+1018466	-	GAZELLE	Animals	???	Noun	-
 334733	-	GET	Possession	To get or obtain an item; to come into the possession of something.	Verb	11.16
 525317	-	GHOST	Religion and belief	The visible disembodied soul of a dead person.	Noun	22.45
 844061	-	GILL	Animals	The breathing organ of fish and other aquatic animals.	Noun	3.654
 6752	-	GIRL	Kinship	A young female person, usually a child or teenager.	Noun	2.26
 6059	-	GIVE	Possession	To transfer the possession or holding (of an object) to another person.	Verb	11.21
 1160012	522528	GIVE BACK	Possession	To transfer a good to the person or people it came from, or to their legal successors.	Verb	11.22
-541498	-	GIVE BIRTH	-	???	???	-
+541498	-	GIVE BIRTH	Kinship	???	Verb	-
 1656	-	GLASS	Basic actions and technology	A hard, amorphous, inorganic, usually transparent, brittle substance made by fusing silicates, sometimes borates and phosphates, with certain basic oxides and then rapidly cooling to prevent crystallization.	Noun	9.74
 OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 369021	-	GLOVE	Clothing and grooming	A garment for a hand, often extending to the wrist and sometimes up to the elbow, which either covers each finger individually, or separates the thumb from the other fingers.	Noun	6.58
@@ -659,15 +652,15 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 6858	-	GRIEF	Emotions and values	Mental suffering or pain caused by injury, loss, or despair.	Noun	16.32
 441895	-	GRIND	Food and drink	To break something into small pieces by pressing it flat, or grinding it to powder.	Verb	5.56
 336417	-	GROAN	Emotions and values	a low, guttural sound of frustration	Verb	16.39
-161168	-	GROUNDNUTS	-	???	???	-
+161168	-	GROUNDNUTS	Agriculture and vegetation	???	Noun	-
 154737	-	GROW	Spatial relations	(For a living being) To become bigger.	Verb	12.53
-518406	-	GRUEL	-	???	???	-
+518406	-	GRUEL	Food and drink	???	Noun	-
 1541204	-	GUAN	Animals	a large game bird of the curassow family, common in dense woodlands of Central and South America.	Noun	-
 866813	-	GUARD	Warfare and hunting	A person who protects or watches over something.	Noun	20.471
 8518	-	GUESS	Cognition	To succeed to know, or discover, by way of surmises.	Verb	17.171
 7254	-	GUEST	Social and political relations	A person that visits and stays at a house, usually for one or more nights.	Noun	19.56
 692374	-	GUILTY	Law	having committed an offense, crime, violation, or wrong, especially against moral or penal law.	Adjective	21.35
-1542693	-	GUINEA FOWL	-	???	???	-
+1542693	-	GUINEA FOWL	Animals	???	Noun	-
 1295456	-	GUMS	The body	The mucosal tissue that partly lies over the teeth in the mouth.	Noun	4.271
 6428	-	GUN	Warfare and hunting	A bullet firing weapon.	Noun	20.28
 5824	-	GUTS	The body	The internal organs of an animal.	Noun	4.461
@@ -682,7 +675,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 6246	8326	HAPPY	Emotions and values	Having a feeling of satisfaction, enjoyment or well-being, often arising from a positive situation or set of circumstances.	Adjective	16.23
 8173	-	HARD	Sense perception	Resistant to pressure.	Adjective	15.74
 535092	-	HARE	Animals	Mammal of the family hares and rabbits (Leporidae) with long ears, short tail and hindlegs which are shorter than the forelegs and permit running quickly.	Noun	3.863
-1542657	-	HARMATTAN	-	???	???	-
+1542657	-	HARMATTAN	Time	???	Noun	-
 1722	1262193	HARVEST	Agriculture and vegetation	The amount or measure of the crop gathered in a season.	Noun	8.41
 344283	-	HAT	Clothing and grooming	An item of clothing intended to cover the head made from material hard enough to have a shape independant of the skull, and most commonly with a rim.	Noun	6.55
 6573	-	HATE	Emotions and values	To dislike intensely; to feel strong hostility towards.	Verb	16.41
@@ -742,12 +735,11 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1541184	-	HOWLER MONKEY	Animals	large, prehensile-tailed tropical American monkey of the genus Alouatta,  the males of which make a howling noise	Noun	-
 652702	-	HUMMINGBIRD	Animals	A small bird in the family Trochilidae.	Noun	-
 6685	-	HUNDRED	Quantity	The cardinal number occurring after ninety-nine and before one hundred one, represented in Roman numerals as C and in Arabic numerals as 100.	Function word	13.105
-6345	-	HUNGRY	-	???	???	-
 6046	-	HUNT	Warfare and hunting	To chase down prey and (usually) kill it.	Verb	20.61
 341511	341518	HURRY	Time	To move or do something at a fast pace.	Verb	14.23
 5432	-	HUSBAND	Kinship	The male partner in a marriage.	Noun	2.31
 691328	952129	HUT	The house	a simple roofed shelter, often with one  open side.	Noun	7.13
-736876	-	HYENA	-	???	???	-
+736876	-	HYENA	Animals	???	Noun	-
 5450	-	I	Kinship	The speaker or writer referring to himself or herself alone.	Function word	2.91
 1837	-	ICE	The physical world	The dense substance formed by the freezing of water to the solid state; it commonly occurs in the form of hexagonal crystals.	Noun	1.77
 6580	-	IDEA	Cognition	A plan or notion that is formed and exists in the mind as a result of mental activity.	Noun	17.19
@@ -758,7 +750,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 904194	-	IMMEDIATELY	Time	In an immediate manner; instantly or without delay.	Function word	14.19
 6077	-	IN	Spatial relations	Contained or encased by.	Function word	12.012
 8160	-	IN FRONT OF	Spatial relations	In front of in space	Function word	12.041
-447326	-	INCREASE	-	???	???	-
+447326	-	INCREASE	Basic actions and technology	???	Verb	-
 872499	-	INITIATION CEREMONY	Religion and belief	A formal entry into an organization or position or office.	Noun	22.51
 743982	-	INJECTION	Modern world	A method of putting liquid into the body with a hollow needle and a syringe which is pierced through the skin long enough for the material to be forced into the body.	Noun	23.23
 1092621	-	INJURE	Possession	To cause physical harm to a living creature.	Verb	11.28
@@ -794,7 +786,6 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 6023	-	KILL	The body	To put to death; to end a life.	Verb	4.76
 6303	-	KING	Social and political relations	A male member of a Royal Family and supreme ruler of his nation.	Noun	19.32
 158442	-	KISS	Emotions and values	To touch with the lips to express love or affection.	Verb	16.29
-389831	-	KITE	-	???	???	-
 1505815	-	KNEAD	Food and drink	To press a dough many times with one's hands.	Verb	5.54
 5918	-	KNEE	The body	In man, the joint in the middle part of the leg.	Noun	4.36
 1120420	-	KNEEL	Motion	To go down on one or both knees.	Verb	10.412
@@ -829,13 +820,12 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1499731	-	LEFT	Spatial relations	Something that is on the left side relative to another object.	Adjective	12.42
 5665	-	LEG	The body	The limb of an animal (including humans) that extends from the groin to the ankle.	Noun	4.35
 159035	-	LEND	Possession	To put an item or resource at the disposal of another, with the requirement to have the same or its equivalent returned eventually.	Verb	11.61
-503381	-	LEOPARD	-	???	???	-
+503381	-	LEOPARD	Animals	???	Noun	-
 476248	-	LET GO, SET FREE	Possession	To give freedom; to release from confinement or restraint.	Verb	11.34
 6590	-	LETTER	Modern world	A text that is written to and for a specific person or set of people (and is most commonly sent to them by post).	Noun	23.42
 1077778	-	LIBERATE	Social and political relations	To set free from the power of another.	Verb	19.445
 730404	-	LICENSE PLATE	Modern world	Metal sheet for alphanumerical identification of vehicles, on their front and/or rear parts.	Noun	23.35
 1510483	-	LICK	The body	To stroke with the tongue.	Verb	4.59
-154568	-	LIE	-	???	???	-
 1425860	-	LIE DOWN	Spatial relations	(For a human or animal) to assume a horizontally extended position on a surface.	Verb	12.14
 161769	-	LIE, MISLEAD	Emotions and values	To knowingly say something that is untrue.	Verb	16.67
 6005	-	LIE, REST	Spatial relations	To rest in a horizontal, static position, usually on another surface.	Verb	12.14
@@ -846,7 +836,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 452743	-	LIGHT WEIGHT	Sense perception	With a small mass, little weight or density; the opposite of heavy.	Adjective	15.82
 1299599	-	LIGHT, BURN	The physical world	To cause to undergo fire combustion.	Verb	1.86
 6811	-	LIGHTNING	The physical world	The flash of light caused by the discharge of atmospheric electrical charge.	Noun	1.55
-422609	-	LIME	-	???	???	-
+422609	-	LIME	Agriculture and vegetation	???	Noun	-
 1511001	-	LIMP	Motion	To walk lamely, as if favouring one leg.	Verb	10.451
 451773	873185	LINE	Spatial relations	An infinitely long, infinitely thin, not bent line in geometry.	Noun	12.84
 389134	-	LINEN	Clothing and grooming	A material made from the fibers of the flax plant.	Noun	6.23
@@ -857,10 +847,10 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 5476	-	LIVER	The body	A large organ in the body that stores and metabolizes nutrients, destroys toxins and produces bile. Responsible for thousands of biochemical reactions.	Noun	4.45
 2183	-	LIVESTOCK	Animals	Cattle, horses, and similar animals kept for domestic use especially on a farm.	Noun	3.15
 2189	-	LIZARD	Animals	Any reptile of the suborder Lacertilia, especially those of the family Lacertidae, typically having an elongated body, four limbs, and a small tail: includes the gechos, iguanas, chameleons, monitors, and slow worms.	Noun	3.96
-691664	-	LOAD	-	???	???	-
+691664	-	LOAD	Basic actions and technology	???	Noun	-
 6546	-	LOCK	The house	Something used for fastening, which can only be opened with a key or combination.	Noun	7.23
-349672	-	LOCUST	-	???	???	-
-907107	-	LOINCLOTH	-	???	???	-
+349672	-	LOCUST	Animals	???	Noun	-
+907107	-	LOINCLOTH	Clothing and grooming	???	Noun	-
 5438	-	LONG	Spatial relations	Having much distance from one terminating point on an object or an area to another terminating point.	Adjective	12.57
 1541248	-	LONG HAIR	The body	Hair that is not cut.	Noun	-
 7550	-	LOOK	Sense perception	To actively use one's eyes.	Verb	15.52
@@ -880,14 +870,13 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1309356	-	MACHINE	Modern world	A device able to perform a particular, more or less complex, job.	Noun	23.19
 833779	1067624	MAD	Cognition	Mentally ill.	Adjective	17.23
 1511137	-	MAGIC	Religion and belief	The use of rituals or actions, especially based on supernatural or occult knowledge, to manipulate or obtain information about the natural world, especially when seen as falling outside the realm of religion; also the forces allegedly drawn on for such practices. A specific ritual or procedure associated with supernatural magic or with mysticism; a spell.	Noun	22.42
-1542685	-	MAHOGANY TREE	-	???	???	-
+1542685	-	MAHOGANY TREE	Agriculture and vegetation	???	Noun	-
 1366616	-	MAIL	Modern world	A batch of letters and parcels received via post.	Noun	23.4
 1364993	1373397	MAINLAND	The physical world	A large and continuous mass of land representing most of a region or a country but excluding outlying islands.	Noun	1.26
 157264	-	MAIZE	Agriculture and vegetation	A type of grain of the species Zea mays.	Noun	8.47
 339200	-	MAKE	Basic actions and technology	To create something by combining or assembling materials or parts or by changing it.	Verb	9.111
 6396	6395	MALE	Kinship	Of, relating to, or denoting a member of the sex that begets young by fertilizing ova.	Adjective	2.23;3.12
 6397	-	MAN	Kinship	An adult human member of the sex that begets young by fertilizing ova.	Noun	2.21
-1543020	-	MAN'S ROBE	-	???	???	-
 395809	-	MANIOC	Agriculture and vegetation	Shrub (Manihot esculenta) whose roots are rich in starch	Noun	8.92
 1526633	-	MANIOC BREAD	Food and drink	Bread made of the roots of the cassava plant.	Noun	5.983
 1510514	-	MANIOC FLOUR	Agriculture and vegetation	Flour made of the cassava plant or root.	Noun	-
@@ -904,7 +893,6 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1393299	-	MAST	Motion	Post of wood or steel, long, round and straight, standing on a ship, intended to carry the sails, flags, floodlights, or communications equipment.	Noun	10.87
 1511091	-	MASTER	Social and political relations	Someone who has control over something or someone; the owner of an animal or slave or someone who employs others.	Noun	19.41
 1405241	-	MAT	Basic actions and technology	A flat object laid on the floor to protect a person from the hard floor.	Noun	9.77
-1542701	-	MAT (ZANA)	-	???	???	-
 499237	-	MATCH	The physical world	A stick with inflammable substance on one end that can be set on fire by friction.	Noun	1.87
 1188104	-	MATTRESS	Modern world	A pad on which a person can recline and sleep.	Noun	23.53
 403676	-	MEAD	Food and drink	Wine made of honey.	Noun	5.91
@@ -914,7 +902,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 5919	-	MEDICINE	The body	A substance which specifically promotes healing.	Noun	4.88
 7643	343877	MEET	Social and political relations	To collect in one place, usually for a purpose.	Verb	19.65
 1510584	-	MEETING HOUSE	The house	A building where people meet for a purpose.	Noun	7.18
-157304	-	MELON	-	???	???	-
+157304	-	MELON	Agriculture and vegetation	???	Noun	-
 1526639	-	MEN'S HOUSE	The house	A separate building for male persons.	Noun	7.16
 470229	-	MERCHANT	Possession	A businessperson engaged in trade.	Noun	11.84
 1026415	-	MIDDAY	Time	Time of day when the sun is in its zenith.	Noun	14.45
@@ -927,7 +915,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 520838	7472	MIRROR	Clothing and grooming	A smooth surface, usually made of glass with reflective material painted on the underside, that reflects light so as to give an image of what is in front of it.	Noun	6.96
 1337987	-	MISS	Warfare and hunting	To fail to hit (a target, a bell, etc.).	Verb	20.63
 5651	-	MISTAKE	Emotions and values	A mistake, an oversight, a slight; usually apologetic, referring to one's own failures.	Noun	16.77
-1061652	-	MOISTEN	-	???	???	-
+1061652	-	MOISTEN	Basic actions and technology	???	Verb	-
 451991	-	MOLAR TOOTH	The body	A tooth located in the back of the mouth used for crushing and grinding food.	Noun	4.272
 1507122	-	MOLD	Basic actions and technology	To create something, usually for a specific function.	Verb	9.72
 6992	-	MONDAY	Time	The first day of the week in Europe and in systems using the ISO 8601 norm; the second day of the week in the United States of America.	Noun	14.63
@@ -942,9 +930,9 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 6563	-	MOSQUE	Religion and belief	A place of worship for followers of the Islamic faith.	Noun	22.132
 630453	-	MOSQUITO	Animals	A small flying insect (of the family Culicidae) known for biting and sucking blood.	Noun	3.832
 5463	-	MOTHER	Kinship	A woman who has at least one child.	Noun	2.36
+452350	-	MOTHER-IN-LAW	Kinship	The mother of someone's spouse.	Noun	2.62;2.621
 936024	-	MOTHER'S BROTHER	Kinship	The brother of someone’s mother.	Noun	2.511
 1372595	-	MOTHER'S SISTER	Kinship	The sister of one's mother.	Noun	2.521
-452350	-	MOTHER-IN-LAW	Kinship	The mother of someone's spouse.	Noun	2.62;2.621
 1200	-	MOTOR	Modern world	A machine in which power is applied to do work by the conversion of various forms of energy into mechanical force and motion.	Noun	23.185
 2414	-	MOTORCYCLE	Modern world	Single-track, two-wheeled motor vehicle.	Noun	23.135
 2421	-	MOUNTAIN	The physical world	A feature of the earth's surface that rises high above the base and has generally steep slopes and a relatively small summit area.	Noun	1.22
@@ -957,7 +945,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 377499	-	MULE	Animals	The offspring of a male donkey and a female horse.	Noun	3.47
 1258410	-	MUMBLE	Speech and language	To speak unintelligibly and without articulating.	Verb	18.16
 359371	-	MURDER	Law	The intentional or premeditated killing of another person.	Noun	21.42
-1521277	-	MUSH	-	???	???	-
+1521277	-	MUSH	The physical world	???	Noun	-
 2444	-	MUSHROOM	Agriculture and vegetation	An organism belonging to a family of Basidiomycetes that are characterized by the production of spores on gills.	Noun	8.98
 2445	-	MUSIC	Modern world	The artistic organisation of sounds or tones that expresses ideas and emotions through the elements of rhythm, melody, harmony and tonal colour.	Noun	23.63
 6856	-	MUTE	The body	Not making a sound.	Adjective	4.96
@@ -968,7 +956,6 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 5566	-	NARROW	Spatial relations	Having a small width.	Adjective	12.62
 1417428	-	NASAL MUCUS, SNOT	The body	Mucus from the nose.	Noun	4.232
 1162698	-	NATIVE COUNTRY	Social and political relations	One’s country of birth.	Noun	19.12
-1347717	-	NATIVE DOCTOR	-	???	???	-
 7690	-	NAVEL	The body	A scar where the umbilical cord was attached.	Noun	4.43
 869106	-	NEAR	Spatial relations	Not far distant in time or space or degree or circumstances.	Adverb	12.43
 1538973	-	NECESSITY	Cognition	Something that needs to be done.	Noun	17.45
@@ -989,8 +976,8 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 6735	-	NIECE	Kinship	A daughter of someone’s brother or sister.	Noun	2.54
 5486	-	NIGHT	Time	The period between sunset and sunrise, when a location faces far away from the sun, thus when the sky is dark.	Noun	14.42
 6193	6208	NINE	Quantity	The ninth natural number (9).	Function word	13.09
-7015	-	NINETEEN	-	???	???	-
-7023	-	NINETY	-	???	???	-
+7015	-	NINETEEN	Quantity	???	Function word	-
+7023	-	NINETY	Quantity	???	Function word	-
 348030	-	NIPPLE	The body	The projection of a mammary gland from which, on female mammals, milk can be secreted.	Noun	4.412
 1505748	-	NIT	Animals	An egg of a louse that is sometimes found in people's hair.	Noun	3.812
 5568	5576	NO	Cognition	A word used to show disagreement of something.	Function word	17.56
@@ -1014,7 +1001,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 7834	-	OFTEN	Time	Many times, with short intervals between occasions.	Function word	14.32
 6195	-	OIL	Food and drink	Fat in a liquid form.	Noun	5.79
 848858	-	OINTMENT	Clothing and grooming	A semisolid preparation intended for external application to the skin or mucous membranes. (source: UMLS)	Noun	6.94
-704948	-	OKRA	-	???	???	-
+704948	-	OKRA	Agriculture and vegetation	???	Noun	-
 5482	-	OLD	Time	Having lived or existed for a relatively long period of time.	Adjective	14.15
 1526622	-	OLD MAN	Kinship	A male person who is old of age.	Noun	2.461
 385678	-	OLD WOMAN	Kinship	An old woman.	Noun	2.471
@@ -1052,7 +1039,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 529277	-	PALM OF HAND	The body	The inner and somewhat concave part of the human hand that extends from the wrist to the bases of the fingers.	Noun	4.331
 528656	-	PALM TREE	Agriculture and vegetation	Any of various evergreen trees from the family Palmae or Arecaceae, which are mainly found in the tropics.	Noun	8.81
 1071911	-	PAN	Food and drink	Cooking utensil relatively flat, having a handle, used to cook food such as meat, vegetables or eggs, usually in oil or butter.	Noun	5.28
-1543627	-	PANDANUS	-	???	???	-
+1543627	-	PANDANUS	Agriculture and vegetation	???	Noun	-
 2713	-	PAPER	Speech and language	Felted or matted sheets of cellulose fibers, formed on a fine-wire screen from a dilute water suspension, and bonded together as the water is removed and the sheet is dried.	Noun	18.56
 375199	-	PARAKEET	Animals	Any of several slender species of parrot.	Noun	-
 157257	-	PARENTS	Kinship	Father and mother of a child.	Noun	2.37
@@ -1085,7 +1072,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 646056	-	PILE UP	Spatial relations	To get or gather together.	Verb	12.213
 1511151	-	PILL	Modern world	A small, usually cylindrical object designed for easy swallowing, usually containing some sort of medication.	Noun	23.22
 447708	-	PILLOW	The house	Cushion placed under the head for sleeping.	Noun	7.421
-745597	-	PIMPLE	-	???	???	-
+745597	-	PIMPLE	The body	???	Noun	-
 1116679	-	PIN	Clothing and grooming	A small device, made (usually) of drawn-out steel wire with one end sharpened and the other flattened or rounded into a head, used for fastening.	Noun	6.63
 1511058	-	PINCH	Sense perception	To squeeze a small amount of a person's skin and flesh, making it hurt.	Verb	15.712
 706003	-	PINE	Agriculture and vegetation	Evergreen coniferous tree of the genus Pinus.	Noun	8.64
@@ -1118,7 +1105,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 6897	-	POOR	Possession	With little or no possessions or money.	Adjective	11.52
 1210547	-	PORPOISE	Animals	A short-snouted genus of the dolphin family, 1.2 to 2.5 metres (4 to 8 feet) long, gregarious in habits, yielding an oil and leather.	Noun	3.662
 1717	-	PORT	Motion	Area of water next to the coast, often surrounded by thick walls, where ships and boats can be sheltered.	Noun	10.91
-1543631	-	POSSUM GROUND, POSSUM TREE	-	???	???	-
+1543631	-	POSSUM	Animals	???	Noun	-
 1506091	-	POST	The house	A strong upright piece of wood, metal etc. that is fixed into the ground, especially to support something.	Noun	7.56
 161415	-	POSTAGE STAMP	Modern world	A piece of paper that is affixed to letters or packages to pay for their delivery.	Noun	23.41
 624787	345286	POSTCARD	Modern world	A rectangular piece of thick paper or thin cardboard intended to be written on and mailed without an envelope.	Noun	23.43
@@ -1155,13 +1142,11 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 6068	-	PUSH	Motion	To apply a force to (an object), in order that it moves away from the origin of the force that was applied.	Verb	10.67
 429615	440073	PUT	Spatial relations	To set or place an object in a different place than it original was.	Verb	12.12
 1335540	-	PUT ON	Clothing and grooming	to move or place (anything) so as to get it into or out of a specific location or position.	Verb	6.11
-642111	-	PYTHON	-	???	???	-
+642111	-	PYTHON	Animals	???	Noun	-
 8235	-	QUAIL	Animals	(Coturnix coturnix) Small (17 cm) rotund bird from the pheasant family (Phasianidae)	Noun	3.865
 7805	-	QUARREL	Social and political relations	A loud or noisy verbal confrontation between two or more people.	Noun	19.62
 5708	-	QUEEN	Social and political relations	A female monarch.	Noun	19.33
-888605	-	QUICKLY	-	???	???	-
 5759	5761;5763;5760	QUIET	Sense perception	With little or no sound; denoting absence of disturbing noise.	Adjective	15.46
-427098	-	QUIVER	-	???	???	-
 501465	-	RABBIT	Animals	One of several small mammals of the family Leporidae, with long ears, long hind legs and a short, fluffy tail.	Noun	3.614
 354847	-	RACCOON	Animals	(Procyon lotor) An omnivorous nocturnal mammal native to North America and Central America.	Noun	3.866
 5767	-	RADIO	Modern world	A device that can capture the signal sent over radio waves and render the modulated signal as sound.	Noun	23.1
@@ -1171,7 +1156,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 3100	-	RAIN, PRECIPATION	The physical world	Precipitation in the form of liquid water drops with diameters greater than 0.5 millimetres.	Noun	1.75
 7041	-	RAINBOW	The physical world	A multicoloured arc in the sky caused by the refraction of light within droplets of rain in the air.	Noun	1.59
 5523	-	RAINING	The physical world	To fall from the clouds in drops of water.	Verb	-
-1542669	-	RAINY SEASON	-	???	???	-
+1542669	-	RAINY SEASON	Time	???	Noun	-
 5772	-	RAISE	Motion	To cause to rise; to move something from a lower position to a higher one.	Verb	10.22
 1510836	-	RAKE	Agriculture and vegetation	A garden tool with a row of pointed teeth fixed to a long handle, used for collecting grass or debris, or for loosening soil.	Noun	8.27
 5855	-	RAM	Animals	A male sheep.	Noun	3.26
@@ -1240,7 +1225,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1167672	1241052	SANDFLY	Animals	A tiny flying insect from one of several species in the Nematocera suborder, including the families Mycetophilidae, Anisopodidae and Sciaridae.	Noun	3.831
 1510865	-	SAP	Agriculture and vegetation	The juice of plants of any kind, especially the ascending and descending juices or circulating fluid essential to nutrition.	Noun	8.76
 6994	-	SATURDAY	Time	The sixth day of the week in Europe and in systems using the ISO 8601 norm; the seventh day of the week in the United States of America.	Noun	14.68
-1275504	-	SAUCE	-	???	???	-
+1275504	-	SAUCE	Food and drink	???	Noun	-
 1505792	-	SAUCER	Food and drink	A small dish for placing a cup.	Noun	5.36
 8105	-	SAUSAGE	Food and drink	A length of intestine, stuffed with ground (organ) meat, and other ingredients. Instead of intestines, a different kind of wrapper can be used.	Noun	5.63
 1505696	-	SAVANNA	The physical world	A large open grassland in tropical and subtropical regions.	Noun	1.411
@@ -1267,13 +1252,12 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 6003	-	SEE	Sense perception	To perceive [images] with the eye, without necessarily paying attention to them.	Verb	15.51
 3361	-	SEED	Agriculture and vegetation	A mature fertilized plant ovule, consisting of an embryo and its food store surrounded by a protective seed coat (testa).	Noun	8.311
 6326	-	SEEM	Cognition	To have a given outward appearance.	Verb	17.18
-534040	-	SEIZE	-	???	???	-
 6439	-	SELL	Possession	To provide goods or services in exchange for money.	Verb	11.82
 493075	-	SEND	Motion	To make something (an object, a message) go from one place to another.	Verb	10.63
 5883	-	SEPARATE	Spatial relations	To cause something or someone to move away from something or someone else.	Verb	12.23
 1504891	-	SERVANT	Social and political relations	A person performing duties for others. For example a person employed in a household which cares about the domestic duties.	Noun	19.43
 7004	-	SEVEN	Quantity	The cardinal number occurring after six and before eight, represented in Roman numerals as VII, in Arabic numerals as 7.	Function word	13.07
-7021	-	SEVENTY	-	???	???	-
+7021	-	SEVENTY	Quantity	???	Function word	-
 6073	-	SEW	Clothing and grooming	To pass thread repeatedly through fabric or a material, using a needle, in order to join two or more parts or to make a pattern or motif.	Verb	6.35
 5966	-	SHADE	The physical world	Darkness, where light (particularly sunlight) is blocked.	Noun	1.63
 839866	-	SHAKE	Motion	To cause (something) to move rapidly from side to side.	Verb	10.26
@@ -1283,9 +1267,9 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 374731	-	SHARE	Possession	To give part of what one has to somebody else to use or consume.	Verb	11.91
 481253	-	SHARK	Animals	A scaleless fish with a cartilaginous skeleton that has 5 to 7 gill slits on each side of its head.	Noun	3.661
 5987	-	SHARP	Sense perception	Having the ability to cut easily.	Adjective	15.78
-1503230	-	SHARPEN A BOW	-	???	???	-
+1503230	-	SHARPEN A BOW	Basic actions and technology	???	Verb	-
 7667	-	SHE	Kinship	A female other; the female previously mentioned. 3rd person singular feminine subject pronoun.	Function word	2.932
-1542675	-	SHEA NUT TREE	-	???	???	-
+1542675	-	SHEA NUT TREE	Agriculture and vegetation	???	Noun	-
 1510945	-	SHEARS	Basic actions and technology	A tool consisting of two blades with bevel edges, connected by a pivot, used for cutting cloth, or for removing the fleece from sheep etc	Noun	9.24
 5819	-	SHEEP	Animals	A common, four-legged animal (Ovis) that is commonly kept by humans for its wool.	Noun	3.25
 340859	-	SHELF	The house	A flat, rigid, rectangular structure, fixed at right angles to a wall, and used to support, store or display objects.	Noun	7.47
@@ -1309,11 +1293,11 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 8359	-	SHOVEL	Agriculture and vegetation	A tool consisting of a stick (usually out of wood) and a bigger, slightly humped surface (usually out of metal), which is used to move material such as earth, snow, grain, etc. from one place to another.	Noun	8.24
 446099	-	SHOW	Sense perception	To have somebody see something.	Verb	15.55
 1508293	-	SHRIEK	Speech and language	To make a very high, loud sound.	Verb	18.18
-3414	-	SHRUB TANGET	-	???	???	-
+3414	-	SHRUB	Agriculture and vegetation	???	Noun	-
 448880	-	SHUT	Spatial relations	To move (a door, a window, etc.) so that it closes its opening.	Verb	12.25
 6732	-	SIBLING	Kinship	A person who has the same parents as another person.	Noun	2.456
-1373556	-	SIBLING'S CHILD	Kinship	The child of a sibling.	Noun	2.541
 765010	617681	SIBLING-IN-LAW	Kinship	The husband of one's sister.	Noun	2.6412
+1373556	-	SIBLING'S CHILD	Kinship	The child of a sibling.	Noun	2.541
 7800	-	SICK	The body	Whose health is altered.	Adjective	4.84
 1510850	-	SICKLE	Agriculture and vegetation	An implement, having a semicircular blade and short handle, used for cutting long grass and cereal crops in agriculture	Noun	8.33
 333652	-	SIDE	Spatial relations	One side of a leaf of a book or manuscript.	Noun	12.36
@@ -1326,9 +1310,9 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 474485	-	SINK, DESCEND	Motion	To cause a boat to go down in the water.	Verb	10.33
 5544	-	SISTER	Kinship	A female person who has the same parents as another person.	Noun	2.45
 6022	-	SIT	Spatial relations	To be in a position with the upper body upright and the legs resting.	Verb	12.13
-6785	-	SIT DOWN	-	???	???	-
+6785	-	SIT DOWN	Motion	???	Verb	-
 7003	-	SIX	Quantity	The cardinal number occurring after five and before seven, represented in Roman numerals as VI, in Arabic numerals as 6.	Function word	13.06
-7020	-	SIXTY	-	???	???	-
+7020	-	SIXTY	Quantity	???	Function word	-
 3430	-	SKIN	The body	The tissue forming the outer covering of the vertebrate body: it consists of two layers, the outermost of which may be covered with hair, scales, feathers, etc. It is mainly protective and sensory in function.	Noun	4.12
 6552	-	SKIRT	Clothing and grooming	An article of clothing, usually worn by women and girls, that hangs from the waist and covers the lower part of the body.	Noun	6.46
 6568	-	SKULL	The body	The main bone of the head; the cranium.	Noun	4.202
@@ -1349,6 +1333,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 5487	-	SMOOTH	Sense perception	Not rough; having a surface texture that lacks friction.	Adjective	15.77
 638694	-	SNAIL	Animals	(Gastropoda) Ventral footed mollusk, including land snails, terrestrial pulmonate gastropod mollusks.	Noun	3.94
 3388	-	SNAKE	Animals	Any reptile of the suborder Serpentes, typically having a scaly cylindrical limbless body, fused eyelids, and a jaw modified for swallowing large prey.	Noun	3.85
+1542724	-	SNAPP OF STICK	Basic actions and technology	???	Verb	-
 665334	-	SNEEZE	The body	To expel air rapidly as a reflex, usually induced by an irritation in the nose.	Verb	4.54
 1511046	-	SNIFF	Sense perception	To make a short, audible inhalation, through the nose, as if to smell something.	Verb	15.212
 935932	-	SNORE	The body	To make a noise during sleep by vibration of soft respiratory tissues (soft palate, base of the tongue and pharyngeal walls), particularly during inhalation.	Verb	4.612
@@ -1426,12 +1411,12 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 346995	-	STRANGER	Social and political relations	Someone who is not known.	Noun	19.55
 411075	436	STREAM	The physical world	A small river or large creek; a body of moving water confined by banks.	Noun	1.36
 5895	-	STREET	Modern world	A paved part of road, usually in a village or a town.	Noun	23.395
-1410993	-	STRENGTH	-	???	???	-
+1410993	1112610	STRENGTH	The body	???	Noun	-
 1425791	1425788	STRETCH	Basic actions and technology	To lengthen by pulling.	Verb	9.32
 1510934	-	STRIKE	Basic actions and technology	To hit against something.	Verb	9.21
 345510	-	STRONG	The body	Capable of producing great physical force.	Adjective	4.81
 8498	8494	STUDY	Cognition	To follow a course of study; to be enrolled at an institute of learning.	Verb	17.242
-438953	-	STUMP OF TREE	-	???	???	-
+438953	-	STUMP OF TREE	Agriculture and vegetation	???	Noun	-
 6322	-	STUPID	Cognition	Lacking in intelligence.	Adjective	17.22
 8041	-	STUTTER	Speech and language	To have problems articulating the words, repeting sometimes some syllables.	Verb	18.211
 6027	-	SUCK	Food and drink	To draw in a substance by creating a practical vacuum in the mouth, and as a result a difference in pressure.	Verb	5.16
@@ -1440,14 +1425,14 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 5848	-	SUMMER	Time	Traditionally the second of the four seasons regarded as being from June 21 to September 20 (or just June, July and August) in the Northern Hemisphere and from December 21 to March 20 (or just December, January and February) in the Southern Hemisphere.	Noun	14.76
 5850	-	SUN	The physical world	The particular star at the centre of our solar system, from which the Earth gets light and heat.	Noun	1.52
 6993	-	SUNDAY	Time	The seventh day of the week in Europe and in systems using the ISO 8601 standard, or the first day of the week in the United States of America, the Sabbath for most Christians.	Noun	14.62
-1525871	-	SURPASS	-	???	???	-
+1525871	-	SURPASS	Motion	???	Verb	-
 6444	-	SURPRISED	Emotions and values	The feeling that something unexpected has happened.	Adjective	16.15
 699169	-	SURRENDER	Warfare and hunting	The act of surrendering to the enemy.	Verb	20.46
 7724	1408367	SUSPECT	Cognition	To imagine or suppose (something) to be true without evidence.	Verb	17.44
 380335	-	SWALLOW	Food and drink	The reflex in the human body that makes something pass from the mouth to the pharynx and into the esophagus, with the shutting of the epiglottis.	Verb	5.181
 5069	-	SWAMP	The physical world	A permanently waterlogged area in which there is often associated tree growth, e.g. mangroves in hot climates.	Noun	1.38
 866158	866143;866155	SWEAR	Law	To declare or affirm solemnly and formally as true.	Verb	21.24
-1250835	-	SWEAT	-	???	???	-
+1250835	-	SWEAT	The body	???	Noun	-
 1466959	-	SWEEP	Basic actions and technology	To clean a surface with a broom.	Verb	9.37
 336426	-	SWEET	Sense perception	Having the taste characteristic of sugar or honey.	Adjective	15.35
 1336889	-	SWEET POTATO	Agriculture and vegetation	A dicotyledonous plant of the family Convolvulaceae, having an edible tuberous root.	Noun	8.91
@@ -1462,10 +1447,10 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 374399	-	TAILOR	Clothing and grooming	Someone who professionally manufactures clothing.	Noun	6.13
 7077	7079	TAKE	Possession	To grasp with the hands.	Verb	11.13
 335942	-	TALL	Spatial relations	Having a vertical extent greater than the average; Having the upper end, tip, top, head, etc. a long way up; Having a great vertical extent (often greater than the horizontal extent); High.	Adjective	12.58
-1073190	-	TAMARIND	-	???	???	-
+1073190	-	TAMARIND	Agriculture and vegetation	???	Noun	-
 1501856	-	TAN	The house	To treat skins and hides with tannic acid so as to convert them into leather.	Verb	7.67
 1510404	-	TAPIR	Animals	Any one the species of large odd-toed ungulates of the family Tapiridae with a long prehensile upper lip.	Noun	3.99
-1510923	-	TARO, TARO SINGAPORE	-	???	???	-
+1510923	-	TARO	Agriculture and vegetation	???	Noun	-
 1051228	-	TASTE	Sense perception	To try the flavor or quality of something.	Verb	15.31
 1130256	-	TATTOO	Clothing and grooming	A marking made by inserting ink into the layers of skin to change the pigment permanently for decorative or other reasons.	Noun	6.79
 3714	-	TAX	Possession	An amount of money demanded by a government for its support or for specific facilities or services, most frequently levied upon income, property or sales.	Noun	11.69
@@ -1496,8 +1481,8 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 6309	-	THINK, BELIEVE	Cognition	To have as opinion, belief, or idea.	Verb	17.14
 6021	-	THINK, REFLECT	Cognition	To actively and consciously use one's mental powers, usually to form ideas.	Verb	17.13
 7979	-	THIRD	Quantity	The ordinal form of the cardinal number three.	Function word	13.42
-7008	-	THIRTEEN	-	???	???	-
-7017	-	THIRTY	-	???	???	-
+7008	-	THIRTEEN	Quantity	???	Function word	-
+7017	-	THIRTY	Quantity	???	Function word	-
 5458	1370685	THIS	Miscellaneous function words	The indicated object, item, etc.	Function word	24.07
 1243793	-	THORN	Agriculture and vegetation	A sharp and hard structure that grows on a plant.	Noun	-
 5459	-	THOU	Kinship	The person addressed.	Function word	2.92
@@ -1553,10 +1538,9 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1510861	-	TREE TRUNK	Agriculture and vegetation	The main structural member of a tree.	Noun	8.73
 1412223	1412295;1412322	TROUGH	The house	A long, narrow container, open on top, for feeding or watering animals.	Noun	7.48
 349559	-	TROUSERS	Clothing and grooming	An item of clothing worn on the lower part of the body and covering both legs separately.	Noun	6.48
-6816	-	TRUE	Emotions and values	Concurring with a given set of facts.	Adjective	16.66
 344567	-	TRUMPET	Speech and language	A musical instrument in the brass family.	Noun	18.73
-344683	-	TRUNK OF TREE	-	???	???	-
-6708	-	TRUTH	-	???	???	-
+344683	-	TRUNK OF TREE	Agriculture and vegetation	???	Noun	-
+6708	-	TRUTH	Emotions and values	???	Noun	-
 7471	-	TRY	Cognition	To put to the test, as for its quality, or give experimental use to.	Verb	17.48
 6991	-	TUESDAY	Time	The second day of the week in Europe and in systems using the ISO 8601 norm; the third day of the week in the United States of America.	Noun	14.64
 1507435	-	TUMPLINE	Basic actions and technology	A strap slung over the forehead or chest used (especially by native Americans) for carrying packs or loads	Noun	9.92
@@ -1565,27 +1549,27 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1200609	-	TURTLE	Animals	A reptile of the order Testudines (the crown group of the superorder Chelonia), characterised by a special bony or cartilaginous shell developed from their ribs that acts as a shield.	Noun	3.98
 7007	-	TWELVE	Quantity	The cardinal number occurring after eleven and before thirteen, represented in Roman numerals as XII and in Arabic numerals as 12.	Function word	13.102
 7013	-	TWENTY	Quantity	The cardinal number occurring after nineteen and before twenty-one, represented in Roman numerals as XX and in Arabic numerals as 20.	Function word	13.104
-7050	-	TWENTY FIVE	-	???	???	-
-7049	-	TWENTY FOUR	-	???	???	-
-7046	-	TWENTY ONE	-	???	???	-
+7050	-	TWENTY FIVE	Quantity	???	Function word	-
+7049	-	TWENTY FOUR	Quantity	???	Function word	-
+7046	-	TWENTY ONE	Quantity	???	Function word	-
 6389	-	TWICE	Quantity	Two times.	Function word	13.38
 431713	-	TWINS	Kinship	A case of multiple birth in which the mother gives birth to two offspring from the same pregnancy.	Noun	2.458
 1541116	-	TWIST	Motion	to combine, as two or more strands or threads, by winding together.	Verb	10.17
 6248	5425	TWO	Quantity	The cardinal number occurring after one and before three, represented in Roman numerals as II and in Arabic numerals as 2.	Function word	13.02
 1329165	-	UDDER	The body	An organ in female quadruped mammals which consists of mammary glands and has several teats.	Noun	4.42
 639024	-	UGLY	Emotions and values	Not good looking.	Adjective	16.82
-535033	-	ULCER	-	???	???	-
+535033	-	ULCER	The body	???	Noun	-
 5806	-	UNCLE	Kinship	The brother of someone’s father or mother.	Noun	2.51
 480525	-	UNCOVER	Basic actions and technology	To uncover; to show and display that which was hidden.	Verb	-
 6356	992756	UNDERSTAND	Cognition	To be aware of the meaning of.	Verb	17.16
-710500	-	UNDRESS	-	???	???	-
+710500	-	UNDRESS	Clothing and grooming	???	Verb	-
 899673	-	UNRIPE	Food and drink	That is not yet ripe (edible fruit), usually hard and sour.	Adjective	5.124
 1510931	-	UNTIE	Basic actions and technology	To loosen, as something interlaced or knotted; to disengage the parts of. To unbind, to free from restraint	Verb	9.161
 6531	-	UP	Spatial relations	The direction that is away from the centre of the Earth.	Function word	12.08
 1541167	-	UPPER ARM	The body	the part of the arm between the shoulder and the elbow.	Noun	-
 1541252	-	UPPER BACK	The body	upper part of the back.	Noun	-
-1543636	-	UPPER LEG	-	???	???	-
-504787	-	URINE	-	???	???	-
+1543636	-	UPPER LEG	The body	???	Noun	-
+504787	-	URINE	The body	???	Noun	-
 7685	-	VAGINA	The body	The lower part of the female reproductive tract; a moist canal in female mammals extending from the labia minora to the uterus.	Noun	4.493
 3938	-	VALLEY	The physical world	Any low-lying land bordered by higher ground; especially an elongate, relatively large, gently sloping depression of the Earth's surface, commonly situated between two mountains or between ranges of hills or mountains, and often containing a stream with an outlet.	Noun	1.24
 3953	-	VEGETABLES	Food and drink	Any of various herbaceous plants having parts that are used as food.	Noun	5.65
@@ -1602,18 +1586,17 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 487077	-	WAGES	Possession	A fixed amount of money paid to a worker, usually measured on a monthly or annual basis.	Noun	11.78
 415600	-	WAGON	Motion	A wheeled vehicle, generally drawn by horse power.	Noun	10.75
 692019	-	WAIST	The body	In human beings, the part between the thorax and hips.	Noun	4.462
-6530	-	WAIT FOR	-	???	???	-
+6530	-	WAIT FOR	Motion	???	Verb	-
 6557	6558	WAKE UP	The body	To stop sleeping.	Verb	4.63
 6054	-	WALK	Motion	To move from one place to another by moving legs alternately, so that at least one foot is in contact with the floor or surface at any one time.	Verb	10.45
 5663	-	WALKING STICK	Social and political relations	An object, specifically for providing support when walking.	Noun	19.25
 3989	1395304	WALL	The house	A vertical construction made of stone, brick, wood, etc., with a length and height much greater than its thickness, used to enclose, divide or support.	Noun	7.27
-1355268	-	WALLABY	-	???	???	-
+1355268	-	WALLABY	Animals	???	Noun	-
 7258	-	WANT	Emotions and values	To have a strong desire for something.	Verb	16.62
 3990	-	WAR	Warfare and hunting	A conflict or a state of hostility between two or more parties, nations or states, in which armed forces or military operations are used.	Noun	20.13
 5485	-	WARM	Sense perception	Having a temperature slightly higher than usual, still pleasant.	Adjective	15.851
 6069	-	WASH	Basic actions and technology	To remove dirt and grime from an object, using water (usually with soap).	Verb	9.36
 631360	-	WASP	Animals	A flying stinging insect related to the bee, which is usually coloured yellow and black.	Noun	3.823
-6804	-	WATCH	-	???	???	-
 4118	-	WATER	The physical world	Common liquid (H₂O) which forms rain, rivers, the sea, etc., and which makes up a large part of the bodies of organisms.	Noun	1.31
 4079	-	WATERFALL	The physical world	A perpendicular or steep descent of the water of a stream.	Noun	1.39
 421112	-	WAVE	The physical world	A disturbance in an fluid medium.	Noun	1.35
@@ -1650,7 +1633,6 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 711582	-	WIDOW	Kinship	A woman whose spouse has died.	Noun	2.76
 933133	-	WIDOWER	Kinship	A man whose spouse has died.	Noun	2.77
 5429	-	WIFE	Kinship	A married woman.	Noun	2.32
-4150	-	WILD ANIMAL, CHICKEN WILD	-	???	???	-
 4160	-	WIND	The physical world	The motion of air relative to the earth's surface; usually means horizontal air motion, as distinguished from vertical motion.	Noun	1.72
 5932	-	WINDOW	The house	An opening, usually covered by one or more panes of clear glass, to allow light from outside to enter a building or vehicle.	Noun	7.25
 6329	-	WINE	Food and drink	An alcoholic beverage made by fermenting juice of grapes.	Noun	5.92
@@ -1664,7 +1646,6 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 506244	745348	WITNESS	Law	Someone who has a personal knowledge of something.	Noun	21.23
 158033	-	WOLF	Animals	A large wild canid (Canidae), closely related to the dog.	Noun	3.71
 4165	-	WOMAN	Kinship	An adult human member of the sex that produces ova and bears young.	Noun	2.22
-1543026	-	WOMAN'S BODYCLOTH	-	???	???	-
 348317	-	WOMB	The body	The major female reproductive organ of most mammals, including humans. It is a large muscle enveloping the phoetus during pregnancy.	Noun	4.47
 741520	-	WOOD	The physical world	The substance making up the central part of the trunk and branches of a tree. Used as a material for construction, to manufacture various items, etc. or as fuel.	Noun	1.43
 4168	-	WOODS	The physical world	A dense growth of trees more extensive than a grove and smaller than a forest.	Noun	1.41
@@ -1678,6 +1659,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1505545	-	WORSHIP	Religion and belief	To show devotion to (a deity).	Verb	22.16
 480931	-	WOUND	The body	A type of injury in which in skin or tisue is torn, cut,  punctured or otherwise hurt.	Noun	4.85
 483089	-	WRAP	Motion	To surround on all sides.	Verb	10.14
+1543026	-	WRAPPER	Clothing and grooming	???	Noun	-
 1511065	-	WRINKLED	Sense perception	Uneven, with many furrows and prominent points, often in reference to the skin or hide of animals.	Adjective	15.89
 348173	-	WRIST	The body	The flexible and narrower connection between the forearm and the hand.	Noun	4.321
 6891	-	WRITE	Speech and language	To form (letters, words or symbols) on a surface in order to communicate.	Verb	18.51
@@ -1699,3 +1681,4 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1539816	-	YOUNGER SIBLING	Kinship	A person who is born after another person who has the same parents.	Noun	2.4562
 7132	-	YOUNGER SISTER	Kinship	A female who is younger than one or more of her siblings.	Noun	2.455
 5653	809644	ZERO	Quantity	The cardinal number that denotes no quantity or amount at all.	Function word	13
+6816	-	TRUE	Emotions and values	Concurring with a given set of facts.	Adjective	16.66
