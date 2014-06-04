@@ -101,11 +101,11 @@ function showData()
       var fgloss = csv1[key]['fgloss'];
       if(fgloss in glossesA)
       {
-	glossesA[fgloss] = glossesA[fgloss]+'/'+key;
+        glossesA[fgloss] = glossesA[fgloss]+'/'+key;
       }
       else
       {
-	glossesA[fgloss] = key;
+        glossesA[fgloss] = key;
       }
     }
   }
@@ -125,107 +125,102 @@ function showData()
       var gloss = csv2[key]['gloss'].toLowerCase();
       if(gloss in glossesA)
       {
-	var textf = '\t'+key+'\t'+gloss;
-	var text = '';
-	//for(k in csv2[key])
-	//{
-	//  textf += '\t'+key+'\t'+gloss+'\t'+csv2[key][k];
-	//}
-	if(glossesA[gloss].indexOf('/') != -1)
-	{
-	  var keys = glossesA[gloss].split('/');
-	  //var owids = [];
-	  for(var i=0,k;k=keys[i];i++)
-	  {
-	    text += '!' + textf + '\t' + csv1[k]['omegawiki']+'\t'+csv1[k]['gloss']+'\n';
-	    //owids.push(csv1[k]['omegawiki']+': '+csv1[k]['gloss']);
-	  }
-	  scount += 1;
-	}
-	else
-	{
-	  count += 1;
-	  text = '+'+textf+'\t'+csv1[glossesA[gloss]]['omegawiki']+'\t'+csv1[glossesA[gloss]]['gloss'] + '\n';
-	}
-	commons += text;
+        var textf = ''; //'\t'+key+'\t'+gloss;
+        var text = '';
+        for(k in csv2[key])
+        {
+          textf += '\t'+csv2[key][k];
+        }
+        if(glossesA[gloss].indexOf('/') != -1)
+        {
+          var keys = glossesA[gloss].split('/');
+          for(var i=0,k;k=keys[i];i++)
+          {
+            text += '!' + textf + '\t' + csv1[k]['omegawiki']+'\t'+csv1[k]['gloss']+'\n';
+          }
+          scount += 1;
+        }
+        else
+        {
+          count += 1;
+          text = '+'+textf+'\t'+csv1[glossesA[gloss]]['omegawiki']+'\t'+csv1[glossesA[gloss]]['gloss'] + '\n';
+        }
+        commons += text;
       }
       else if(gloss.replace(/^to /,'').replace(/[?!\.]/,'') in glossesA)
       {
-	vcount += 1;
-	var ngloss = gloss.replace(/^to /,'').replace(/[?!]/,'');
-	var text = '?';
-	for(k in csv2[key])
-	{
-	  text += '\t'+csv2[key][k];
-	}
-	if(glossesA[ngloss].indexOf('/') != -1)
-	{
-	  var keys = glossesA[ngloss].split('/');
-	  var owids = [];
-	  for(var i=0,k;k=keys[i];i++)
-	  {
-	    owids.push(csv1[k]['omegawiki']);
-	  }
-	  text += '\t'+owids.join('/');
-	}
-	else
-	{
-	  text += '\t'+csv1[glossesA[ngloss]]['omegawiki'];
-	}
-	commons += text+' ('+ngloss+')\n';
+        vcount += 1;
+        var ngloss = gloss.replace(/^to /,'').replace(/[?!]/,'');
+        var textf = '?';
+        var text = '';
+        for(k in csv2[key])
+        {
+          textf += '\t'+csv2[key][k];
+        }
+        if(glossesA[ngloss].indexOf('/') != -1)
+        {
+          var keys = glossesA[ngloss].split('/');
+          for(var i=0,k;k=keys[i];i++)
+          {
+            text += textf + '\t' + csv1[k]['omegawiki']+'\t'+csv1[k]['gloss']+'\n';
+          }
+        }
+        else
+        {
+          text += textf + '\t'+csv1[glossesA[ngloss]]['omegawiki']+'\t'+csv1[glossesA[ngloss]]['gloss']+'\n';
+        }
+        commons += text;
       }
       else
       {
-	// try to split the stuff and to search for indirect matches
-	var ngloss = gloss.replace(/^to /,'').replace(/[?!()]/,'');
-	var nglosses = ngloss.split(/[\/\s,;]+/);
-	var matches = [];
-	for(i=0,k;k=nglosses[i];i++)
-	{
-	  if(k in glossesA)
-	  {
-	    matches.push(k.toLowerCase())
-	  }
-	}
-	if(matches.length >= 1)
-	{
-	  fcount += 1;
-	  var textf = '%'+'\t'+key+'\t'+gloss;
-	  var text = '';
-	  //for(k in csv2[key])
-	  //{
-	  //  text += '\t'+csv2[key][k];
-	  //}
-	  var texts = [];
-	  for(i=0;i<matches.length;i++)
-	  {
-	    var m = matches[i];
-	    if(glossesA[m].indexOf('/') != -1)
-	    {
-	      var keys = glossesA[m].split('/');
-	      //var owids = [];
-	      for(var i=0,k;k=keys[i];i++)
-	      {
-		text += textf+'\t'+csv1[k]['omegawiki']+'\t'+csv1[k]['gloss']+'\n'
-		//owids.push(csv1[k]['omegawiki']);
-	      }
-	      //texts.push(owids.join('/')+' ('+m+')');
-	    }
+        // try to split the stuff and to search for indirect matches
+        var ngloss = gloss.replace(/^to /,'').replace(/[?!()]/,'').replace(/\//,',');
+        var nglosses = ngloss.split(/[\/\s,;]+/g);
+        var matches = [];
+        for(i=0;i<nglosses.length;i++)
+        {
+          k = nglosses[i].replace(/\s/g,'');
+          
+          if(k in glossesA)
+          {
+            matches.push(k.toLowerCase())
+          }
+        }
+        if(matches.length >= 1)
+        {
+          fcount += 1;
+          var textf = '%'; //+'\t'+key+'\t'+gloss;
+          var text = '';
+          for(k in csv2[key])
+          {
+            textf += '\t'+csv2[key][k];
+          }
+          var texta = '';
+          for(var i=0;i<matches.length;i++)
+          {
+            var m = matches[i];
+            if(glossesA[m].indexOf('/') != -1)
+            {
+              var keys = glossesA[m].split('/');
+              for(var j=0,k;k=keys[j];j++)
+              {
+                text += textf+'\t'+csv1[k]['omegawiki']+'\t'+csv1[k]['gloss']+'\n'
+              }
+            }
             else
             {
-	      text += textf+csv1[glossesA[m]]['omegawiki']+'\t'+csv1[glossesA[m]]['gloss']+'\n';
-              //texts.push(csv1[glossesA[m]]['omegawiki']+' ('+m+')');
+              texta += textf+'\t'+csv1[glossesA[m]]['omegawiki']+'\t'+csv1[glossesA[m]]['gloss']+'\n';
             }
           }
-        commons += text; // + '\t'+texts.join('; ')+'\n';
+          commons += text + texta; // + '\t'+texts.join('; ')+'\n';
         }
-	else
+        else
         {
           var text = '-';
           for(k in csv2[key])
-            {
-              text += '\t'+csv2[key][k];
-            }
+          {
+            text += '\t'+csv2[key][k];
+          }
           text += '\t?\n';
           commons += text;
           mcount += 1;
