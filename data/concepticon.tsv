@@ -418,7 +418,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 966	-	DOG	Animals	A common four-legged animal, especially kept by people as a pet or to hunt or guard things.	Noun	3.61
 616807	-	DOLPHIN	Animals	A carnivorous aquatic mammal inhabiting mostly in the shallower seas of the continental shelves.	Noun	3.662
 8030	-	DONKEY	Animals	A domesticated animal, Equus asinus.	Noun	3.46
-6430	1253751;1070009	DOOR	The house	A moveable barrier that can be closed or open to control access to a building, a room, a car, an area, etc.	Noun	7.22
+6430	1070009	DOOR	The house	An opening, or passage in a fence or wall; the entrance through which you enter or leave a room or building.	Noun	7.22
 1153341	-	DOORPOST	The house	The frame that supports a door.	Noun	7.221
 5716	6812	DOUBT	Cognition	Challenge about the truth or accuracy of a matter.	Noun	17.43
 1505807	-	DOUGH	Food and drink	A mixture of flour and water ready to be baked into bread, pastry etc.	Noun	5.53
@@ -605,7 +605,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1543622	-	G-STRING	Clothing and grooming	???	Noun	-
 1601	-	GARDEN	Agriculture and vegetation	A piece of land next to a house where flowers and other plants are grown and which often has an area of grass.	Noun	8.13
 1525934	-	GARDEN-HOUSE	The house	A small building in a garden, such as a shed, which is not usually build to be inhabitated for long times.	Noun	7.131
-6430	-	GATE	The house	An opening, or passage in a fence or wall; the entrance through which you enter or leave a room or building.	Noun	7.22
+1253751	-	GATE	The house	A moveable barrier that can be closed or open to control access to a building, a room, a car, an area, etc.	Noun	7.22
 1022541	-	GATHER	Spatial relations	To heap up; to collect or gather (e.g. work, magazines, etc.).	Verb	12.21
 1018466	-	GAZELLE	Animals	???	Noun	-
 334733	-	GET	Possession	To get or obtain an item; to come into the possession of something.	Verb	11.16
@@ -705,7 +705,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 342235	-	HERON	Animals	A long-legged, long-necked wading bird of the family Ardeidae.	Noun	3.583
 1339563	-	HICCOUGH	The body	To have spasms of the diaphragm.	Verb	4.521
 161806	-	HIDE, CONCEAL	Spatial relations	To put something in a place where it will be harder to discover or out of sight.	Verb	12.27
-1505751	-	HIDE, SKIN	The body	Skin of an animal.	Noun	4.12
+1505751	-	HIDE, SKIN	Animals	Skin of an animal.	Noun	4.12
 5562	335942;342616	HIGH	Spatial relations	Having relatively great height.	Adjective	12.31
 1769	-	HIGH TIDE	The physical world	The level of water when the tide is at its highest level.	Noun	1.354
 1772	-	HILL	The physical world	A natural elevation of the land surface, usually rounded.	Noun	1.22
@@ -834,7 +834,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1502678	-	LIGHT COLOR	Sense perception	(of color) having a relatively small amount of color components.	Adjective	15.62
 2158	-	LIGHT RADIATION	The physical world	Electromagnetic radiation that is capable of causing a visual sensation. (Source: CED)	Noun	1.61
 452743	-	LIGHT WEIGHT	Sense perception	With a small mass, little weight or density; the opposite of heavy.	Adjective	15.82
-1299599	-	LIGHT, BURN	The physical world	To cause to undergo fire combustion.	Verb	1.86
+339690	-	LIGHT, IGNITE	The physical world	To start a fire or light a flame.	Verb	1.86
 6811	-	LIGHTNING	The physical world	The flash of light caused by the discharge of atmospheric electrical charge.	Noun	1.55
 422609	-	LIME	Agriculture and vegetation	???	Noun	-
 1511001	-	LIMP	Motion	To walk lamely, as if favouring one leg.	Verb	10.451
