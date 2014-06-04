@@ -242,17 +242,12 @@ function showData()
   db.innerHTML = count+' direct matches (+)<br>'+scount+' multiple matches (!)<br>'+vcount+' indirect matches (?)<br>'+fcount+' fuzzy matches (%)<br>'+mcount+' mismatches (-)'; 
 
   db.innerHTML += '<br><textarea id="mytext" rows="100" cols="100">'+head+commons+'</textarea>';
-
-  var store = document.getElementById('storeB');
-  store.innerText = head;
 }
 
 function exportData()
 {
-  var store = document.getElementById('storeB');
-  new_text = store.innerText;
   var storeB = document.getElementById('mytext');
-  new_text += storeB.value;
+  new_text = storeB.value;
   var blob = new Blob([new_text], {type: "text/plain;charset=utf-8"});
   saveAs(blob, 'merged.tsv');  
 }

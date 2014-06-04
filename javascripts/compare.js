@@ -11,7 +11,7 @@ function handleFileSelect(evt)
   dest = destination;
 
   db = document.getElementById('db');
-  db.innerHTML = dest;
+  db.innerHTML = ''; //dest;
 
   var files = evt.target.files; /* FileList object */
 
