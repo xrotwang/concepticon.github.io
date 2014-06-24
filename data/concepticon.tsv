@@ -64,6 +64,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 6078	-	AT	Spatial relations	With very little distance to or in a particular place or location.	Function word	12.013
 1108044	-	ATOP	Spatial relations	In a higher position, with respect to a lower one.	Function word	-
 337168	436121	ATTACK	Warfare and hunting	The application of violent force to someone or something.	Noun	20.43
+507273	-	AUBERGINE	Food and drink		An Asian plant, Solanum melongena, cultivated for its edible purple, green, or white ovoid fruit.	Noun	-
 5591	-	AUNT	Kinship	A woman with one or more siblings who have one or more children; a sister of someone's father or mother.	Noun	2.52
 5615	-	AUTUMN	Time	The season after summer and before winter, traditionally from September 21 to December 20 in the northern hemisphere and from March 21 to June 20 in the southern hemisphere.	Noun	14.77
 1505847	-	AWL	Clothing and grooming	Pointed tool for marking or piercing wood or leather.	Noun	6.37
@@ -114,6 +115,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 514093	-	BECAUSE	Cognition	conjunction initiating a causal phrase.	Function word	17.52
 949323	-	BECOME	Miscellaneous function words	To begin to be; to come to be; to turn into.	Verb	24.02
 6851	-	BED	The house	A piece of furniture, made for a person to sleep on.	Noun	7.42
+880112	-	BEDBUG	Animals	A small blood-sucking insect that lives in houses, especially beds.	Noun	-
 325	-	BEE	Animals	Any of the membranous-winged insects which compose the superfamily Apoidea in the order Hymenoptera characterized by a hairy body and by sucking and chewing mouthparts.	Noun	3.82
 880926	-	BEECH	Agriculture and vegetation	Any tree of the genus Fagus, of temperate regions, having a smooth gray bark and bearing small, edible, triangular nuts.	Noun	8.62
 1161759	763206	BEEHIVE	Animals	A structure that provides a natural habitation for bees; as in a hollow tree.	Noun	3.822
@@ -223,6 +225,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 342095	342118	BUTTON	Clothing and grooming	A fastener consisting of a knob or disc that is passed through a slit in the adjacent material.	Noun	6.62
 8061	-	BUY	Possession	To obtain in exchange for money or goods.	Verb	11.81
 8038	-	BUZZARD	Animals	Diurnal bird of prey belonging to the Accipitridae family.	Noun	-
+344475	-	CABBAGE	Food and drink	An edible plant, Brassica oleracea, with many varieties.	Noun	-
 909821	-	CALENDAR	Modern world	A table showing the months and days of the year.	Noun	23.61
 941919	-	CALF	Animals	Young cattle.	Noun	3.24
 156660	-	CALF OF LEG	The body	The fleshy backside of the lower part of the leg.	Noun	4.352
@@ -287,6 +290,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1541228	-	CHONTA PALM	Agriculture and vegetation	species of flowering plant in the Arecaceae family, trunked palm tree which is endemic to the Juan Fernández Islands archipielago in the southeast Pacific Ocean west of Chile.	Noun	-
 7084	-	CHOOSE	Emotions and values	To make a choice from a number of alternatives.	Verb	16.622
 1329931	-	CHOP	Basic actions and technology	To cut meat, vegetables or fruits in very small pieces.	Verb	9.222
+941235	-	CHOPSTICKS	Food and drink		A pair of small equal-length tapered sticks, which are generally believed to have originated in ancient China, and are the traditional eating utensils of China, Japan, Korea, Taiwan, and Vietnam.	Noun	-
 587	-	CHURCH	Religion and belief	A building where Christian religious activities take place.	Noun	22.131
 419443	-	CIGARETTE	Modern world	A product manufactured out of cured and finely cut leaves, which are rolled or stuffed into a paper-wrapped cylinder for smoking.	Noun	23.59
 6135	-	CIRCLE	Spatial relations	A two-dimensional, geometric shape that is made up of every point on a plane which is equidistant from the centre. May be drawn with a pair of compasses.	Noun	12.82
@@ -417,6 +421,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 486237	-	DIVIDE	Spatial relations	To split or separate something into two or more parts.	Verb	12.232
 499844	-	DIVORCE	Kinship	Legal dissolution of a marriage.	Noun	2.341
 351006	-	DO	Basic actions and technology	To act, to behave.	Verb	9.11
+161474	-	DOCTOR	Modern world	A person who has completed a study of medicine, and as such tries to diagnose and cure diseases in patients.	Noun	-
 966	-	DOG	Animals	A common four-legged animal, especially kept by people as a pet or to hunt or guard things.	Noun	3.61
 616807	-	DOLPHIN	Animals	A carnivorous aquatic mammal inhabiting mostly in the shallower seas of the continental shelves.	Noun	3.662
 8030	-	DONKEY	Animals	A domesticated animal, Equus asinus.	Noun	3.46
@@ -525,6 +530,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 6393	6392	FEMALE	Animals	Of, relating to, or denoting the sex which is generally characterized as the one associated with the larger gametes (for species which have two sexes and for which this distinction can be made).	Adjective	2.24;3.13
 698534	-	FENCE	Agriculture and vegetation	Delimitation for an area.	Noun	8.16
 1525942	-	FERMENTED DRINK	Food and drink	A fermented drink is a beverage containing alcohol because of a metabolic process that converts sugar to acids, gases and/or alcohol (e.g. beer or wine).	Noun	5.94
+1273978	-	FESTIVAL	Political and social relations	Manifestation of collective joy, lasting longer than a few minutes.	Noun	-
 6347	-	FEVER	The body	A higher than normal temperature of a person (or generally a mammal).	Noun	4.841
 5500	-	FEW	Quantity	More than one, but not as many as usual or as expected.	Function word	13.17
 1425	-	FIELD	Agriculture and vegetation	A limited area of land with grass or crops growing on it, which is usually surrounded by fences or closely planted bushes when it is part of a farm.	Noun	8.12
@@ -553,6 +559,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1048155	-	FISHING LINE	Warfare and hunting	A line intended to fasten hooks in when fishing.	Noun	20.53
 358355	-	FISHING SPEAR	Warfare and hunting	A spearlike weapon with a barbed head used in hunting whales and large fish.	Noun	-
 1511110	-	FISHNET	Warfare and hunting	A net used to catch fish.	Noun	20.54
+615259	-	FIST	The body	he closed hand with the fingers on the palm.	Noun	-
 156104	5448	FIVE	Quantity	The fifth natural number (5).	Function word	13.05
 376152	-	FLAME	The physical world	A bright yellow, red or bluish light which emerges during combustion processes.	Noun	1.82
 6680	-	FLAT	Spatial relations	Having no variations in altitude.	Adjective	12.71
@@ -580,6 +587,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1157984	-	FORBID	Speech and language	To tell not to do something.	Verb	18.38
 1241509	-	FOREHEAD	The body	The part of the face between the hairline and the eyebrows.	Noun	4.205
 1533	-	FOREST	The physical world	A vegetation community dominated by trees and other woody shrubs, growing close enough together that the tree tops touch or overlap, creating various degrees of shade on the forest floor.	Noun	1.41
+158386	-	FOREFINGER	The body	The finger between thumb and long finger.	Noun	-
 1507103	-	FORGE	Basic actions and technology	To create and mold by hammering.	Verb	9.61
 6328	-	FORGET	Cognition	To lose memory of something.	Verb	17.32
 6336	-	FORGIVE	Emotions and values	To stop blaming someone for an offense.	Verb	16.69
@@ -598,6 +606,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 5793	5795	FRIEND	Social and political relations	A person other than a family member, spouse or lover whose company one enjoys and towards whom one feels affection.	Noun	19.51
 1504545	-	FRIGHTEN	Sense perception	To make someone afraid or anxious.	Verb	-
 1570	-	FROG	Animals	Any insectivorous anuran amphibian of the family Ranidae, such as Rana temporaria of Europe, having a short squat tailless body with a moist smooth skin and very long hind legs specialized for hopping.	Noun	3.95
+334719	-	FROM	Spatial relations	h	Indicates the source or provenance.	Function word	-
 1541236	-	FRONT TOOTH, INEISOR	The body	several teeth located above and below in the mouth of mammals to bite food off.	Noun	-
 6280	-	FRUIT	Food and drink	A botanical fruit that can be eaten raw used as food	Noun	5.71
 425934	-	FRY	Food and drink	To cook in hot fat.	Verb	5.23
@@ -667,6 +676,8 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 6428	-	GUN	Warfare and hunting	A bullet firing weapon.	Noun	20.28
 5824	-	GUTS	The body	The internal organs of an animal.	Noun	4.461
 479932	-	HACK	Basic actions and technology	To enter a program or other instructions into a computer (or other electronic device) to instruct it to do a particular task.	Verb	-
+1707	-	HAIL	The physical world	Precipitation in the form of balls or irregular lumps of ice.	Noun	-
+1187180	-	HAILING	The physical world	To fall from the clouds in form of ball or lumps of ice.	Verb	-
 446278	-	HAIR	The body	The collection or mass of hair on a person's head except the face.	Noun	4.14
 352085	-	HALF	Quantity	One of the two equal parts of a whole.	Noun	13.24
 6183	-	HAMMER	Basic actions and technology	A tool with a heavy head and a handle used for pounding.	Noun	9.49
@@ -987,6 +998,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 5568	5576	NO	Cognition	A word used to show disagreement of something.	Function word	17.56
 154801	-	NOBLE	Social and political relations	Someone of aristocratic blood.	Noun	19.36
 5290	1251677	NOISE	Sense perception	Sound which is unwanted, either because of its effects on humans, its effect on fatigue or malfunction of physical equipment, or its interference with the perception or detection of other sounds.	Noun	15.44
+419869	-	NOODLE	Food and drink	A string or strip of pasta, especially as used in Chinese and Italian cookery.	Noun	-
 6550	-	NORTH	Spatial relations	One of the four major compass points, specifically 0°, directed toward the North Pole, and conventionally upwards on a map.	Noun	12.47
 5471	-	NOSE	The body	The organ of the face used to breath and smell.	Noun	4.23
 527874	-	NOSTRIL	The body	Either of the two orifices located on the nose (or on the beak of a bird); used as a passage for air and other gases to travel the nasal passages.	Noun	4.231
@@ -1344,6 +1356,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1511046	-	SNIFF	Sense perception	To make a short, audible inhalation, through the nose, as if to smell something.	Verb	15.212
 935932	-	SNORE	The body	To make a noise during sleep by vibration of soft respiratory tissues (soft palate, base of the tongue and pharyngeal walls), particularly during inhalation.	Verb	4.612
 3455	8047	SNOW	The physical world	The most common form of frozen precipitation, usually flakes or starlike crystals, matted ice needles, or combinations, and often rime-coated.	Noun	1.76
+5525	-	SNOWING	The physical world	To fall from the clouds in the form of ice crystals.	Verb	-
 1478056	-	SNOWSHOE	Clothing and grooming	Footwear for walking over the snow.	Noun	6.98
 3458	-	SOAP	Clothing and grooming	A cleansing agent, manufactured in bars, granules, flakes, or liquid form, made from a mixture of the sodium salts of various fatty acids of natural oils and fats.	Noun	6.95
 6327	-	SOCK	Clothing and grooming	A knitted or woven covering for the foot, reaching no higher than just above the ankle.	Noun	6.49
@@ -1366,7 +1379,9 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 6542	-	SOUTH	Spatial relations	One of the four major compass points, specifically 180°, directed toward the South Pole, and conventionally downwards on a map.	Noun	12.48
 341201	-	SOW SEEDS	Agriculture and vegetation	To scatter, disperse, or plant seeds.	Verb	8.31
 5871	-	SOW, FEMALE PIG	Animals	An adult female pig.	Noun	3.34
+909894	-	SOYA SAUCE	Food and drink		Sauce made from soybeans (soya beans), roasted grain, water and salt and is used as flavoring mainly in Asian cuisine.	Noun	-
 525509	-	SPADE	Agriculture and vegetation	Tool having a flat and sharp metal tip and a wooden handle used to break, dig and move the earth.	Noun	8.23
+7891	-	SPARROW	animals	A small song bird, in the family Passeridae.	Noun	-
 6656	-	SPEAK	Speech and language	To communicate by the use of sounds that are interpreted as language; to communicate verbally.	Verb	18.21
 408915	-	SPEAR	Warfare and hunting	a long, stabbing weapon for thrusting or throwing, consisting of a wooden shaft to which a sharp-pointed head, as of iron or steel, is attached.	Noun	20.26
 1544459	-	SPEAR ACTION	Warfare and hunting	To penetrate or strike with, or as if with, any long narrow object. To make a thrusting motion that catches an object on the tip of a long device.	Verb	-
@@ -1376,6 +1391,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1541190	-	SPIDER MONKEY	Animals	tropical American monkey of the genus Ateles,  having a slender body, long, slender limbs, and a long, prehensile tail.	Noun	-
 456539	-	SPIDER WEB	Animals	A fine net of threads woven by a spider to catch insects	Noun	3.819
 1240334	-	SPIN	Clothing and grooming	to make (yarn) by drawing out, twisting, and winding fibers.	Verb	6.31
+420508	-	SPINACH	Food and drink	An important leaf vegetable, grown throughout the temperate regions of the world.	Noun	-
 1505839	-	SPINDLE	Clothing and grooming	A stick used in spinning fiber into thread.	Noun	6.32
 348411	-	SPINE	The body	The body part that consists of a row of vertebrae, that support the head and torso and that forms a canal for nerves.	Noun	4.191
 1107036	-	SPIRIT	Emotions and values	The undying essence of a human.	Noun	16.11
@@ -1432,6 +1448,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 5848	-	SUMMER	Time	Traditionally the second of the four seasons regarded as being from June 21 to September 20 (or just June, July and August) in the Northern Hemisphere and from December 21 to March 20 (or just December, January and February) in the Southern Hemisphere.	Noun	14.76
 5850	-	SUN	The physical world	The particular star at the centre of our solar system, from which the Earth gets light and heat.	Noun	1.52
 6993	-	SUNDAY	Time	The seventh day of the week in Europe and in systems using the ISO 8601 standard, or the first day of the week in the United States of America, the Sabbath for most Christians.	Noun	14.62
+894122	-	SUNFLOWER	Agriculture and vegetation	Annual plant with a large yellow flowering head of the genus Helianthus and the family of the Asteraceae.	Noun	-
 1525871	-	SURPASS	Motion	To go beyond a limit.	Verb	-
 6444	-	SURPRISED	Emotions and values	The feeling that something unexpected has happened.	Adjective	16.15
 699169	-	SURRENDER	Warfare and hunting	The act of surrendering to the enemy.	Verb	20.46
@@ -1523,6 +1540,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 5969	-	TOE	The body	One of the extremities of the foot.	Noun	4.38
 1244402	-	TOENAIL	The body	The hard horny plate on top of each toe.	Noun	-
 1444087	5916;6494	TOILET	Modern world	A room equipped with a toilet for urinating and defecating.	Noun	23.52
+423688	-	TOMATO	Food and drink	The savoury fruit of the Solanum lycopersicum, red when ripe.	Noun	-
 5808	402658	TOMORROW	Time	The day after the present day.	Function word	14.48
 1505799	-	TONGS	Food and drink	A tool that consists of two movable bars joined at one end, used to pick up an object.	Noun	5.391
 5440	-	TONGUE	The body	The flexible muscular organ in the mouth that is used to move food around, for tasting and that is moved into various positions to modify the flow of air from the lungs in order to produce different sounds.	Noun	4.26
@@ -1586,6 +1604,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 345436	-	VICTORY	Warfare and hunting	An end to a struggle or contest that did end in success.	Noun	20.41
 3968	687459	VILLAGE	Social and political relations	A group of houses and other buildings, such as a church, a school and some shops, which is smaller than a town, usually in the countryside.	Noun	19.16
 1510857	-	VINE	Agriculture and vegetation	the climbing plant (genus: Vitis) that produces grapes	Noun	8.67
+423392	-	VINEGAR	Food and drink	A sour liquid formed by the fermentation of alcohol with acetic acid bacteria used as a condiment or preservative.	Noun	-
 5899	-	VOICE	Speech and language	The sound and tones human beings are able to produce with the vocal cords.	Noun	18.11
 5617	-	VOMIT	The body	To regurgitate the contents of the stomach.	Verb	4.57
 531741	-	VULTURE	Animals	Any of several carrion-eating birds of the families Accipitridae and Cathartidae.	Noun	3.586
