@@ -64,7 +64,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 6078	-	AT	Spatial relations	With very little distance to or in a particular place or location.	Function word	12.013
 1108044	-	ATOP	Spatial relations	In a higher position, with respect to a lower one.	Function word	-
 337168	436121	ATTACK	Warfare and hunting	The application of violent force to someone or something.	Noun	20.43
-507273	-	AUBERGINE	Food and drink		An Asian plant, Solanum melongena, cultivated for its edible purple, green, or white ovoid fruit.	Noun	-
+507273	-	AUBERGINE	Food and drink	An Asian plant, Solanum melongena, cultivated for its edible purple, green, or white ovoid fruit.	Noun	-
 5591	-	AUNT	Kinship	A woman with one or more siblings who have one or more children; a sister of someone's father or mother.	Noun	2.52
 5615	-	AUTUMN	Time	The season after summer and before winter, traditionally from September 21 to December 20 in the northern hemisphere and from March 21 to June 20 in the southern hemisphere.	Noun	14.77
 1505847	-	AWL	Clothing and grooming	Pointed tool for marking or piercing wood or leather.	Noun	6.37
@@ -134,7 +134,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 961409	-	BEND	Basic actions and technology	Movement that causes the formation of a curve.	Verb	9.14
 384870	-	BERRY	Food and drink	A soft fruit which develops from a superior ovary and contains seeds not encased in pits.	Noun	-
 752575	-	BESIDE	Spatial relations	Having the position next to a given place, location or object	Function word	12.02
-1377747	-	BETEL PEPPER VINE	Agriculture and vegetation	A vine of the species "Piper betle" whose leaves are chewed for its medicinal properties.	Noun	-
+1377747	-	BETEL PEPPER VINE	Agriculture and vegetation	A vine of the species 'Piper betle' whose leaves are chewed for its medicinal properties.	Noun	-
 1431444	-	BETELNUT	Agriculture and vegetation	The seed of the areca palm (Areca catechu).	Noun	-
 837839	1415512	BETRAY	Cognition	To cause someone to believe an untruth; to practice trickery or fraud.	Verb	17.441
 334412	-	BETWEEN	Spatial relations	In the position or interval that separates two things.	Function word	-
@@ -290,7 +290,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1541228	-	CHONTA PALM	Agriculture and vegetation	species of flowering plant in the Arecaceae family, trunked palm tree which is endemic to the Juan Fernández Islands archipielago in the southeast Pacific Ocean west of Chile.	Noun	-
 7084	-	CHOOSE	Emotions and values	To make a choice from a number of alternatives.	Verb	16.622
 1329931	-	CHOP	Basic actions and technology	To cut meat, vegetables or fruits in very small pieces.	Verb	9.222
-941235	-	CHOPSTICKS	Food and drink		A pair of small equal-length tapered sticks, which are generally believed to have originated in ancient China, and are the traditional eating utensils of China, Japan, Korea, Taiwan, and Vietnam.	Noun	-
+941235	-	CHOPSTICKS	Food and drink	A pair of small equal-length tapered sticks, which are generally believed to have originated in ancient China, and are the traditional eating utensils of China, Japan, Korea, Taiwan, and Vietnam.	Noun	-
 587	-	CHURCH	Religion and belief	A building where Christian religious activities take place.	Noun	22.131
 419443	-	CIGARETTE	Modern world	A product manufactured out of cured and finely cut leaves, which are rolled or stuffed into a paper-wrapped cylinder for smoking.	Noun	23.59
 6135	-	CIRCLE	Spatial relations	A two-dimensional, geometric shape that is made up of every point on a plane which is equidistant from the centre. May be drawn with a pair of compasses.	Noun	12.82
@@ -606,7 +606,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 5793	5795	FRIEND	Social and political relations	A person other than a family member, spouse or lover whose company one enjoys and towards whom one feels affection.	Noun	19.51
 1504545	-	FRIGHTEN	Sense perception	To make someone afraid or anxious.	Verb	-
 1570	-	FROG	Animals	Any insectivorous anuran amphibian of the family Ranidae, such as Rana temporaria of Europe, having a short squat tailless body with a moist smooth skin and very long hind legs specialized for hopping.	Noun	3.95
-334719	-	FROM	Spatial relations	h	Indicates the source or provenance.	Function word	-
+334719	-	FROM	Spatial relations	Indicates the source or provenance.	Function word	-
 1541236	-	FRONT TOOTH, INEISOR	The body	several teeth located above and below in the mouth of mammals to bite food off.	Noun	-
 6280	-	FRUIT	Food and drink	A botanical fruit that can be eaten raw used as food	Noun	5.71
 425934	-	FRY	Food and drink	To cook in hot fat.	Verb	5.23
@@ -1379,7 +1379,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 6542	-	SOUTH	Spatial relations	One of the four major compass points, specifically 180°, directed toward the South Pole, and conventionally downwards on a map.	Noun	12.48
 341201	-	SOW SEEDS	Agriculture and vegetation	To scatter, disperse, or plant seeds.	Verb	8.31
 5871	-	SOW, FEMALE PIG	Animals	An adult female pig.	Noun	3.34
-909894	-	SOYA SAUCE	Food and drink		Sauce made from soybeans (soya beans), roasted grain, water and salt and is used as flavoring mainly in Asian cuisine.	Noun	-
+909894	-	SOYA SAUCE	Food and drink	Sauce made from soybeans (soya beans), roasted grain, water and salt and is used as flavoring mainly in Asian cuisine.	Noun	-
 525509	-	SPADE	Agriculture and vegetation	Tool having a flat and sharp metal tip and a wooden handle used to break, dig and move the earth.	Noun	8.23
 7891	-	SPARROW	animals	A small song bird, in the family Passeridae.	Noun	-
 6656	-	SPEAK	Speech and language	To communicate by the use of sounds that are interpreted as language; to communicate verbally.	Verb	18.21
