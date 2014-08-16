@@ -34,8 +34,9 @@
 if(document.URL.indexOf('?') != -1)
 {
 var concepticon = loadConcepticon();
-alert("loaded");
+
   var concept = document.URL.split('?')[1];
+  alert(concept+','+Object.keys(concepticon););
   var cdata = concepticon[concept];
   var header = concepticon['OMEGAWIKI'];
   
