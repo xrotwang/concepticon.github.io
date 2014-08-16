@@ -51,7 +51,7 @@ var concepticon = loadConcepticon();
       text += '<th>'+header[i]+'</th>';
       if(header[i] == 'WOLD')
       {
-        text += '<td><a target="_blank" href="http://wold.livingsources.org/meaning/'+item+'">'+item+'</a></td>';
+        text += '<td><a target="_blank" href="http://wold.livingsources.org/meaning/'+item.replace('.','-')+'">'+item+'</a></td>';
       }
       else
       {
