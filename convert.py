@@ -39,7 +39,10 @@ def data2object(path):
     return txtname,txt
 
 def data2json(path):
-    txtname = path.split('/')[-1].replace('.tsv','').split('_')[0]
+    txtname,*post = path.split('/')[-1].replace('.tsv','').split('_')
+    if post:
+        txtname += ':'+'-'.join(post)
+        
     data = csv2list(path)
     d = {}
     

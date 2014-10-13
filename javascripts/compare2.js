@@ -28,14 +28,14 @@ function getStuff() {
   var mytable = [];
   for (key in keys) {
     var tmp = [];
-    tmp.push(key);
+    tmp.push('<a target="_blank" href="http://www.omegawiki.org/DefinedMeaning:'+key+'">'+key+'</a>');
     try {
-      tmp.push(concepticon[key]['GLOSS']);
+      var gloss = concepticon[key]['GLOSS'];
+      tmp.push('<span style="cursor:pointer" onclick="showConcepticon(\''+key+'\');">'+gloss+'</span>');
     }
     catch (e) {
       tmp.push('<font color="red">???</font>');
     }
-    
     tmp.push(keys[key].length);
     var cnt = 0;
     for (var j=0,option; option=selected[j]; j++) {
@@ -91,3 +91,15 @@ function showEntry(eid) {
   document.getElementById('showentry').innerHTML = txt;
 }
 
+function showConcepticon(key) {
+  
+  var txt = '<table class="mytable">';
+  for (k in concepticon[key]) {
+    txt += '<tr>';
+    txt += '<th>'+k+'</th>';
+    txt += '<td style="max-width:400px;">'+concepticon[key][k][0]+'</td>';
+    txt += '</tr>';
+  }
+  txt += '</table>';
+  document.getElementById('showentry').innerHTML = txt;
+}

@@ -19,6 +19,8 @@ table.dataTable {
 table.dataTable thead th,
 table.dataTable tfoot th {
   font-weight: bold;
+  background-color: lightgray;
+  margin-top: 3px;
 }
 table.dataTable thead th,
 table.dataTable thead td {
