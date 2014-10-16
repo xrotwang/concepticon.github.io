@@ -338,7 +338,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 538459	-	COOKED RICE	Food and drink	Boiled rice.	Noun	-
 1510578	-	COOKHOUSE	The house	A small house where cooking takes place; a kitchen house.	Noun	7.17
 761	-	COPPER	Basic actions and technology	Chemical element with symbol Cu and atomic number 29; one of the most important nonferrous metals; a ductile and malleable metal found in various ores and used in industry, engineering, and the arts in both pure and alloyed form.	Noun	9.66
-763	-	CORAL SNAKE	Animals	The skeleton of certain solitary and colonial anthozoan coelenterates; composed chiefly of calcium carbonate.	Noun	-
+763	-	CORAL	Animals	The skeleton of certain solitary and colonial anthozoan coelenterates; composed chiefly of calcium carbonate.	Noun	-
 358081	-	CORMORANT	Animals	Medium sized, black water bird from the family of the cormorants (Phalacrocoracidae), scientific name: Phalacrocorax carbo	Noun	3.597
 1541269	-	CORN FIELD	Agriculture and vegetation	a field in which corn is grown.	Noun	-
 1404011	7729	CORNER	Spatial relations	The area around the point where two converging walls meet.	Noun	12.76
@@ -392,7 +392,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 5477	-	DAY OF LIGHT	Time	The period between sunrise and sunset where one enjoys daylight.	Noun	14.41
 6660	1042272	DEAD	The body	Not alive; lacking life.	Adjective	4.7501
 428203	-	DEAF	The body	Not having the faculty of hearing, or only having a restricted capability to hear.	Adjective	4.95
-1542714	-	DEAF MAN	The body	Person who is  partial or total unable to hear.	Noun	-
+1542714	-	DEAF PERSON	The body	Person who is  partial or total unable to hear.	Noun	-
 387598	-	DEATH	The body	The end of life.	Noun	-
 843	-	DEBT	Possession	Something owed to someone else.	Noun	11.64
 1030671	-	DECEIT	Emotions and values	The act or practice of deceiving.	Noun	16.68
@@ -1708,3 +1708,27 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 7132	-	YOUNGER SISTER	Kinship	A female who is younger than one or more of her siblings.	Noun	2.455
 5653	809644	ZERO	Quantity	The cardinal number that denotes no quantity or amount at all.	Function word	13
 6816	-	TRUE	Emotions and values	Concurring with a given set of facts.	Adjective	16.66
+5903	-	KITCHEN	The house	A room equipped for preparing and cooking food.	Noun	-
+1073134	-	STAIRS	The house	 A contiguous set of steps connecting two floors.	Noun	-
+527082	-	DIARREA	The body	 A condition in which the sufferer has frequent and watery bowel movements.	Noun	-
+910204	-	MANTOU	Food and drink	 Steamed bun made of flour, water and yeast originating from Chinese cuisine.	Noun	-
+927319	-	WANTON	Food and drink	 Stuffed dough wrap found in Chinese cuisine.	Noun	-
+1577338	-	BAOZI	Food and drink	 A baozi or simply known as bao, bau, humbow, nunu, bausak, pow or pau is a type of steamed, filled bun or bread-like (i.e. made with yeast) item in various Chinese cuisines.	Noun	-
+1175443	-	HUNCHBACK	Spatial relations	 A person whose back is hunched because of abnormal curvature of the upper spine.	Noun	-
+1577362	-	SEE A DOCTOR	Motion	 to see a doctor	Verb	-
+951229	-	SELF	Kinship	The essential qualities that make a person or a thing distinct from all others.	Function word	-
+338120	-	WHILE	Time	 A certain duration of time, a period of time	Noun	-
+1511042	-	ONE TIME	Time	An instance or occurrence of an event.	Function word	-
+1159914	-	JUST	Time	Only a very short time before.	Function word	-
+6134	-	EXACT	Emotions and values	 Without diversion from the desired or agreed specification; neither exceeding nor failling short in any way.	Adjective	-
+6806	-	INSTEAD	Spatial relations	 As a replacement for.	Function word	-
+441581	-	ON PURPOSE	Emotions and values	(doing or feeling something) in a deliberate or controlled way.	Function word	-
+1577366	-	THIS YEAR	Time	this year	Function word	-
+1577370	-	LAST YEAR	Time	last year	Function word	-
+1577374	-	NEXT YEAR	Time	next year	Function word	-
+1577378	-	CLASSIFIER FOR PERSONS	Quantity	classifier for persons	Function word	-
+1577388	-	FIREDRILL	Motion	A fire drill is a method of practicing the evacuation of a building for a fire or other emergency.	Noun	-
+419859	-	BE ABLE	Basic actions and technology	To have the ability to do something	Verb	-
+6142	-	SEARCH	Motion	To try to find something.	Verb	-
+720983	-	RESEMBLE	Spatial relations	To be like or similar to something else.	Verb	-
+348411	-	BACKBONE	The body	The body part that consists of a row of vertebrae, that support the head and torso and that forms a canal for nerves.	Noun	-
