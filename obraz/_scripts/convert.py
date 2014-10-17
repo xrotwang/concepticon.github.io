@@ -72,7 +72,7 @@ def data2json(path):
     return txtname,txt
 
 txt,maintxt = data2object('concepticon.tsv')
-files = glob('_scripts/data/conceptlists/*.tsv')
+files = glob('data/conceptlists/*.tsv')
 clists = []
 maintxt += 'var CNC = {\n'
 for i,f in enumerate(files):
@@ -88,8 +88,8 @@ for i,f in enumerate(files):
         print(f)
 maintxt += '};\n';
 
-with open('media/concepticon.js', 'w') as f:
+with open('../media/concepticon.js', 'w') as f:
     f.write(maintxt)
-    f.write('var main_list = '+json.dumps(clists)+';')
+    f.write('var main_list = '+json.dumps(sorted(clists))+';')
     
 

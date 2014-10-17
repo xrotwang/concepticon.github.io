@@ -32,7 +32,7 @@ for k in clists:
     for cref in crefs:
         bib[k]['reference'] += '<p class="reference">'
         bib[k]['reference'] += bib.format(cref, template='html')
-        bib[k]['reference'] += ' <sup><a class="evobib" href="http://bibliography.lingpy.org?key='+cref+'" target="_blank">REF</a></sup></p>'
+        bib[k]['reference'] += ' <a class="evobib" href="http://bibliography.lingpy.org?key='+cref+'" target="_blank">REF</a></p>'
     
     # make identifier
     if not bib[k]['shortauthor']:
@@ -59,12 +59,14 @@ out = ''
 with open('../list_include.md') as f:
     out += f.read()+'\n'
 
-out += '<div style="display:inline;min-width:400px;float:left">\n' 
+out += '<table style="border:0px solid white;width:100%"><tr><td style="border:0px solid white;vertical-align:top;width:50%">'
+out += '<div style="display:inline;float:left">\n' 
 
 
 idf2ref = {}
 count = 1
-out += '<table id="conceptlists" class="dataTable clists"><tr><th>No.</th><th>Compiler</th><th>Date</th><th>Items</th><th>INFO</th></tr><tbody>'
+out += '<table id="conceptlists" class="">'
+out += '<tbody>'
 for k in sorted(clists, key=lambda x: (bib[x]['author'], bib[x]['year'],
     bib[x]['items'])):
     
@@ -81,29 +83,35 @@ for k in sorted(clists, key=lambda x: (bib[x]['author'], bib[x]['year'],
     out += '<td><button class="btn-xs btn" onclick="showReference(\''+bib[k]['identifier']+'\')">?</button></td>'
     out += '</tr>'
 
-
 # write idf2ref to file
 with open('../media/identifiers.js','w') as f:
     f.write('var ref2idf = '+json.dumps(ref2idf)+';\n')
     
-out += '</tbody></table></div>'
-out += '<div style="position:absolute;float:left;display:inline" id="popup"></div>\n'
+out += '</tbody></table></div></td><td style="border:0px solid white;vertical-align:top;">'
+out += '<div style="float:left;display:inline" id="popup"></div>\n'
+out += '</td></tr></table>\n'
+out += '<script src="media/vendor/jquery.dataTables.js"></script>\n'
 out += '<script>'
 out += 'var REFS = ' + json.dumps(idf2ref)+';\n'
 out += r"""
 function showReference(ref) {
-
   var div = document.getElementById('popup');
   var text = REFS[decodeURI(ref)];
-  div.innerHTML = '<div class="outerreference"><div class="innerreference">'+text+'</div></div>';
-  
+  div.innerHTML = '<div class="outerreference"><div class="innerreference">'+text+'</div></div>'; 
   var tab = document.getElementById('conceptlists');
   for(var i=0,line; line=tab.rows[i]; i++) {
     line.style.backgroundColor = "white";
   }
   document.getElementById(decodeURI(ref)).style.backgroundColor = "Crimson";
 }
-
+var cols = [
+    {"title": "No."},
+    {"title": "Compiler"},
+    {"title": "Date"},
+    {"title" : "Item"},
+    {"title" : "Info"}
+];
+$("#conceptlists").dataTable({"columns":cols});
 var url = document.URL;
 if(url.indexOf('=') != -1) {
   var query = url.split('?')[1];
@@ -119,6 +127,7 @@ if(url.indexOf('=') != -1) {
 }
 """
 out += '</script>'
+
 
 with open('../lists.md','w') as f:
 
