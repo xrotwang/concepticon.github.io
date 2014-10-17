@@ -1,0 +1,13 @@
+<div id="sidebar">
+<ul>
+  {% for xpage in site.pages %}
+    {% if xpage.type == page.type %}
+      {% if xpage.status != 'toplevel' %}
+        <li>
+          <a href="{{ site.baseurl + xpage.url }}">{{ xpage.title }}</a>
+        </li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</ul>
+</div>

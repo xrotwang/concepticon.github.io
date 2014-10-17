@@ -1,0 +1,367 @@
+html, body, div, ul, li, h1, h2, h3, h4, h5, h6, form, textarea, input, p {
+  margin:0;padding:0;
+}
+ul li {
+  list-style:none;
+}
+
+
+/*========================= MAIN ============================*/
+body { 
+  background-color: Orange;
+  border: 5px solid Orange;
+  font-family: Helvetica;
+	font-size: 14px;
+	margin: 0;
+	padding: 0;
+	color: white;
+}
+#wrapper {
+  background: Orange;
+}
+
+#content {
+  float:left;
+  text-align:justify;
+  width: 90%;
+  background-color: White;
+  color: black;
+	padding: 3px;
+  font-size: 14px; 
+  border: none;
+}
+
+#content a{
+  color: DarkBlue;
+  font-weight:normal;
+  text-decoration:none;
+}
+#content a:hover{
+  text-decoration: underline;
+}
+
+#content a#simple{
+  text-decoration:none;
+  color:#000000;
+  font-weight:normal;
+}
+
+#header {
+  padding: 3px;
+  background-color: DarkGreen;  
+  border-bottom: 5px solid Orange;
+}
+
+#logo {
+  display: none;
+}
+
+#header a{
+  display: none;
+}
+
+/* mainnav */
+#mainnav {
+  position: relative;
+  left: 0px;
+  top: 2px;
+  clear: both;
+}
+/* DROPDOWN CSS */
+
+#nav a {
+  display: block;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight:bold;
+}
+
+#nav ul li a {
+  //width: auto;
+  text-transform: uppercase;
+  font-size: 105%;
+  //border-top: 0px solid Orange;
+  font-weight:normal;
+  color: white;
+}
+#nav li { /* all list items */
+  margin:0;
+  float: none;
+  padding:0;
+  color: white; 
+}
+
+#nav li ul { /* second-level lists */
+  position: relative;
+	left: 20px; 
+  background-color: transparent;
+  font-size: 95%;
+  border: none;
+}
+
+
+.mfoc:hover {
+  text-decoration: underline; 
+  font-size: 15px;
+}
+
+.hide {
+	display: none;
+}
+
+#introduction a {
+	color: DarkGreen;
+	font-size: 16px;
+	text-align: center;
+}
+
+#menubutton {
+	position: absolute;
+	padding: 3px;
+	top: 5px;
+	left: 5px;
+	cursor: pointer;
+	font-weight: bold;
+	text-align: center;
+	//color: white;
+	font-size: 14px;
+	//text-shadow: rgba(0,0,0,6) 0px - 1px 1px;
+	//border-width: 0 8px 0 8px;
+	//background-color: DarkGreen;
+	//-webkit-border-image: url(images/button.png) 0 8 0 8;
+}
+.unpressed {
+	background-color: DarkGreen;
+	color: white;
+}
+
+#progress {
+ background-color: black;
+ color: white;
+ font-size: 20px;
+ font-weight: bold;
+ height: 80px;
+ left: auto;
+ //position: absolute;
+ text-align: center;
+ //top:120px;
+ width: 200px;
+}
+.pressed {
+	color: Orange;
+	background-color: DarkGreen;
+	//border: 2px solid DarkGreen;
+}
+/* footer */
+#footer {
+  clear:both;padding: 10px;
+  font-size: 10px;
+  background-color: DarkGreen;
+  color: #FFFFFF;
+  border-top: 5px solid Orange;
+  border-bottom: 5px solid Orange;
+}
+#footer p {
+  text-align:center;
+	font-size: 10px;
+}
+#footer #anysurfer {
+  float:right;margin-left: 10px;
+border:none;}
+#footer a {
+	border-bottom: 1px dotted #fff;
+	text-decoration: none;
+	color:#FFFFFF;}
+
+
+
+/*========================= SUBNAV ============================*/
+#wrapper #subnav { 
+  display: none;
+}
+.clearfix { 
+  background-color: White;
+  overflow: hidden;
+  max-width:720px;
+  margin-left: 0px;
+
+}
+
+div#introduction {
+  display: block;
+  background-color: Orange;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  max-width: 720px;
+  font-size: 200%;
+}
+
+.alert {
+  font-weight:bold;
+  color:red;
+}
+
+#content ul li{
+  list-style:disc;
+  margin-left: 20px;
+  padding:0px 10px 10px 0px;
+}
+#content td{
+  float:justify;
+}
+
+#content p.resources {
+  padding-top: 10px;
+  padding-bottom: 5px;
+  margin-left: -2px;
+  text-align: right;
+}
+
+#content a.resource {
+  font-size: 75%;
+  padding: 3px;
+  border: 3px ridge lightgray;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+#content a.pdf {
+				color:white;
+				background-color: red;
+
+}
+
+#content a.url {
+				background-color: orange;
+}
+
+#content a.doi {
+				background-color: Black;
+}
+#content a.code {
+				background-color: blue;
+}
+#content a.supplement {
+				background-color: YellowGreen;
+}
+#content a.draft {
+				background-color: Tan;
+}
+#content a.bibtex {
+				background-color: DarkGreen;
+}
+#content a.slides {
+				background-color: red;
+}
+#content a.abstract {
+				background-color: blue;
+}
+#content a.handout {
+				background-color: LightSkyBlue;
+}
+#content a.handouts {
+				background-color: LightSkyBlue;
+}
+#content a.material {
+				background-color: green;
+}
+#content hr.htrenner {
+				background-color: #79c56e;
+				border: 1px solid #ffffff;
+				height: 4px;
+}
+#content span.title {
+				font-weight: bold;
+}
+
+div#introduction{
+				display: none
+}
+
+#content a.target_link {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+#content a.target_link:hover {
+  text-decoration: none;
+}
+.teaching li {
+  list-style: none;
+}
+.teaching p {
+  text-align: justify;
+  font-weight: normal;
+  font-size: normal;
+}
+.teaching > p > span.title {
+  font-weight: bold;
+}
+.teaching > p span.handouts {
+  background-color: lightblue;
+  border: 3px solid gray;
+}
+.teaching > p > span.hanoduts > a{
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+}
+
+
+h1 {
+  font-weight: bold;
+  font-size: 120%;
+  margin-bottom: 20px;
+}
+h2 {
+  font-weight: bold;
+  font-size: 105%;
+  margin-bottom: 10px;
+}
+h3 {
+  font-weight: bold;
+  font-size: 100%;
+  margin-bottom: 10px;
+}
+
+section.hentry {
+  background-color: white;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+li.paper {
+  list-style: none;
+  padding: 5px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+li.paper:nth-child(even) {background: white;}
+li.paper:nth-child(odd){background: lightgray;}
+
+li.img {
+  float: left;
+  display: inline;
+  list-style: none;
+  margin: 5px;
+}
+li.img img {
+  width: 80%;
+  display: inline;
+  margin: 5px;
+}
+
+.wrap {
+  padding: 0px;
+  margin: 0px;
+}
+
+.bibframe {
+  width: 95%;
+}

@@ -1,0 +1,10 @@
+article	{author} {year}{title}{subtitle}{userb}{usera}. {journal}{volume}{number} {pages}
+book	{author} {year}{title}{subtitle}{userb}{usera}. {publisher}{address}
+incollection	{author} {year}{title}{subtitle}{userb}{usera}. In: {editor}{booktitle}{publisher}{address} {pages}
+inproceedings	{author} {year}{title}{subtitle}{userb}{usera}. In: {booktitle}{organization} {pages}
+misc	{author} {year}{title}{subtitle}{userb}{usera}. {howpublished}
+customa	{author} {year}{title}{subtitle}{userb}{usera}. {howpublished} {eventtitle} ({eventdate}, {venue}{organization}).
+lecture	{author} {year}{title}{subtitle} {usera}. {institution}{organization}.
+thesis	{author} {year}{title}{subtitle} {usera}. {thesis_type}. {institution}.
+conceptlist	<table class="reference dataTable"> <tr><th>Identifier</th><td>{identifier}</td></tr> <tr><th>Compiler</th><td>{author}</td></tr> <tr><th>Date</th><td>{date}</td></tr> <tr><th>Items</th><td>{items}</td></tr> <tr><th>Source L.</th><td>{source_language}</td></tr> <tr><th>Target L.</th><td>{target_language}</td></tr> <tr><th>References</th><td>{reference}</td></tr> <tr><th>Note</th><td>{note}</td></tr><tr><th>View</th><td><a href="https://github.com/concepticon/lists/blob/master/conceptlists/{source_url}.tsv">RAW</a> <a href="compare.html?conceptlist={identifier}">BROWSE</a></td></tr> <table>
+online	{author}{editor_with_suffix} {year}{title}{subtitle}{userb}{usera}. {howpublished}{url}

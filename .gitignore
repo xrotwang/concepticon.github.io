@@ -1,1 +1,4 @@
-data/conceptlists/
+data/
+obraz/_site
+obraz/concepticon.tsv
+obraz/_scripts/data/conceptlists

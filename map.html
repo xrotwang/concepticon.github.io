@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>
+      Concepticon
+    </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="description" content="Linked Swadesh Lists">
+    <meta name="keywords" content="linguistics, historical linguistics">
+    <meta NAME="resource-type" CONTENT="linguistics,historical linguistics">
+    <meta name="distribution" CONTENT="global">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="user-scalable=no, width=device-width" />
+   
+    <link rel="stylesheet" type="text/css" href="./css/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="./css/navbar.css" />
+    <link rel="stylesheet" type="text/css" href="./css/jquery.dataTables.css" />
+    <link rel="stylesheet" type="text/css" href="./css/highlight.min.css" />
+    <link rel="stylesheet" type="text/css" href="./css/main.css" />
+    <link rel="stylesheet" type="text/css" href="./css/handheld.css" media="screen and (max-width: 680px)" />
+    <link rel="icon" href="./media/favicon.png" type="image/png">  
+    <script src="./media/jquery.js"></script>
+    <script src="./media/main.js"></script>
+    <script src="./media/bootstrap.js"></script>
+    <script src="./media/highlight.pack.js"></script>
+
+    
+    <!-- Custom CSS -->
+</head>
+<body>
+  <div id="mainwrap">
+    <header class="site-header">
+
+<div class="wrap">
+  <a class="site-title" href="http://conception.github.io/"><img src="./media/trees.png" style="padding:2px;margin-top:0px;background-color:DarkBlue;height:60px" alt="trees" /></a>
+  <!--<a class="site-title" style="opacity:0.6;color:DarkOrange;margin-left:20px;margin-top:7px;" href="#">Map</a>-->
+
+  <nav class="site-nav">
+    <a href="#" class="menu-icon">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 18 15" enable-background="new 0 0 18 15" xml:space="preserve">
+        <path fill="Crimson" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0
+        h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+        <path fill="Crimson" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484
+        h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+        <path fill="Crimson" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0
+        c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+      </svg>
+    </a>
+    <div class="trigger">
+      <ul class="nav navbar-nav">
+      <li id="navigation_home"><a href="./index.html">Home</a></li>
+      
+        
+          
+          
+        
+      
+        
+          
+          
+          <li id="navigation_about"><a href="./about.html">About</a></li>
+          
+        
+      
+        
+          
+          
+          <li id="navigation_browse"><a href="./browse.html">Browse</a></li>
+          
+        
+      
+        
+          
+          
+          <li id="navigation_map"><a href="./map.html">Map</a></li>
+          
+        
+      
+        
+          
+          
+          <li id="navigation_lists"><a href="./lists.html">Lists</a></li>
+          
+        
+      
+        
+          
+          
+          <li id="navigation_compare"><a href="./compare.html">Compare</a></li>
+          
+        
+      
+      </ul>
+    </div>
+  </nav>
+</header>
+<script>
+var cur = document.URL.split('/');
+var curl = cur[cur.length -1].split('.')[0];
+console.log(curl);
+if (curl != 'index') {
+document.getElementById('navigation_'+curl).className += 'active';
+}
+else {
+  document.getElementById('navigation_home').className += 'active';
+}
+</script>
+
+    <div id="content-wrap">
+      <div id="content">
+        <div style="display:none">t3</div>
+
+<script type="text/javascript" src="javascripts/vendor/jquery-1.11.1.min.js"></script>
+
+<script type="text/javascript" src="javascripts/vendor/sorttable.js"></script>
+
+<script type="text/javascript" src="javascripts/vendor/filesaver.js"></script>
+
+<script type="text/javascript" src="javascripts/compare.js"></script>
+
+<style>
+table {
+  border: 2px solid black;
+}
+td {
+  max-width: 250px;
+}
+.DEFINITION {
+  border: 1px solid gray;
+  max-width: 400px;
+  font-size: 80%;
+}
+/* Sortable tables */
+table.sortable thead {
+  background-color:lightgray;
+  color:#000000;
+  //font-weight: bold;
+  cursor: pointer;
+}
+
+span.hovera{
+  color: red;
+  font-weight: bold;
+}
+div.hoverb{
+  display:none;
+}
+span.hovera:hover .hoverb{
+  display: block;
+  font-weight: normal;
+  background-color: CornFlowerBlue;
+  color: white;
+}
+tr {
+  border: 1px solid black;
+}
+</style>
+
+<script>
+if (window.File && window.FileReader && window.FileList && window.Blob) 
+{
+}
+else
+{
+  alert("The File APIs are not fully supported in this browser.");
+}
+
+</script>
+
+<div id="storeA" style="display:none"></div>
+
+<div id="storeB" style="display:none"></div>
+
+<p>
+<div style="border:2px solid Darkblue;padding:10px;display:block;background-color:white;border-radius:10px;">
+<div class="btn-group">
+<input type="file" id="file" name="file" accept=".tsv" class="btn" />
+<input style="margin-right:5px" type="button" id="showstuff" name="showstuff" value="SHOW" onclick="showData();" class="btn"/>
+<input style="margin-right:5px" type="button" id="showstuff" name="showstuff" value="EXPORT" onclick="exportData();" class="btn"/>
+</div>
+<div id="db"></div>
+<script>
+document.getElementById('file').addEventListener('change', fileSelect('storeB'), false);
+</script>
+<script>
+loadFile('data/concepticonF.tsv',false,'storeA');
+function showData()
+{
+  var db = document.getElementById('db');
+  var csv1 = getCSV('storeA');
+  var csv2 = getCSV('storeB');
+
+  // extract glosses
+  var glossesA = {};
+  for(key in csv1)
+  {
+    if(key != 'header')
+    {
+      var fgloss = csv1[key]['fgloss'];
+      if(fgloss in glossesA)
+      {
+        glossesA[fgloss] = glossesA[fgloss]+'/'+key;
+      }
+      else
+      {
+        glossesA[fgloss] = key;
+      }
+    }
+  }
+  var commons = '';
+  var count = 0;
+  var scount = 0;
+  var vcount = 0;
+  var fcount = 0;
+  var mcount = 0;
+
+  var glossesB = [];
+  for(key in csv2)
+  {
+    commons += '\n';
+    if(key != 'header')
+    {
+      var gloss = csv2[key]['gloss'].toLowerCase();
+      if(gloss in glossesA)
+      {
+        var textf = ''; //'\t'+key+'\t'+gloss;
+        var text = '';
+        for(k in csv2[key])
+        {
+          textf += '\t'+csv2[key][k];
+        }
+        if(glossesA[gloss].indexOf('/') != -1)
+        {
+          var keys = glossesA[gloss].split('/');
+          for(var i=0,k;k=keys[i];i++)
+          {
+            text += '!' + textf + '\t' + csv1[k]['omegawiki']+'\t'+csv1[k]['gloss']+'\n';
+          }
+          scount += 1;
+        }
+        else
+        {
+          count += 1;
+          text = '+'+textf+'\t'+csv1[glossesA[gloss]]['omegawiki']+'\t'+csv1[glossesA[gloss]]['gloss'] + '\n';
+        }
+        commons += text;
+      }
+      else if(gloss.replace(/^to /,'').replace(/[?!\.]/,'') in glossesA)
+      {
+        vcount += 1;
+        var ngloss = gloss.replace(/^to /,'').replace(/[?!]/,'');
+        var textf = '?';
+        var text = '';
+        for(k in csv2[key])
+        {
+          textf += '\t'+csv2[key][k];
+        }
+        if(glossesA[ngloss].indexOf('/') != -1)
+        {
+          var keys = glossesA[ngloss].split('/');
+          for(var i=0,k;k=keys[i];i++)
+          {
+            text += textf + '\t' + csv1[k]['omegawiki']+'\t'+csv1[k]['gloss']+'\n';
+          }
+        }
+        else
+        {
+          text += textf + '\t'+csv1[glossesA[ngloss]]['omegawiki']+'\t'+csv1[glossesA[ngloss]]['gloss']+'\n';
+        }
+        commons += text;
+      }
+      else
+      {
+        // try to split the stuff and to search for indirect matches
+        var ngloss = gloss.replace(/^to /,'').replace(/[?!()]/,'').replace(/\//,',');
+        var nglosses = ngloss.split(/[\/\s,;]+/g);
+        var matches = [];
+        for(i=0;i<nglosses.length;i++)
+        {
+          k = nglosses[i].replace(/\s/g,'');
+
+          if(k in glossesA)
+          {
+            matches.push(k.toLowerCase())
+          }
+        }
+        if(matches.length >= 1)
+        {
+          fcount += 1;
+          var textf = '%'; //+'\t'+key+'\t'+gloss;
+          var text = '';
+          for(k in csv2[key])
+          {
+            textf += '\t'+csv2[key][k];
+          }
+          var texta = '';
+          for(var i=0;i<matches.length;i++)
+          {
+            var m = matches[i];
+            if(glossesA[m].indexOf('/') != -1)
+            {
+              var keys = glossesA[m].split('/');
+              for(var j=0,k;k=keys[j];j++)
+              {
+                text += textf+'\t'+csv1[k]['omegawiki']+'\t'+csv1[k]['gloss']+'\n'
+              }
+            }
+            else
+            {
+              texta += textf+'\t'+csv1[glossesA[m]]['omegawiki']+'\t'+csv1[glossesA[m]]['gloss']+'\n';
+            }
+          }
+          commons += text + texta; // + '\t'+texts.join('; ')+'\n';
+        }
+        else
+        {
+          var text = '-';
+          for(k in csv2[key])
+          {
+            text += '\t'+csv2[key][k];
+          }
+          text += '\t?\n';
+          commons += text;
+          mcount += 1;
+        }
+      }
+    }
+  }
+  var head = 'MATCH';
+  for(k in csv2["header"])
+  {
+    head += '\t'+csv2['header'][k].toUpperCase();
+  }
+  head += '\tOMEGAWIKI\tCGLOSS\n';
+  db.innerHTML = count+' direct matches (+)<br>'+scount+' multiple matches (!)<br>'+vcount+' indirect matches (?)<br>'+fcount+' fuzzy matches (%)<br>'+mcount+' mismatches (-)'; 
+
+  db.innerHTML += '<br><textarea style="padding:20px;border:2px solid Crimson;background-color: lightgray;" id="mytext" rows="80" cols="60">'+head+commons+'</textarea>';
+}
+
+function exportData()
+{
+  var storeB = document.getElementById('mytext');
+  new_text = storeB.value;
+  var blob = new Blob([new_text], {type: "text/plain;charset=utf-8"});
+  saveAs(blob, 'merged.tsv');  
+}
+</script>
+</div></p>
+
+<h1>Mapping concept lists to the Concepticon</h1>
+<p>Suppose you are currently compiling a dataset which you want to explore with help of computational tools. If you do so, you will probably have some kind
+of concept list which determines the initial selection of cognate sets. 
+Mapping this concept list the the Concepticon will offer many advantages:
+You can</p>
+<ul>
+<li>easily extract sublist of other database projects and compare their findings with yours (provided these projects are also mapped to the Concepticon),</li>
+<li>easily retrieve stability indices for concepts which are less prone to change than others, since the Concepticon provides mappings to ranked concept lists, like, for example, the <em>Leipzig Jakarta Index</em> of the <a href="wold.clld.org">WOLD project</a>.</li>
+<li>make full use of other kinds of data provided along with the Concepticon, like definitions of concepts, links to other resources, etc.</li>
+</ul>
+<h1>How to map a concept list to the concepticon</h1>
+<p>All you need to make an initial mapping from your concept list to the Concepticon is a tab-separated value file which stores all your concepts.
+This file can contain as many columns as you want, as long as one of the columns is named "GLOSS" (this is what we need to carry out an initial mapping). You also need to make sure that the first line gives all column names, while the following lines give the data. 
+As a simple example for such a format, consider the following example:</p>
+<pre><code>NUMBER   GLOSS
+1   HAND
+2   FOOT
+3   LEG
+</code></pre>
+
+<p>If you browse this data with help of our concept mapper, it will give you the following output (which you can download):
+<pre><code>MATCH    NUMBER  GLOSS   OMEGAWIKI   CGLOSS
+!   1   hand    1527192 CARRY IN HAND
+!   1   hand    5616    HAND
+!   1   hand    529277  PALM OF HAND<br />
++   2   foot    5672    FOOT<br />
+!   3   leg 156660  CALF OF LEG
+!   3   leg 5665    LEG
+!   3   leg 1541261 LOWER LEG
+!   3   leg 1543636 UPPER LEG
+</code></pre></p>
+<p>The column on the left displays the kind of mapping, our method could find. We distinguish:</p>
+<ul>
+<li>direct matches (+)</li>
+<li>multiple matches (!)</li>
+<li>indirect matches (?)</li>
+<li>fuzzy matches (%), and</li>
+<li>mismatches (-)</li>
+</ul>
+<p>The last two columns give you:</p>
+<ul>
+<li>the link to the Concepticon (in case one possible mapping could be found), and </li>
+<li>the basic gloss we use to denote the concept.</li>
+</ul>
+<p>As you can see from the example, the concept mapper searches for quite a few different mapping possibilities. 
+So you will have to edit the file yourself by deleting those lines which do not quite match with the concepts you had in mind. However, making the mapping procedure more exact will also force you to look for missing concepts youself. Currently, we think it is more useful to provide more mapping possibilities than less.</p>
+<h1>Using the concept mapper</h1>
+<p>In order to use the concept mapper, follow the following steps:</p>
+<ul>
+<li>Upload a file with help of the BROWSE button on the left.</li>
+<li>Load the file-content by pressing the SHOW button.</li>
+<li>Edit the text in the browser according to your wishes (remove multiple matches, add
+    missing matches, etc.).</li>
+<li>Save the edited file content by pressing the EXPORT button and specifying a
+    download location.</li>
+</ul>
+      </div>
+    </div>
+    <script type="text/javascript">
+$(document).ready(function () {
+  hljs.initHighlightingOnLoad();
+});
+    </script>
+    <footer class="site-footer">
+<div class="wrap">
+
+  <div class="footer-col-1 column">
+    <p>
+    Created using <a href="http://obraz.pirx.ru/">Obraz</a>.      </ul>
+    </p>
+  </div>
+
+  <div class="footer-col-2 column">
+    <p class="text">
+      Last updated on 2014-10-17 17:11:27.150448.
+    </p>
+    <p>
+      This work is licensed under a 
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">
+        Creative Commons Attribution-NonCommercial 3.0 Unported License</a>.
+    </p>
+    <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">
+      <img alt="Creative Commons License" style="border-width:0;max-width:80px;width:15%;" src="http://i.creativecommons.org/l/by-nc/3.0/88x31.png" />
+    </a>
+  </div>
+
+  <div class="footer-col-3 column">
+    <p>
+    
+    <a href="https://github.com/concepticon">
+      <span style="max-width:50px;width:20%;" class="icon github">
+        <svg style="width:50px" version="1.1" class="github-icon-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+          <path fill-rule="evenodd" clip-rule="evenodd" fill="Crimson" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761
+          c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32
+          c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472
+          c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037
+          C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65
+          c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261
+          c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082
+          c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129
+          c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/>
+        </svg>
+      </span>
+      <span class="username">concepticon</span>
+    </a>
+    </p>
+  </div>
+
+
+</div>
+
+</footer>
+   <!--<div class="break"></div>
+    <footer>
+      <address>Copyright © 2014 Johann-Mattis List</address>
+      <div>Except as noted, the content is licensed under the terms of a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons License</a>.</div>
+      <div>Last updated: 2014-10-17. Created using <a href="http://obraz.pirx.ru/">Obraz</a>. See the <a href="https://bitbucket.org/vlasovskikh/obraz/src/public/doc/map.md">source code</a> of the page.</div>
+      </footer>-->
+  </div>
+</body>
+</html>

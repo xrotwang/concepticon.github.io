@@ -1,0 +1,7 @@
+url: http://conception.github.io
+#baseurl: file:///home/mattis/projects/organisation/websites/lingulist-obraz/_site
+#baseurl: . 
+baseurl: .
+lessc: /usr/bin/lessc
+github_username: concepticon
+title: Concepticon
