@@ -31,7 +31,7 @@ function getCSV(dest)
 
   var store = document.getElementById(dest);
   var data = store.innerText;
-  var lines = data.split('\n');
+  var lines = data.split(/\n|\r\n/);
   var counter = 0;
   var start = 0;
   var CSV = {};
@@ -57,6 +57,7 @@ function getCSV(dest)
       }
       else
       {
+        console.log(line);
         start = 1;
         counter = 1;
         var points = line.split('\t');
@@ -71,6 +72,8 @@ function getCSV(dest)
     }
   }
   CSV['header'] = header;
+  console.log(header);
+  console.log(CSV);
 
   return CSV;
 }

@@ -1,3 +1,4 @@
+/* basic function to load a given set of concept lists */
 function getStuff() {
   var selector = document.getElementById('selectlists');
   var selected = [];
@@ -12,14 +13,12 @@ function getStuff() {
   // get all keys in the data
   for (var i=0,option; option = selected[i]; i++) {
     for (key in CNC[option]) {
-      //console.log(option,key);
       try {
-	keys[key].push(option); // = CNC[option][key]['GLOSS'];
+	keys[key].push(option);
       }
       catch (e) {
 	keys[key] = [];
 	keys[key].push(option);
-	//keys[key][option] = CNC[option][key]['GLOSS'];
       }
     }
   }
@@ -34,25 +33,35 @@ function getStuff() {
       tmp.push('<span style="cursor:pointer" onclick="showConcepticon(\''+key+'\');">'+gloss+'</span>');
     }
     catch (e) {
-      tmp.push('<font color="red">???</font>');
+      tmp.push('<font color="red">?'+key+'?</font>');
     }
     tmp.push(keys[key].length);
     var cnt = 0;
     for (var j=0,option; option=selected[j]; j++) {
       if (keys[key].indexOf(option) != -1) {
-	try {
-	  tmp.push(
-	      '<span style="cursor:pointer" onclick="showEntry(this.id);" id="' + option + ':' + key+ '" class="entry">' + 
-	      CNC[option][key]['GLOSS'].join(' / ') + '</span>'
-	      );
-	}
-	catch (e) {
-	  tmp.push('<font color="red">???</font>');
-	}
-	cnt += 1;
+	      try {
+          
+          /* check for multilinks */
+          var tmp_gloss = CNC[option][key]['GLOSS'].join(' / ');
+          var tmp_txt = '<span style="cursor:pointer;';
+          if (tmp_gloss in MULTIGLOSS[option]) {
+            tmp_txt += 'color:Green;';
+          }
+          if (key in MULTIKEY[option]) {
+            tmp_txt += 'font-weight:bold;';
+          }
+          tmp_txt += '" onclick="showEntry(this.id);" id="' + option + ':' + key + '" class="entry">'
+            + tmp_gloss + '</span>';
+
+	        tmp.push(tmp_txt);
+	      }
+	      catch (e) {
+	        tmp.push('<font color="red">???</font>');
+	      }
+	      cnt += 1;
       }
       else {
-	tmp.push('-');
+	      tmp.push('-');
       }
     }
     tmp[2] = cnt;
@@ -67,7 +76,7 @@ function getStuff() {
   console.log('bis hier');
   
   document.getElementById('datatable').style.display = 'block';
-  $('#datatable').html('<table cellpadding="0" style="width:80%;max=width:1000px" cellspacing="0" border="0" class="display" id="datatab"></table>');
+  $('#datatable').html('<table cellpadding="0" style="width:80%;max=width:1000px" cellspacing="0" border="0" class="displayb" id="datatab"></table>');
 
   console.log(cols,mytable);
   

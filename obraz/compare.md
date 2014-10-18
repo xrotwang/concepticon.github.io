@@ -16,7 +16,6 @@ title: Compare
 # Concept Comparison
 
 <div id="popup"></div>
-
 <div style="display:block">
 <div style="float:left; display: inline;" id="selector"></div>
 <button class="btn btn-default" style="margin-left: 10px;" id="start" value="OK" 
@@ -24,7 +23,7 @@ title: Compare
 <div id="showentry" style="float:left; display: inline"></div>
 </div>
 <br><br>
-<div style="float:left; display: none; padding:20px; border:2px solid DarkBlue;border-radius:10px;margin-top:20px;" id="datatable"></div>
+<div style="display: none; padding:20px; border:2px solid DarkBlue;border-radius:10px;margin-top:20px;" id="datatable"></div>
 <script>
 var selector = document.getElementById('selector');
 var txt = '';
@@ -74,9 +73,7 @@ $('#selectlists').multiselect({
     }
 });
 </script>
- 
-<p style="display:block;float:left; width:100%;">
+
 In order to compare different concept lists with each other, just select the concept lists you want to compare
 from the select box above and press OK. When comparing two or more lists, just click on the cells to see more details
-for the respective cell of the concept list.
-</p>
+for the respective cell of the concept list. Sometimes, one entry in the Concepticon may link to two concepts in a source (we do this in cases where the meaning is just too specific to be included). These entries are marked in bold font in the source, and all entries linked to the same key are displayed, separated by the slash (/) character. In other cases, one concept in the source will be linked to two or more concepts in the concepticon. This usually occurs when the source is not specific enough to allow to determine what the authors really intended, or if the given language family for which the source was originally compiled does not really make a distinction between the concepts. As an example, consider the item "burn" which was labelled "intransitive" in [Swadesh (1952)](http://bibliography.lingpy.org?key=Swadesh1952), but "transitive" in [Swadesh (1955)](http://bibliography.lingpy.org?key=Swadesh1955). When dealing with South-East Asian languages, like the Sinitic family, for example, the distinction between transitive and intransitive is often only expressed in context (compare, for example, the modified Swadesh list compiled by [Wang 2006](compare.html?conceptlist=Wang-2006-200)). So in these cases, it is not possible to determine whether the concept should be mapped to "BURN SOMETHING" or "BURN", and we link it to both concepts in the Concepticon.
