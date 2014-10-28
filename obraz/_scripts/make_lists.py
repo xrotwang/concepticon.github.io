@@ -10,7 +10,7 @@ __author__="Johann-Mattis List"
 __date__="2014-10-17"
 
 
-from bibtex import *
+from lingpyd.plugins.bibtex.bibtex import *
 import markdown
 import json
 
@@ -32,7 +32,9 @@ for k in clists:
     for cref in crefs:
         bib[k]['reference'] += '<p class="reference">'
         bib[k]['reference'] += bib.format(cref, template='html')
-        bib[k]['reference'] += ' <a class="evobib" href="http://bibliography.lingpy.org?key='+cref+'" target="_blank">REF</a></p>'
+        bib[k]['reference'] += ' <a class="evobib" href="http://bibliography.lingpy.org?key='+cref+'" target="_blank">REF</a>' 
+        bib[k]['reference'] += ' <a class="evobib" href="https://github.com/concepticon/lists/blob/master/sources/' + cref + '.pdf?raw=true" target="_blank">PDF</a>'
+        bib[k]['reference'] += '</p>'
     
     # make identifier
     if not bib[k]['shortauthor']:
@@ -134,3 +136,5 @@ with open('../lists.md','w') as f:
     f.write('---\nlayout: default\nstatus: toplevelnc\ntitle: Lists\n---\n')
     f.write('<div style="display:none">t5</div>\n\n')
     f.write(out)
+
+print("Finished stuff")
