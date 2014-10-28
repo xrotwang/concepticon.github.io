@@ -1505,7 +1505,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 6099	-	LADDER	The house	A frame usually portable, of wood, metal, or rope, for ascent and descent, consisting of two vertical side pieces to which are horizontally fastened cross strips or rounds forming steps.	Noun	7.37
 2062	-	LAMP	The house	A device that produces light, such as an electric lamp.	Noun	7.45
 433601	-	LATCH	The house	A fastening for a door that has a bar that fits into a notch or slot, and is lifted by a lever or string from either side.	Noun	7231
-478515	-	LIVE	The house	To have permanent residence.	Verb	7.11
+478515	-	RESIDE	The house	To have permanent residence.	Verb	7.11
 6546	-	LOCK	The house	Something used for fastening, which can only be opened with a key or combination.	Noun	7.23
 372205	-	MASON	The house	A craftsman who builds in stone or brick otherwise known as masonry.	Noun	7.61
 1510584	-	MEETING HOUSE	The house	A building where people meet for a purpose.	Noun	7.18
@@ -1764,3 +1764,9 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 359542	-	THIRST	Food and drink	A physiological need to drink.	Noun	-
 420726	-	WEAR	Clothing and grooming	Fix clothes on your body and carry them.	Verb	-
 339008	-	YOURS	Miscellaneous function words	Belonging to you.	Function word	-
+4190	-	INFANT	Kinship	A young child in the first years of life.	Noun	-
+683023	-	PUPIL	The body	Contractile aperture in iris.	Noun	-
+5781	-	APPLE	Agriculture and vegetation	The popular, crisp, round fruit of the apple tree, usually with red, yellow or green skin, light-coloured flesh and pips inside.	Noun	-
+903188	-	BOMBARDEMENT	Modern world	An attack with bombs.	Noun	-
+1571	-	FROST	The physical world	A deposit of interlocking ice crystals formed by direct sublimation on objects.	Noun	-
+1746		HEAT	The physical world	A form of energy that is transferred by a difference in temperature: it is equal to the total kinetic energy of the atoms or molecules of a system.	Noun	-
