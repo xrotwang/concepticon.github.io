@@ -361,8 +361,10 @@ OMEGAWIKI	FGLOSS	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 351006	do	-	DO	Basic actions and technology	To act, to behave.	Verb	9.11
 840722	draw	339936	DRAW WATER	Basic actions and technology	To draw by a physical force causing or tending to cause to approach, adhere, or unite	Verb	9.9
 840722	water	339936	DRAW WATER	Basic actions and technology	To draw by a physical force causing or tending to cause to approach, adhere, or unite	Verb	9.9
-7277	dry	-	DRY UP	Basic actions and technology	To lose moisture, usually through evaporation or absorption.	Verb	-
-7277	up	-	DRY UP	Basic actions and technology	To lose moisture, usually through evaporation or absorption.	Verb	-
+7277	dry	980597	DRY UP	Basic actions and technology	To lose moisture, usually through evaporation or absorption.	Verb	-
+7277	up	980597	DRY UP	Basic actions and technology	To lose moisture, usually through evaporation or absorption.	Verb	-
+980597	make	7277	MAKE DRY	Basic actions and technology	To remove the moisture and make dry.	Verb	-
+980597	dry	7277	MAKE DRY	Basic actions and technology	To remove the moisture and make dry.	Verb	-
 465364	emerge	-	EMERGE, APPEAR	Basic actions and technology	To become known or apparent.	Verb	-
 465364	appear	-	EMERGE, APPEAR	Basic actions and technology	To become known or apparent.	Verb	-
 1510960	fan	-	FAN ACTION	Basic actions and technology	To blow air on (something) by means of a fan (hand-held, mechanical or electrical) or otherwise.	Verb	9791
@@ -417,9 +419,8 @@ OMEGAWIKI	FGLOSS	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 876531	saw	-	SAW	Basic actions and technology	A tool with a toothed blade used for cutting hard substances, in particular wood or metal.	Noun	9.48
 5807	scissors	-	SCISSORS	Basic actions and technology	A tool used for cutting thin material, consisting of two crossing blades attached at a pivot point in such a way that the blades slide across each other when the handles are closed.	Noun	9.24
 388881	sculptor	-	SCULPTOR	Basic actions and technology	a person who practices the art of sculpture.	Noun	9.82
-1503230	sharpen	-	SHARPEN A BOW	Basic actions and technology	To make sharp or sharper.	Verb	-
-1503230	a	-	SHARPEN A BOW	Basic actions and technology	To make sharp or sharper.	Verb	-
-1503230	bow	-	SHARPEN A BOW	Basic actions and technology	To make sharp or sharper.	Verb	-
+1503230	sharpen	-	SHARPEN SOMETHING	Basic actions and technology	To make sharp or sharper.	Verb	-
+1503230	something	-	SHARPEN SOMETHING	Basic actions and technology	To make sharp or sharper.	Verb	-
 1510945	shears	-	SHEARS	Basic actions and technology	A tool consisting of two blades with bevel edges, connected by a pivot, used for cutting cloth, or for removing the fleece from sheep etc	Noun	9.24
 3424	silver	-	SILVER	Basic actions and technology	A very ductile malleable brilliant greyish-white element with symbol Ar and atomic number 47 having the highest electrical and thermal conductivity of any metal.	Noun	9.65
 1542724	snapp	-	SNAPP OF STICK	Basic actions and technology	Quick breaking or cracking sound or the action of producing such a sound.	Verb	-
@@ -428,6 +429,10 @@ OMEGAWIKI	FGLOSS	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 6048	split	-	SPLIT	Basic actions and technology	To divide fully or partly along a more or less straight line.	Verb	9.27
 1083572	spread	-	SPREAD OUT	Basic actions and technology	To spread out or open from a closed or folded state.	Verb	9.34
 1083572	out	-	SPREAD OUT	Basic actions and technology	To spread out or open from a closed or folded state.	Verb	9.34
+355939	endure	-	ENDURE	Basic actions and technology	To allow (something that one dislikes or disagrees with) to continue to exist or occur without interference; accept or undergo, often unwillingly.	Verb	-
+1539269	get	-	GET LOST	Basic actions and technology	To end up in an unknown place, to be not to be found again, to get lost, to irrecoverably slip away.	Verb	-
+1539269	lost	-	GET LOST	Basic actions and technology	To end up in an unknown place, to be not to be found again, to get lost, to irrecoverably slip away.	Verb	-
+486067	accustom	-	ACCUSTOM	Basic actions and technology	Avoir l'habitude.	Verb	-
 6017	squeeze	441998;441891	SQUEEZE	Basic actions and technology	To apply pressure to something from two or more sides at once.	Verb	9343
 6045	stab	-	STAB	Basic actions and technology	To pierce or to wound with a pointed tool or weapon, especially a knife or dagger.	Verb	9223
 430779	statue	-	STATUE	Basic actions and technology	A three-dimension work of art, usually of a person or animal, usually created by sculpting, carving, moulding, or casting.	Noun	9.83
@@ -564,7 +569,8 @@ OMEGAWIKI	FGLOSS	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 5568	no	5576	NO	Cognition	A word used to show disagreement of something.	Function word	17.56
 7140	obscure	-	OBSCURE	Cognition	Known vaguely or incompletely, if at all.	Adjective	17.35
 433943	or	-	OR	Cognition	[Conjunction that indicates an alternative.]	Function word	17.54
-341470	pupil	353776	PUPIL	Cognition	A student under the supervision of a teacher or professor.	Noun	17.26
+341470	pupil	353776	PUPIL, STUDENT	Cognition	A student under the supervision of a teacher or professor.	Noun	17.26
+341470	student	353776	PUPIL, STUDENT	Cognition	A student under the supervision of a teacher or professor.	Noun	17.26
 335793	remember	-	REMEMBER	Cognition	To recall from memory.	Verb	17.31
 3320	school	7490	SCHOOL	Cognition	An institution or building at which children and young people receive education.	Noun	17.28
 486825	secret	-	SECRET	Cognition	Being or kept hidden from public perception.	Adjective	17.36
@@ -694,10 +700,10 @@ OMEGAWIKI	FGLOSS	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1505807	dough	-	DOUGH	Food and drink	A mixture of flour and water ready to be baked into bread, pastry etc.	Noun	5.53
 1166811	draw	-	DRAW MILK	Food and drink	To draw milk from (a mammal, especially a cow).	Verb	5.87
 1166811	milk	-	DRAW MILK	Food and drink	To draw milk from (a mammal, especially a cow).	Verb	5.87
-5991	drink	-	DRINK ACTION	Food and drink	To consume a liquid through the mouth.	Verb	5.13
-5991	action	-	DRINK ACTION	Food and drink	To consume a liquid through the mouth.	Verb	5.13
-339	drink	-	DRINK OBJECT	Food and drink	Any one of various liquids for drinking.	Noun	5.9
-339	object	-	DRINK OBJECT	Food and drink	Any one of various liquids for drinking.	Noun	5.9
+5991	drink	-	DRINK, ACTION	Food and drink	To consume a liquid through the mouth.	Verb	5.13
+5991	action	-	DRINK, ACTION	Food and drink	To consume a liquid through the mouth.	Verb	5.13
+339	drink	-	DRINK, OBJECT	Food and drink	Any one of various liquids for drinking.	Noun	5.9
+339	object	-	DRINK, OBJECT	Food and drink	Any one of various liquids for drinking.	Noun	5.9
 5827	eat	6596	EAT	Food and drink	To consume something solid or semi-solid (usually food) by putting it into the mouth and eventually swallowing it.	Verb	5.11
 340828	egg	-	EGG	Food and drink	Egg (either fertilized or not) from domesticated birds, most commonly hens, seen as food.	Noun	5.97
 1407	famine	-	FAMINE	Food and drink	A severe shortage of food, as through crop failure or over population. It may be due to poor harvests following drought, floods, earthquake, war, social conflict, etc.	Noun	5141
@@ -727,8 +733,8 @@ OMEGAWIKI	FGLOSS	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 403676	mead	-	MEAD	Food and drink	Wine made of honey.	Noun	5.91
 6332	meal	-	MEAL	Food and drink	Food that is prepared and eaten, usually at a specific time.	Noun	5.41
 2300	meat	-	MEAT	Food and drink	The edible flesh of animals, especially that of mammals.	Noun	5.61
-2358	milk	-	MILK FLUID	Food and drink	The whitish fluid secreted by the mammary gland for the nourishment of the young; composed of carbohydrates, proteins, fats, mineral salts, vitamins, and antibodies.	Noun	5.86
-2358	fluid	-	MILK FLUID	Food and drink	The whitish fluid secreted by the mammary gland for the nourishment of the young; composed of carbohydrates, proteins, fats, mineral salts, vitamins, and antibodies.	Noun	5.86
+2358	milk	-	MILK, FLUID	Food and drink	The whitish fluid secreted by the mammary gland for the nourishment of the young; composed of carbohydrates, proteins, fats, mineral salts, vitamins, and antibodies.	Noun	5.86
+2358	fluid	-	MILK, FLUID	Food and drink	The whitish fluid secreted by the mammary gland for the nourishment of the young; composed of carbohydrates, proteins, fats, mineral salts, vitamins, and antibodies.	Noun	5.86
 2359	mill	-	MILL	Food and drink	A building where grain is crushed into flour.	Noun	5.57
 1454028	mortar	-	MORTAR CRUSHER	Food and drink	A bowl used to crush and grind ingredients with a pestle.	Noun	5.58
 1454028	crusher	-	MORTAR CRUSHER	Food and drink	A bowl used to crush and grind ingredients with a pestle.	Noun	5.58
@@ -2036,7 +2042,7 @@ OMEGAWIKI	FGLOSS	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 4128	weapons	-	WEAPONS	Warfare and hunting	An instrument of attack or defense in combat, as a gun, missile, or sword.	Noun	20.21
 734724	banana	-	BANANA TREE	Agriculture and vegetation	The tropical treelike plant which bears clusters of bananas. The plant, of the genus Musa, has large, elongated leaves.	Noun	-
 734724	tree	-	BANANA TREE	Agriculture and vegetation	The tropical treelike plant which bears clusters of bananas. The plant, of the genus Musa, has large, elongated leaves.	Noun	-
-1188869	sated	-	SATED	Food and drink	Having eaten enough.	Adjective	-
+1188869	satiated	-	SATIATED	Food and drink	Having eaten enough.	Adjective	-
 1230099	bewitch	-	BEWITCH	Religion and belief	To cast a spell on someone or something.	Verb	-
 707432	bladder	-	BLADDER	The body	A hollow muscular balloon-shaped organ that stores urine until it is excreted from the body.	Noun	-
 1064345	dispel	-	DISPEL	Motion	Force to go away.	Verb	-
@@ -2070,4 +2076,11 @@ OMEGAWIKI	FGLOSS	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 5781	apple	-	APPLE	Agriculture and vegetation	The popular, crisp, round fruit of the apple tree, usually with red, yellow or green skin, light-coloured flesh and pips inside.	Noun	-
 903188	bombardement	-	BOMBARDEMENT	Modern world	An attack with bombs.	Noun	-
 1571	frost	-	FROST	The physical world	A deposit of interlocking ice crystals formed by direct sublimation on objects.	Noun	-
+706556	traverse	-	TRAVERSE	Basic actions and technology	To go beyond, to pass here.	Verb	-
+5619	obese	-	OBESE	Spatial relations	Carrying a larger-than-normal amount of fat or weight.	Adjective	-
+6804	watch	-	WATCH	Basic actions and technology	To have one's eyes, one's attention on something or someone.	Verb	-
+1462871	move	-	MOVE AWAY	Basic actions and technology	To change one's domicile or place of business.	Verb	-
+1462871	away	-	MOVE AWAY	Basic actions and technology	To change one's domicile or place of business.	Verb	-
+337925	old	-	OLD PERSON	Kinship	An older person (usually considered to be above the age of 60).	Noun	-
+337925	person	-	OLD PERSON	Kinship	An older person (usually considered to be above the age of 60).	Noun	-
 1746	heat		HEAT	The physical world	A form of energy that is transferred by a difference in temperature: it is equal to the total kinetic energy of the atoms or molecules of a system.	Noun	-
