@@ -35,6 +35,9 @@ function showData()
     if(key != 'header')
     {
       var gloss = csv2[key]['gloss'].toLowerCase();
+      /* add this for comparison with starred forms */
+      gloss = gloss.replace(/[\*—\+]/g,'');
+      gloss = gloss.replace(/-/g,'/');
       if(gloss in glossesA)
       {
         var textf = ''; //'\t'+key+'\t'+gloss;
