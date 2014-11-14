@@ -76,33 +76,28 @@ a:visited { color: #0f0f0f; }
   border-top: 2px solid Crimson;
   text-align: center;
   font-weight: bold;
-
+  display: flex;
+  flex-direction: row;
+  flex-wrap: no-wrap;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
 }
 
 .site-footer a {color: white;}
 .site-footer a:hover {color: Crimson; text-decoration: none;}
 .site-footer .column {}
 
+.footer-col {
+  color: White;
+  font-weight: bold;
+}
+
 .footer-col-1 {
   width: 20%;
   color: white;
   float: left;
   text-align: left;
-}
-.footer-col-2 {
-  width: 55%; //175px; /*fallback*/
-  margin-right: 10px;
-  float: left;
-  left: 0;
-  right: 0;
-  color: white;
-}
-.footer-col-3 {
-  text-align: right;
-  width: 20%;
-  color: white;
-  text-align: right;
-  float: right;
 }
 
 .github-icon-svg,
@@ -324,9 +319,29 @@ a:visited { color: #0f0f0f; }
   }
 
   #content {width: 90%; margin: 20px;padding:20px;}
-  .footer-col-1 {padding: 3px;text-align: justify;width: 100%; float: left!important;}
-  .footer-col-2 {padding: 3px;text-align: justify;width: 100%; float: left!important;}
-  .footer-col-3 {padding: 3px;text-align: justify;width: 100%; float: left!important;}
+
+  .site-footer {
+    padding: 5px;
+    background-color: DarkBlue;
+    border-top: 2px solid Crimson;
+    text-align: center;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-content: flex-start
+    align-items: center;
+    width: 100%;
+    font-size: 10px;
+  }
+  .footer-col {
+    align-self: flex-start;
+  }
+  .footer-col p {
+    text-align: left;
+  }
+
 }
 
 .navbar-nav li {
