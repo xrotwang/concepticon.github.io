@@ -79,6 +79,7 @@ OMEGAWIKI	FGLOSS	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1132622	brackish	-	BRACKISH	Sense perception	(Of water) Salty or slightly salty, as a mixture of fresh and sea water.	Adjective	15.39
 1139186	by	-	BY HEART	Cognition	Completely and faithfully, refering to something that has been learnt and memorized.	Function word	-
 1139186	heart	-	BY HEART	Cognition	Completely and faithfully, refering to something that has been learnt and memorized.	Function word	-
+828398	claw	-	CLAW	Animals	A curved pointed appendage, found at the end of a toe or finger or, in arthropods, of the tarsus.	Noun	-
 1142217	beak	-	BEAK	The body	External anatomical structure of birds which is used for taking food and for eating.	Noun	4.241
 1143662	puppy	-	PUPPY	Animals	A young dog.	Noun	-
 1146047	disgrace	-	DISGRACE	Social and political relations	To make a person morally inferior.	Verb	-
@@ -644,7 +645,8 @@ OMEGAWIKI	FGLOSS	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 157304	melon	-	MELON	Agriculture and vegetation	A fruit of any of the species from the family Cucurbitaceae that has relatively hard inedible shells and plenty of sweet flesh. The fruits may vary in size but is usually not smaller than one decimeter in diameter.	Noun	-
 1573566	period	-	PERIOD	Time	A length of time.	Noun	-
 157395	certain	-	CERTAIN	Cognition	Without any doubt or possibility of deviation.	Adjective	17.37
-1575935	strong	-	STRONG	Sense perception	Having a strong physiological or chemical effect.	Adjective	-
+1575935	strong	-	STRONG EFFECT	Sense perception	Having a strong physiological or chemical effect.	Adjective	-
+1575935	effect	-	STRONG EFFECT	Sense perception	Having a strong physiological or chemical effect.	Adjective	-
 1577338	baozi	-	BAOZI	Food and drink	A baozi or simply known as bao, bau, humbow, nunu, bausak, pow or pau is a type of steamed, filled bun or bread-like (i.e. made with yeast) item in various Chinese cuisines.	Noun	-
 1577362	see	-	SEE A DOCTOR	Motion	to see a doctor	Verb	-
 1577362	a	-	SEE A DOCTOR	Motion	to see a doctor	Verb	-
@@ -685,7 +687,7 @@ OMEGAWIKI	FGLOSS	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1581352	voice	-	LOW VOICE	Speech and language	Speaking quietly: to talk in a low voice.	Function word	-
 1581541	turbid	-	TURBID	The physical world	A fluid which is cloudy or hazy due to large numbers of individual particles that are generally invisible to the naked eye, similar to smoke in air.	Noun	-
 1581546	multitude	-	MULTITUDE	Quantity	A large number of something.	Noun	-
-1581551	nest	-	NEST	Animals	A nest is a structure built by vertebrates to hold its eggs, its offspring, or occasionally the animal itself and may be composed of organic material such as twigs, grass, and leaves, or may be a simple depression in the ground, or a hole in a rock, tree, or building.	Noun	-
+1581551	nest	-	NEST	Animals	A nest is a structure built by vertebrates to hold its eggs, its offspring, or occasionally the animal itself and may be composed of organic material such as twigs, grass, and leaves, or may be a simple depression in the ground, or a hole in a rock, tree, or building.	Noun	3.58
 1581560	palate	-	PALATE	The body	The palate is the roof of the mouth in humans and other mammals.	Noun	-
 1581589	poetry	-	POETRY	Speech and language	The class of literature comprising poems; a poet's literary production; composition in verse or language exhibiting conscious attention to patterns.	Noun	-
 1581601	scanty	-	SCANTY	Quantity	Somewhat less than is needed in amplitude or extent.	Adjective	-
@@ -1029,7 +1031,8 @@ OMEGAWIKI	FGLOSS	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 353553	sorcerer	-	SORCERER	Religion and belief	A person who practices magic or sorcery.	Noun	22.43
 353642	witch	-	WITCH	Religion and belief	A female person who uses magic.	Noun	22.43
 353802	awake	-	AWAKE	The body	Not sleeping.	Adjective	-
-353982	branch	-	BRANCH	The physical world	A separation of a river, a road, etcetera.	Noun	-
+353982	branch	-	BRANCH, BIFURCATION	The physical world	A separation of a river, a road, etcetera.	Noun	-
+353982	bifurcation	-	BRANCH, BIFURCATION	The physical world	A separation of a river, a road, etcetera.	Noun	-
 354681	roll	-	ROLL	Motion	To tip laterally.	Verb	10.15
 354847	raccoon	-	RACCOON	Animals	(Procyon lotor) An omnivorous nocturnal mammal native to North America and Central America.	Noun	3.866
 355194	rafter	-	RAFTER	The house	One of several parallel sloping beams that extend from the ridge to the wall-plate, to support the roof and its associated loads; the sloping top member of a roof truss, which carries the purlins.	Noun	7.54
@@ -1050,6 +1053,8 @@ OMEGAWIKI	FGLOSS	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 3588	spider	-	SPIDER	Animals	Any predatory silk-producing arachnid of the order Araneae, having four pairs of legs and a rounded unsegmented body consisting of abdomen and cephalothorax.	Noun	3.818
 359363	kind	-	KIND	Cognition	A category of things distinguished by a common characteristic or quality.	Noun	-
 359371	murder	-	MURDER	Law	The intentional or premeditated killing of another person.	Noun	21.42
+8437	tiger	-	TIGER	Animals	A large carnivorous animal (Panthera tigris) of the cat family indigenous to Asia.	Noun	-
+359725	thirsty	-	THIRSTY	Food and drink	Feeling the need to drink.	Adjective	-
 359542	thirst	-	THIRST	Food and drink	A physiological need to drink.	Noun	-
 3596	spring	-	SPRING OF WATER	The physical world	A place where ground water flows naturally from a rock or the soil onto the land surface or into a body of surface water.	Noun	1.37
 3596	of	-	SPRING OF WATER	The physical world	A place where ground water flows naturally from a rock or the soil onto the land surface or into a body of surface water.	Noun	1.37
@@ -1321,7 +1326,7 @@ OMEGAWIKI	FGLOSS	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 474203	conceive	-	CONCEIVE	The body	To become pregnant.	Verb	4.732
 474485	sink	-	SINK, DESCEND	Motion	To cause a boat to go down in the water.	Verb	10.33
 474485	descend	-	SINK, DESCEND	Motion	To cause a boat to go down in the water.	Verb	10.33
-474721	ash	-	ASH	Agriculture and vegetation	Any of the trees belonging to the genus Fraxinus.	Noun	-
+474721	fraxinus	-	FRAXINUS	Agriculture and vegetation	Any of the trees belonging to the genus Fraxinus.	Noun	-
 474983	be	-	BE BORN	The body	To start living.	Verb	4.72
 474983	born	-	BE BORN	The body	To start living.	Verb	4.72
 475116	salty	1384111	SALTY	Sense perception	Containing salt.	Adjective	15.36
@@ -1458,7 +1463,7 @@ OMEGAWIKI	FGLOSS	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 5438	long	-	LONG	Spatial relations	Having much distance from one terminating point on an object or an area to another terminating point.	Adjective	12.57
 5439	bark	-	BARK	Agriculture and vegetation	The exterior covering of the trunk and branches of a tree.	Noun	8.75
 5440	tongue	-	TONGUE	The body	The flexible muscular organ in the mouth that is used to move food around, for tasting and that is moved into various positions to modify the flow of air from the lungs in order to produce different sounds.	Noun	4.26
-5444	bark	-	BARK	Animals	To produce a loud, short, explosive sound similar to that of a dog.	Verb	-
+5444	barking	-	BARKING	Animals	To produce a loud, short, explosive sound similar to that of a dog.	Verb	-
 5445	young	-	YOUNG	Time	In the early part of growth or life.	Adjective	14.14
 5446	cat	-	CAT	Animals	A common four-legged animal (Felis silvestris) that is often kept as a household pet.	Noun	3.62
 5450	i	-	I	Kinship	The speaker or writer referring to himself or herself alone.	Function word	2.91
@@ -1726,8 +1731,10 @@ OMEGAWIKI	FGLOSS	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 6052	air	-	FLY, MOVE THROUGH AIR	Motion	To move autonomously through the air, without any part of the object or object's enclosure touching anything attached to the ground.	Verb	10.37
 6053	stand	-	STAND	Spatial relations	To be upright in an erect position, supported by the feet.	Verb	12.15
 6054	walk	-	WALK	Motion	To move from one place to another by moving legs alternately, so that at least one foot is in contact with the floor or surface at any one time.	Verb	10.45
-6055	turn	-	TURN AROUND	Motion	To position by moving an object around its axis.	Verb	10.13
-6055	around	-	TURN AROUND	Motion	To position by moving an object around its axis.	Verb	10.13
+1584109	turn	6055,6526	TURN AROUND	Motion	Change one's direction.	Verb	10.13
+1584109	around	6055,6526	TURN AROUND	Motion	Change one's direction.	Verb	10.13
+6055	turn	1584109,6526	TURN SOMETHING	Motion	To position by moving an object around its axis.	Verb	-
+6055	something	1584109,6526	TURN SOMETHING	Motion	To position by moving an object around its axis.	Verb	-
 6056	come	5965	COME	Motion	To move toward or to reach either the speaker, the person spoken to, or the subject of the speaker's narrative.	Verb	10.48
 6059	give	-	GIVE	Possession	To transfer the possession or holding (of an object) to another person.	Verb	11.21
 6060	hold	-	HOLD	Possession	To grasp or grip (particularly with the hand) so that the object does not end up at the surface below.	Verb	11.15
@@ -1881,7 +1888,7 @@ OMEGAWIKI	FGLOSS	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 6520	perceive	-	SMELL, PERCEIVE	Sense perception	To perceive the presence of molecules in the air by inhaling them through the nose.	Verb	15.22
 6521	smell	-	SMELL, STINK	Sense perception	To give off a smell that can be perceived by the nose.	Verb	15.21
 6521	stink	-	SMELL, STINK	Sense perception	To give off a smell that can be perceived by the nose.	Verb	15.21
-6526	turn	6055	TURN	Motion	To change direction of movement.	Verb	10.12
+6526	turn	6055,1584109	TURN	Motion	To change direction of movement.	Verb	10.12
 652702	hummingbird	-	HUMMINGBIRD	Animals	A small bird in the family Trochilidae.	Noun	-
 6530	wait	-	WAIT FOR	Motion	To refrain from acting or moving for some duration or until some event occurs.	Verb	-
 6530	for	-	WAIT FOR	Motion	To refrain from acting or moving for some duration or until some event occurs.	Verb	-
@@ -2074,7 +2081,9 @@ OMEGAWIKI	FGLOSS	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 7131	brother	-	YOUNGER BROTHER	Kinship	A male with fewer years of age than one or more of his siblings.	Noun	2.445
 7132	younger	-	YOUNGER SISTER	Kinship	A female who is younger than one or more of her siblings.	Noun	2.455
 7132	sister	-	YOUNGER SISTER	Kinship	A female who is younger than one or more of her siblings.	Noun	2.455
-7135	stone	-	STONE	Food and drink	The wooden shell found inside some fruits, particularly drupes, that surrounds the seed.	Noun	-
+7135	stone	-	STONE OF FRUIT	Food and drink	The wooden shell found inside some fruits, particularly drupes, that surrounds the seed.	Noun	-
+7135	of	-	STONE OF FRUIT	Food and drink	The wooden shell found inside some fruits, particularly drupes, that surrounds the seed.	Noun	-
+7135	fruit	-	STONE OF FRUIT	Food and drink	The wooden shell found inside some fruits, particularly drupes, that surrounds the seed.	Noun	-
 713958	club	-	CLUB	Warfare and hunting	A short heavy club with a rounded head used as a weapon.	Noun	20.22
 7140	obscure	-	OBSCURE	Cognition	Known vaguely or incompletely, if at all.	Adjective	17.35
 714063	in	-	IN VAIN	Miscellaneous function words	Without success, without the desired effect.	Function word	-
@@ -2332,7 +2341,6 @@ OMEGAWIKI	FGLOSS	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 955936	get	7117	GET TIRED	The body	To become tired through overuse or great strain or stress.	Verb	-
 955936	tired	7117	GET TIRED	The body	To become tired through overuse or great strain or stress.	Verb	-
 956366	preserve	5818	PRESERVE	Possession	To protect; to keep; to maintain the condition of.	Verb	11.24
-957309	nest	-	NEST	Animals	To build or settle into a nest.	Noun	3.58
 957698	command	-	COMMAND	Social and political relations	That which is enjoined or ordered to one or several persons by a superior authority.	Verb	19.45
 958583	overcome	-	OVERCOME	Motion	To surmount a physical or an abstract obstacle.	Verb	-
 958791	clove	-	CLOVE	Agriculture and vegetation	The aromatic flower bud of a clove tree, used as a spice.	Noun	-
